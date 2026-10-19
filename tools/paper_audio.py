@@ -191,7 +191,7 @@ def main():
     import soundfile as sf
     sf.write(wav, np.concatenate(pieces), sr)
     m4a = os.path.join(a.out, f"{date}.mp4")
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", wav, "-ac", "1", "-c:a", "aac", "-b:a", "56k",
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", wav, "-ac", "1", "-c:a", "aac", "-ar", "24000", "-b:a", "32k",
                     "-movflags", "+faststart", m4a], check=True)
     os.remove(wav)
     json.dump({"date": date, "voice": a.voice, "duration": round(t, 1), "chapters": chapters},
