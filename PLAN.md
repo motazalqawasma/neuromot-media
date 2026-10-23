@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-10-19 (analysis 1: ASDH, INTERACT3, Boston v2.0)
+Last updated: 2026-10-23 (v3 style approved by Motaz)
 
 ## Fixed rules (never change these)
 
@@ -17,7 +17,9 @@ Last updated: 2026-10-19 (analysis 1: ASDH, INTERACT3, Boston v2.0)
 1. **Hook in the first 2 seconds.** Open on the most surprising number or a yes/no question, big on screen and spoken first. Example: "Surgery rates: 0% vs 86%. Same outcome." No logo intro and no slow build-up.
 2. **Length: about 40–50 seconds** (roughly 110–130 spoken words, 6 scenes: hook, what they did, result, second result, the catch, takeaway + question). Most viewers leave before 7 seconds, so shorter is better.
 3. **End with a question that invites a comment.** Example: "Would you operate? Comment 1 for yes, 2 for wait." Then "Follow for one neuro paper a day."
-4. **Little text, more motion graphics.** Number reveals, dot grids, gauges and drawn diagrams. The Boston v2.0 style (Remotion + Motaz's voice) is the reference.
+4. **v3 style (approved by Motaz on 2026-10-22, see template/README.md).** Dr. Mot (cartoon stick doctor = Motaz) with smooth poses; eased zoom in/out; real 3D object (Three.js) in the hook; 3D motion graphics (page fly-ins, card flips, extruded titles, parallax particles); real journal page screenshots with red boxes + note pills (open-access/CC BY papers only; paywalled = title/authors block only); burned-in word-by-word captions with yellow key words; sound effects only (whoosh/pop/click/swipe) — NO music, no instruments (Motaz's rule); loop ending (last line "because the real question is…" fades into the cover); "NEURO PAPER #N" badge; light human jokes (med-student life, everyday, memes), script must sound 100% human.
+4b. **Cover = Canva** (9:16 only, AI 3D hero image + big 2-line headline + key number box + NEURO PAPER #N + #NeuroMot, text out of the bottom 20%). The same cover is the video's first frame and the loop's last frame.
+4c. **Carousel** (6 slides, 4:5, Canva) of the same paper posted at 18:00 on Instagram + Facebook + TikTok (photo mode, no music). Real numbers only — never invented curves/funnels.
 5. **Publish at 12:00 noon (Asia/Hebron).** Late-night posts (9–11 PM) did worst.
 6. **Caption:** first line = the hook question; keep the key numbers short; hashtags start with #NeuroMot (5–9 in total).
 
@@ -30,6 +32,10 @@ Last updated: 2026-10-19 (analysis 1: ASDH, INTERACT3, Boston v2.0)
 - Facebook reels reach non-followers: Boston got 124 views with a 0-follower Page. ASDH, posted at 11:31 PM, got only 1 view.
 - YouTube Shorts: about 9 views in total so far. The channel is new, and YouTube counts views late.
 - Engagement is almost zero (about 5 likes, 1 save, 0 comments). The videos need a call to action.
+
+## Series counter
+
+- Next NEURO PAPER number: 6 (increase by 1 after every published paper video).
 
 ## Ideas to test next
 
