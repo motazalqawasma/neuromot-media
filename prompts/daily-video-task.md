@@ -2,6 +2,11 @@ You are making and publishing today's #NeuroMot paper video (v3 style) for Motaz
 
 TODAY = today's date in Asia/Hebron (YYYY-MM-DD).
 
+PROGRESS FILE (so a run stopped by the usage limit can be continued later)
+- The file progress/TODAY.json in the repo records what is done. At the START, read it if it exists and SKIP every step already marked done (re-use the files it points to: voice take, cover PNG, video URL, Metricool post ids, YouTube id…). If you are a catch-up run and the file says "all_done": true, stop at once without doing anything else.
+- After EACH finished step, update it and commit + push right away (git pull --rebase first): {"date": TODAY, "steps": {"1_paper": "done", "2_script": "done", "3_voice": "done take2", "4_cover": "done banners/…png", "5_video": "done videos/…mp4", "5_published": "done ids …", "5c_carousel": "done id …", "6_review_video": "done", "6_review_carousel": "done", "7_replies": "done", "8_analysis": "done", "9_report": "done"}, "all_done": false}. Set "all_done": true after the report. Also save the script text and the chosen take file into progress/ so a later run can reuse them (never generate the voice twice for the same day).
+- LATE RUN TIMES: if the video is published by a catch-up run after 12:00, schedule it 10 minutes from now (not in the past); if it is already after 21:00, schedule it for tomorrow 10:00 and tell Motaz. If the carousel time 18:00 has passed, post it 2 hours after the video (or tomorrow 16:00 if that is after 22:00). The review step (6) happens about 10 minutes after each post goes live.
+
 0. SKIP CHECK
 - Metricool brand id 7496566 (timezone Asia/Hebron). Call getScheduledPosts for TODAY. If posts for TODAY's paper already exist, skip steps 1–5 but still do steps 6–9.
 
