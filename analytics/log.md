@@ -6,7 +6,7 @@ One section per daily analysis. Newest at the top. Views are as seen at the time
 
 | Video | Posted | YouTube | TikTok | Instagram | Facebook | Total |
 |---|---|---|---|---|---|---|
-| AneurysmAI (v3 style, Paper #5) | 23 Oct 12:00 | too new | too new | too new | too new | — |
+| AneurysmAI (v3 style, Paper #5) | moved to Sun 25 Oct 12:00 | not posted yet | | | | — |
 | SELECT2 (own voice, 62 s) | 20 Oct 22:25 | 1 | 386 | 134 | 219 | 740 |
 | Boston v2.0 (72 s) | 19 Oct 12:00 | 6 | 90 | 129 | 152 | 377 |
 | INTERACT3 (78 s) | 18 Oct | 1 | 0 | 98 | 48 | 147 |
@@ -23,7 +23,7 @@ Findings:
 4. YouTube Shorts stays near zero (1–8 views each).
 5. No videos on 21–22 Oct; today's AneurysmAI is the first v3-style video.
 
-Plan changes: none to the Current plan (v3 style is brand new; wait for its numbers). Added one test: compare TikTok views of the noon AneurysmAI post with the late SELECT2 post at 48 h.
+Plan changes: none to the Current plan (v3 style is brand new; wait for its numbers). Added one test: compare TikTok views of the noon AneurysmAI post (now Sun 25 Oct) with the late SELECT2 post at 48 h.
 
 ## 2026-10-19 (23:30)
 
