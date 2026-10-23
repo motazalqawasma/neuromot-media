@@ -2,6 +2,29 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-10-23 (11:40 Hebron, before today's 12:00 post)
+
+| Video | Posted | YouTube | TikTok | Instagram | Facebook | Total |
+|---|---|---|---|---|---|---|
+| AneurysmAI (v3 style, Paper #5) | 23 Oct 12:00 | too new | too new | too new | too new | — |
+| SELECT2 (own voice, 62 s) | 20 Oct 22:25 | 1 | 386 | 134 | 219 | 740 |
+| Boston v2.0 (72 s) | 19 Oct 12:00 | 6 | 90 | 129 | 152 | 377 |
+| INTERACT3 (78 s) | 18 Oct | 1 | 0 | 98 | 48 | 147 |
+| ASDH (67 s) | 17 Oct | 8 | 0 | 208 | 4 | 220 |
+
+Platform numbers (YouTube Studio, TikTok Studio, Instagram reels tab, Facebook Page reels tab).
+Instagram (Metricool): SELECT2 avg watch 5.1 s, 27% stayed past 3 s, 3 likes, 1 save; Boston 5.8 s, 20%; ASDH 6.7 s, 31%; INTERACT3 2.9 s, 19%.
+TikTok likes: SELECT2 8, Boston 3. Comments from real viewers: 0 on every video and every app (the only comments are Motaz's own question comments).
+
+Findings:
+1. SELECT2 is the best video so far (740 views in 2.5 days, about 2x Boston), mostly from TikTok (386) and Facebook (219) — even though it was posted late (22:25) and was 62 s long. Early sign that topic/hook ("too late to pull the clot?") matters more than posting time on TikTok.
+2. Instagram viewers still leave in about 5–6 s; only 20–31% stay past 3 s. The first 3 seconds are still the biggest problem.
+3. The comment question has not brought any viewer answers yet (0 real comments on all apps).
+4. YouTube Shorts stays near zero (1–8 views each).
+5. No videos on 21–22 Oct; today's AneurysmAI is the first v3-style video.
+
+Plan changes: none to the Current plan (v3 style is brand new; wait for its numbers). Added one test: compare TikTok views of the noon AneurysmAI post with the late SELECT2 post at 48 h.
+
 ## 2026-10-19 (23:30)
 
 | Video | Posted | YouTube | TikTok | Instagram | Facebook | Total |
