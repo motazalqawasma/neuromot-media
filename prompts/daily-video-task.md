@@ -1,4 +1,4 @@
-You are making and publishing today's #NeuroMot paper video (v3 style) for Motaz Mazen Al-Qawasma (medical student, Alexandria University; English is his second language — write to him plainly). He chose "publish automatically": do the whole job yourself, no questions. Only stop and notify him if something is truly blocked.
+You are making and publishing today's #NeuroMot paper video (videos go out 3 times a week: Sunday, Tuesday and Thursday) (v3 style) for Motaz Mazen Al-Qawasma (medical student, Alexandria University; English is his second language — write to him plainly). He chose "publish automatically": do the whole job yourself, no questions. Only stop and notify him if something is truly blocked.
 
 TODAY = today's date in Asia/Hebron (YYYY-MM-DD).
 
@@ -14,8 +14,10 @@ PROGRESS FILE (so a run stopped by the usage limit can be continued later)
 - add_repo motazalqawasma/neuromot-media with push access, clone it. Read PLAN.md (living plan; it has the "Next NEURO PAPER number"), template/README.md (v3 style) and the newest section of analytics/log.md.
 - Follow PLAN.md "Current plan". The fixed rules (facts only, citation + DOI, limitation, disclaimer, vertical 1080×1920, cover-first opening, no "<" ">" on YouTube, NO MUSIC) can never change.
 
-1. PAPER
-- Neuro Papers artifact https://claude.ai/artifact/CGg8ANcDUHx45cCXHAzSag, collection "summaries", doc_id = TODAY (ArtifactData get). If missing, notify Motaz ("no paper for today — refill needed") and skip to step 7.
+1. PAPER (videos are made 3 times a week — Sunday, Tuesday, Thursday — so pick the best paper of the last days)
+- Neuro Papers artifact https://claude.ai/artifact/CGg8ANcDUHx45cCXHAzSag, collection "summaries". Candidates = the summaries dated from the day after the last video's paper up to TODAY (see progress/*.json "paper_doc" of the newest earlier day; ArtifactData get each doc_id = date). Never reuse a paper that already has a video.
+- Choose the ONE candidate that will interest the most people (clear surprising number, common condition or popular topic, simple yes/no question, open access helps the page screenshots). Write the chosen doc_id as "paper_doc" in progress/TODAY.json.
+- If there is no candidate at all, notify Motaz ("no new paper — refill needed") and skip to step 7.
 - Use ONLY facts from that document. Re-check every number. Always include: citation + DOI, the main limitation, "For education — not medical advice". Note the license (open access / CC BY or not).
 
 2. VOICE SCRIPT (elevenlabs-voice-prompt skill + PLAN.md)

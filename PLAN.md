@@ -20,7 +20,7 @@ Last updated: 2026-10-23 (daily analysis; v3 style approved by Motaz)
 4. **v3 style (approved by Motaz on 2026-10-22, see template/README.md).** Dr. Mot (cartoon stick doctor = Motaz) with smooth poses; eased zoom in/out; real 3D object (Three.js) in the hook; 3D motion graphics (page fly-ins, card flips, extruded titles, parallax particles); real journal page screenshots with red boxes + note pills (open-access/CC BY papers only; paywalled = title/authors block only); burned-in word-by-word captions with yellow key words; sound effects only (whoosh/pop/click/swipe) — NO music, no instruments (Motaz's rule); loop ending (last line "because the real question is…" fades into the cover); "NEURO PAPER #N" badge; light human jokes (med-student life, everyday, memes), script must sound 100% human.
 4b. **Cover = Canva** (9:16 only, AI 3D hero image + big 2-line headline + key number box + NEURO PAPER #N + #NeuroMot, text out of the bottom 20%). The same cover is the video's first frame and the loop's last frame.
 4c. **Carousel** (6 slides, 4:5, Canva) of the same paper posted at 18:00 on Instagram + Facebook + TikTok (photo mode, no music). Real numbers only — never invented curves/funnels.
-5. **Publish at 12:00 noon (Asia/Hebron).** Late-night posts (9–11 PM) did worst.
+5. **3 videos a week (Motaz, 2026-10-23): Sunday, Tuesday, Thursday at 12:00 noon (Asia/Hebron)**, each from the most interesting paper of the days since the last video; carousel the same day at 18:00. Late-night posts (9–11 PM) did worst.
 6. **Caption:** first line = the hook question; keep the key numbers short; hashtags start with #NeuroMot (5–9 in total).
 
 ## What the data has shown so far
