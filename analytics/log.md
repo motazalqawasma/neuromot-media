@@ -2,6 +2,27 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-10-24 (Saturday, 14:40 Hebron — no video today: videos are Sun/Tue/Thu)
+
+| Video | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 23 Oct |
+|---|---|---|---|---|---|---|---|
+| AneurysmAI (v3, Paper #5) | Sun 25 Oct 12:00 (scheduled) | — | — | — | — | too new | — |
+| SELECT2 (own voice, 62 s) | 20 Oct 22:25 | 1 | 429 | 134 | 222 | 786 | +46 |
+| Boston v2.0 (72 s) | 19 Oct 12:00 | 11 | 94 | 130 | 154 | 389 | +12 |
+| INTERACT3 (78 s) | 18 Oct | 1 | 0 | 100 | 50 | 151 | +4 |
+| ASDH (67 s) | 17 Oct | 8 | 0 | 210 | 5 | 223 | +3 |
+
+Platform numbers (YouTube Studio, TikTok Studio, Instagram reels tab, Facebook Page reels tab). Instagram (Metricool, unchanged): SELECT2 avg watch 5.1 s, 27% past 3 s; Boston 5.8 s, 20%; INTERACT3 3.0 s, 20%; ASDH 6.7 s, 31%. TikTok likes: SELECT2 8, Boston 3.
+Comments from real viewers: still 0 on all 4 apps (only Motaz's own question comments). No replies needed.
+
+Findings:
+1. Old videos have almost stopped growing: in the last 24 h all 4 videos together gained only ~65 views, and 43 of them were SELECT2 on TikTok. After about 3 days a video is mostly "done" on Instagram, Facebook and YouTube.
+2. TikTok is the only app where a video keeps growing after day 3 (SELECT2 386 → 429).
+3. With no new video since 20 Oct, total daily views dropped a lot. Early sign that the 3-videos-a-week plan will have quiet days; carousels and the Sunday video should fill the gap.
+4. Still 0 real comments after 4 videos.
+
+Plan changes: none (AneurysmAI, the first v3-style video, goes out tomorrow; wait for its numbers).
+
 ## 2026-10-23 (11:40 Hebron, before today's 12:00 post)
 
 | Video | Posted | YouTube | TikTok | Instagram | Facebook | Total |
