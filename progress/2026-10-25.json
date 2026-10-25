@@ -1,1 +1,20 @@
-{"date": "2026-10-25", "paper_doc": "2026-10-22", "video": "Neuro Paper #5 — aneurysm AI (Fujimura, JAMA Netw Open 2025), made 2026-10-23, moved to Sunday by Motaz", "steps": {"1_paper": "done 2026-10-22", "2_script": "done", "3_voice": "done v3 take 2", "4_cover": "done banners/2026-10-23-AneurysmAI-cover-9x16.png", "5_video": "done videos/2026-10-23-AneurysmAI.mp4", "5_published": "done — scheduled 12:00 Metricool YouTube 403943568, IG/FB/TikTok 403943631 (do NOT make or schedule another video today)", "5c_carousel": "done — scheduled 18:00 Metricool 403943688", "6_review_video": "pending (12:08)", "6_review_carousel": "pending (18:08)", "7_replies": "pending", "8_analysis": "pending", "9_report": "pending"}, "all_done": false}
+{
+ "date": "2026-10-25",
+ "paper_doc": "2026-10-22",
+ "video": "Neuro Paper #5 — aneurysm AI (Fujimura, JAMA Netw Open 2025), made 2026-10-23, moved to Sunday by Motaz",
+ "steps": {
+  "1_paper": "done 2026-10-22",
+  "2_script": "done",
+  "3_voice": "done v3 take 2",
+  "4_cover": "done banners/2026-10-23-AneurysmAI-cover-9x16.png",
+  "5_video": "done videos/2026-10-23-AneurysmAI.mp4",
+  "5_published": "done 11:15 (moved earlier by Motaz) — YouTube https://www.youtube.com/shorts/o0yNPc0_W-0 ; Instagram https://www.instagram.com/reel/De6Xadvk4e1/ ; Facebook https://facebook.com/reel/29041194358867089 ; TikTok https://www.tiktok.com/@motaz.alqawasma/video/7700531116683447558",
+  "5c_carousel": "done — scheduled 18:00 Metricool 403943688",
+  "6_review_video": "done 11:30 in chat session (see analytics/checks.md)",
+  "6_review_carousel": "pending (18:08)",
+  "7_replies": "pending",
+  "8_analysis": "pending",
+  "9_report": "pending"
+ },
+ "all_done": false
+}
