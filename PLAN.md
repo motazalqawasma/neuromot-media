@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-10-24 (Saturday analysis, no video day)
+Last updated: 2026-10-25 (Sunday analysis, AneurysmAI day)
 
 ## Fixed rules (never change these)
 
@@ -33,7 +33,7 @@ Last updated: 2026-10-24 (Saturday analysis, no video day)
 - YouTube Shorts: about 9 views in total so far. The channel is new, and YouTube counts views late.
 - Engagement is almost zero (about 5 likes, 1 save, 0 comments). The videos need a call to action.
 - 2026-10-23: SELECT2 (posted 22:25, 62 s, own voice) is the top video: 740 views in 2.5 days (TikTok 386, Facebook 219). Early sign that the topic/hook matters more than the hour on TikTok. Still 0 real viewer comments; Instagram viewers leave after ~5–6 s.
-- 2026-10-24: videos stop growing after ~3 days on Instagram, Facebook and YouTube (all 4 old videos +65 views in 24 h); only TikTok keeps growing (SELECT2 386 → 429).
+- 2026-10-24/25: videos stop growing after ~3 days (all 4 old videos +65 then +19 views per day); only TikTok keeps a slow trickle (SELECT2 386 → 432). Still 0 real viewer comments after 5 videos.
 
 ## Series counter
 

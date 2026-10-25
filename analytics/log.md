@@ -2,6 +2,27 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-10-25 (Sunday, 11:45 Hebron — AneurysmAI went out at 11:15)
+
+| Video | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 24 Oct |
+|---|---|---|---|---|---|---|---|
+| AneurysmAI (v3, Paper #5, 53 s) | 25 Oct 11:15 | 4 | 17 | 0 | 4 | too new (25 in 30 min) | — |
+| SELECT2 (own voice, 62 s) | 20 Oct 22:25 | 1 | 432 | 136 | 227 | 796 | +10 |
+| Boston v2.0 (72 s) | 19 Oct 12:00 | 11 | 95 | 131 | 156 | 393 | +4 |
+| INTERACT3 (78 s) | 18 Oct | 1 | 0 | 101 | 51 | 153 | +2 |
+| ASDH (67 s) | 17 Oct | 8 | 0 | 212 | 6 | 226 | +3 |
+
+Platform numbers (YouTube Studio, TikTok Studio, Instagram reels tab, Facebook Page reels tab). Instagram (Metricool, unchanged): SELECT2 avg watch 5.0 s, 27% past 3 s; Boston 5.8 s, 21%; INTERACT3 3.0 s, 21%; ASDH 6.8 s, 32%.
+Comments from real viewers: still 0 on all 4 apps (only Motaz's own question comments). No replies needed.
+AneurysmAI like + question comment + YouTube cover were done at 11:30 in a chat session (see analytics/checks.md).
+
+Findings:
+1. Old videos are flat: all 4 together gained only ~19 views in 24 h (SELECT2 +10). After ~3 days they are "done".
+2. AneurysmAI (first v3-style video) got 17 TikTok views in its first 30 min — early, not comparable yet. Compare with SELECT2 at 48 h on Tuesday.
+3. 0 real comments after 5 videos. The comment question alone is not enough.
+
+Plan changes: none (wait for AneurysmAI 48 h numbers).
+
 ## 2026-10-24 (Saturday, 14:40 Hebron — no video today: videos are Sun/Tue/Thu)
 
 | Video | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 23 Oct |
