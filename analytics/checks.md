@@ -2,6 +2,15 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
+## 2026-10-27 — Donanemab (Paper #6) video, 12:10 check
+
+| App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |
+|---|---|---|---|---|---|---|---|
+| YouTube | ✅ PUBLISHED (Metricool) | ❌ not checked — computer offline | ❌ offline | ❌ offline | ❌ offline | ✅ text sent as written | — |
+| Instagram | ✅ PUBLISHED | ❌ offline (cover sent via Metricool) | ❌ offline | ❌ offline | ❌ offline | ✅ | 18:00 |
+| Facebook | ✅ PUBLISHED | ❌ offline (cover sent via Metricool) | ❌ offline | ❌ offline | ❌ offline | ✅ | 18:00 |
+| TikTok | ✅ PUBLISHED | video opens with cover frame | ❌ offline | ❌ offline | ❌ offline | ✅ | 18:00 |
+
 ## 2026-10-25 — carousel (published 18:00)
 
 | App | Live, 6 slides | Like | Question comment |
