@@ -1,6 +1,1 @@
-{
- "date": "2026-10-27",
- "run": "catch-up run started 10:59 (main run never started)",
- "steps": {},
- "all_done": false
-}
+{"date": "2026-10-27", "run": "catch-up run started 10:59 (main run never started)", "owner": "session_015n4N1nBENCB2DyPe4VY2gs (scheduled run 10:59) is doing steps 1-9 — another run: please stop and do not generate voice or posts", "paper_doc": "2026-10-23", "video": "Neuro Paper #6 — donanemab TRAILBLAZER-ALZ 2 (Sims, JAMA 2023)", "steps": {"1_paper": "done 2026-10-23", "2_script": "done progress/2026-10-27-script.txt"}, "all_done": false}
