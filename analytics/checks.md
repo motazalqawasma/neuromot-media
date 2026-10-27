@@ -2,14 +2,16 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
-## 2026-10-27 — Donanemab (Paper #6) video, 12:10 check
+## 2026-10-27 — Donanemab (Paper #6) video + carousel, review at 18:20
 
 | App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |
 |---|---|---|---|---|---|---|---|
-| YouTube | ✅ PUBLISHED (Metricool) | ❌ not checked — computer offline | ❌ offline | ❌ offline | ❌ offline | ✅ text sent as written | — |
-| Instagram | ✅ PUBLISHED | ❌ offline (cover sent via Metricool) | ❌ offline | ❌ offline | ❌ offline | ✅ | 18:00 |
-| Facebook | ✅ PUBLISHED | ❌ offline (cover sent via Metricool) | ❌ offline | ❌ offline | ❌ offline | ✅ | 18:00 |
-| TikTok | ✅ PUBLISHED | video opens with cover frame | ❌ offline | ❌ offline | ❌ offline | ✅ | 18:00 |
+| YouTube | ✅ public Short | ✅ Canva cover uploaded in Studio + saved | ✅ | ✅ | ✅ pinned | ✅ | — |
+| Instagram | ✅ reel | ✅ (Metricool cover) | ✅ (was already liked) | ✅ | no pin on web | ✅ | ✅ published, liked + comment |
+| Facebook | ✅ reel | ✅ (Metricool cover) | ✅ | ✅ (as Motaz) | no pin on web | ✅ | ✅ published, liked + comment |
+| TikTok | ✅ | video opens with cover frame | ✅ (already liked) | ❌ comment panel showed "Something went wrong" — skipped | — | ✅ | ✅ published (photo mode); like not done: 2 like buttons on page, unclear which — skipped to avoid un-liking |
+
+Note: 12:10 check was blocked because Motaz's computer was offline; done at 18:20 instead.
 
 ## 2026-10-25 — carousel (published 18:00)
 

@@ -14,9 +14,11 @@
   "5c_carousel": "done Canva DAHZMWfZFqo (1080x1440, 6 slides checked) scheduled 18:00 Metricool 407601604 uuid 5685550117517084892",
   "7_replies": "done 11:35 \u2014 0 new viewer comments on YouTube/TikTok/Instagram (Facebook re-checked at review)",
   "8_analysis": "done 11:35 (analytics/log.md, PLAN.md)",
-  "6_review_video": "partly: Metricool shows all 4 PUBLISHED; browser checks (cover, like, comment, pin) NOT done \u2014 Motaz's computer went offline at ~11:45; retry at 18:10"
+  "6_review_video": "done 18:20 (YouTube thumbnail+like+comment+pin; IG/FB like+comment; TikTok liked, comment failed: TikTok error)",
+  "6_review_carousel": "done 18:20: all 3 PUBLISHED; IG+FB like+comment; TikTok like/comment skipped",
+  "9_report": "done"
  },
- "all_done": false,
+ "all_done": true,
  "links": {
   "youtube": "https://www.youtube.com/shorts/6zMMxIO-qzk",
   "instagram": "https://www.instagram.com/reel/De_mUCIE8tj/",
