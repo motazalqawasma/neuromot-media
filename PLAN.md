@@ -37,7 +37,7 @@ Last updated: 2026-10-25 (Sunday analysis, AneurysmAI day)
 
 ## Series counter
 
-- Next NEURO PAPER number: 6 (increase by 1 after every published paper video).
+- Next NEURO PAPER number: 7 (increase by 1 after every published paper video).
 
 ## Ideas to test next
 
