@@ -2,6 +2,29 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-10-27 (Tuesday, 11:35 Hebron — Donanemab, Paper #6, scheduled 12:00)
+
+| Post | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 25 Oct |
+|---|---|---|---|---|---|---|---|
+| Donanemab (v3, Paper #6, 54 s) | 27 Oct 12:00 | — | — | — | — | too new | — |
+| AneurysmAI carousel (6 slides) | 25 Oct 18:00 | — | 345 | ? | ? | 345+ (TikTok) | new |
+| AneurysmAI (v3, Paper #5, 53 s) | 25 Oct 11:15 | 6 | 170 | 152 | 202 | 530 | +505 |
+| SELECT2 (own voice, 62 s) | 20 Oct 22:25 | 1 | 432 | 138 | 228 | 799 | +3 |
+| Boston v2.0 (72 s) | 19 Oct 12:00 | 11 | 95 | 132 | 160 | 398 | +5 |
+| INTERACT3 (78 s) | 18 Oct | 1 | 0 | 102 | 51 | 154 | +1 |
+| ASDH (67 s) | 17 Oct | 8 | 0 | 212 | 8 | 228 | +2 |
+
+Platform numbers (YouTube Studio shorts list, TikTok Studio content, Instagram reels tab, Facebook Page reels tab). TikTok likes: AneurysmAI carousel 5, AneurysmAI video 2, SELECT2 8.
+Comments from real viewers: still 0 (YouTube Studio "unresponded" is empty; TikTok 0; Instagram AneurysmAI only Motaz's own comment). No replies needed.
+
+Findings:
+1. AneurysmAI (first v3 video, noon) reached 530 views in 2 days — less than SELECT2 at the same age (740 at 2.5 days). TikTok: 170 vs 432. Early sign: the noon slot did not help on TikTok; topic/hook still matter more.
+2. Facebook liked AneurysmAI the most (202 in 2 days), Instagram 152 — both better than older videos at this age.
+3. The TikTok photo carousel (345 views) got MORE views than the AneurysmAI video on TikTok (170) and more likes (5 vs 2). Early sign that carousels work well on TikTok.
+4. Still 0 real comments after 6 posts and 1 carousel.
+
+Plan changes: none to the Current plan (one comparison only). New test: keep the carousel and compare carousel vs video on TikTok again for Paper #6.
+
 ## 2026-10-25 (Sunday, 11:45 Hebron — AneurysmAI went out at 11:15)
 
 | Video | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 24 Oct |

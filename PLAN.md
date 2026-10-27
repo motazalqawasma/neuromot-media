@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-10-25 (Sunday analysis, AneurysmAI day)
+Last updated: 2026-10-27 (Tuesday analysis, Donanemab day)
 
 ## Fixed rules (never change these)
 
@@ -33,6 +33,7 @@ Last updated: 2026-10-25 (Sunday analysis, AneurysmAI day)
 - YouTube Shorts: about 9 views in total so far. The channel is new, and YouTube counts views late.
 - Engagement is almost zero (about 5 likes, 1 save, 0 comments). The videos need a call to action.
 - 2026-10-23: SELECT2 (posted 22:25, 62 s, own voice) is the top video: 740 views in 2.5 days (TikTok 386, Facebook 219). Early sign that the topic/hook matters more than the hour on TikTok. Still 0 real viewer comments; Instagram viewers leave after ~5–6 s.
+- 2026-10-27: AneurysmAI (v3, noon) 530 views in 2 days vs SELECT2 740 at the same age; its TikTok carousel (345) beat the video on TikTok (170). Early signs only.
 - 2026-10-24/25: videos stop growing after ~3 days (all 4 old videos +65 then +19 views per day); only TikTok keeps a slow trickle (SELECT2 386 → 432). Still 0 real viewer comments after 5 videos.
 
 ## Series counter
@@ -43,4 +44,4 @@ Last updated: 2026-10-25 (Sunday analysis, AneurysmAI day)
 
 - A/B the hook: a question hook vs a number hook. Compare the share of viewers who stay past 3 s and the average watch time on Instagram.
 - Try about 35 s versus about 50 s.
-- Watch whether TikTok keeps giving views now that videos are vertical and posted at noon: compare AneurysmAI (noon) with SELECT2 (22:25) on TikTok at 48 h.
+- Carousel vs video on TikTok: AneurysmAI carousel 345 vs video 170. Check again with Donanemab (Paper #6) at 48 h.
