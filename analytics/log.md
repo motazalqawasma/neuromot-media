@@ -2,6 +2,31 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-10-28 (Wednesday, 08:00 Hebron — no video today: videos are Sun/Tue/Thu)
+
+| Post | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 27 Oct |
+|---|---|---|---|---|---|---|---|
+| Donanemab carousel (6 slides) | 27 Oct 18:07 | — | 126 | 1 like (views n/a) | ? | 126+ (TikTok) | new |
+| Donanemab (v3, Paper #6, 54 s) | 27 Oct 12:03 | 1 | 101 | 130 | 30 | 262 (20 h) | new |
+| AneurysmAI carousel (6 slides) | 25 Oct 18:04 | — | 473 | ? | ? | 473+ (TikTok) | +128 |
+| AneurysmAI (v3, Paper #5, 53 s) | 25 Oct 11:16 | 6 | 174 | 152 | 205 | 537 | +7 |
+| SELECT2 (own voice, 62 s) | 20 Oct 22:26 | 1 | 432 | 138 | 228 | 799 | 0 |
+| Boston v2.0 (72 s) | 19 Oct 12:03 | 11 | 95 | 132 | 160 | 398 | 0 |
+| INTERACT3 (78 s) | 18 Oct | 1 | 0 | 102 | 51 | 154 | 0 |
+| ASDH (67 s) | 17 Oct | 8 | 0 | 212 | 8 | 228 | 0 |
+
+Platform numbers (YouTube Studio shorts list, TikTok Studio content, Facebook Page reels tab); Instagram from Metricool (the web reels grid did not load). Instagram avg watch / share past 3 s (Metricool): Donanemab 6.4 s / 22%; AneurysmAI 8.2 s / 21%; SELECT2 5.0 s / 27%; Boston 5.7 s / 22%; INTERACT3 3.1 s / 21%; ASDH 6.8 s / 32%. TikTok likes: Donanemab video 2, carousel 2; AneurysmAI carousel 6.
+Comments from real viewers: still 0 (YouTube Studio "unresponded" empty; TikTok 0 on every post; Instagram and Facebook only Motaz's own question comments). No replies needed. Note: the TikTok question comment on the Donanemab video is still missing (it failed yesterday).
+
+Findings:
+1. TikTok carousels keep growing while videos stop: AneurysmAI carousel +128 in a day (now 473, the 2nd best post ever on TikTok), its video +4. Donanemab carousel (126 in 14 h) already beats its video (101 in 20 h). Second time in a row — still an early sign.
+2. Donanemab video: 262 views in 20 h, Facebook weak (30 vs AneurysmAI 205 at 2 days). Too early to judge; check at 48 h.
+3. Instagram watch time is improving with v3 (AneurysmAI 8.2 s, Donanemab 6.4 s vs SELECT2 5.0 s), but the share past 3 s stays ~21–22% — the first 3 seconds still lose ~78% of viewers.
+4. All videos older than 3 days gained 0 views today.
+5. Still 0 real comments after 6 videos and 2 carousels.
+
+Plan changes: Current plan unchanged. Added the data line and a next test (carousel at noon on TikTok if it wins again at 48 h).
+
 ## 2026-10-27 (Tuesday, 11:35 Hebron — Donanemab, Paper #6, scheduled 12:00)
 
 | Post | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 25 Oct |
