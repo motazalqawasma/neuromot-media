@@ -39,7 +39,7 @@ Last updated: 2026-10-28 (Wednesday analysis, no video day)
 
 ## Series counter
 
-- Next NEURO PAPER number: 7 (increase by 1 after every published paper video).
+- Next NEURO PAPER number: 8 (increase by 1 after every published paper video).
 
 ## Ideas to test next
 

@@ -8,7 +8,9 @@
   "1_paper": "done 2026-10-29",
   "2_script": "done progress/2026-10-29-script.txt",
   "3_voice": "done take2 (connector, progress/2026-10-29-voice-take2.mp3, 53.1 s; take1 52.3 s also generated)",
-  "4_cover": "done banners/2026-10-29-Eptinezumab-cover-9x16.png — CODE cover (Canva: credit quota exceeded)"
+  "4_cover": "done banners/2026-10-29-Eptinezumab-cover-9x16.png — CODE cover (Canva: credit quota exceeded)",
+  "5_video": "done videos/2026-10-29-Eptinezumab.mp4 (54.6 s, 1080x1920, title card recreated)",
+  "5c_carousel": "slides ready banners/2026-10-29-carousel/slide1-6.jpg (code)"
  },
  "all_done": false
 }
