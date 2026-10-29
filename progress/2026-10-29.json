@@ -1,0 +1,9 @@
+{
+ "date": "2026-10-29",
+ "run": "chat run started 12:45 at Motaz's request (scheduled run did not make a video)",
+ "owner": "session_015n4N1oDdzdLUniJJjivMXx — another run: please stop and do not generate voice or posts",
+ "paper_doc": "2026-10-29",
+ "video": "Neuro Paper #7 — eptinezumab RESOLUTION (Jensen, Neurology 2026)",
+ "steps": {"1_paper": "done 2026-10-29", "2_script": "done progress/2026-10-29-script.txt"},
+ "all_done": false
+}
