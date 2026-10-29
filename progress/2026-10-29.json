@@ -4,6 +4,11 @@
  "owner": "session_015n4N1oDdzdLUniJJjivMXx — another run: please stop and do not generate voice or posts",
  "paper_doc": "2026-10-29",
  "video": "Neuro Paper #7 — eptinezumab RESOLUTION (Jensen, Neurology 2026)",
- "steps": {"1_paper": "done 2026-10-29", "2_script": "done progress/2026-10-29-script.txt"},
+ "steps": {
+  "1_paper": "done 2026-10-29",
+  "2_script": "done progress/2026-10-29-script.txt",
+  "3_voice": "done take2 (connector, progress/2026-10-29-voice-take2.mp3, 53.1 s; take1 52.3 s also generated)",
+  "4_cover": "done banners/2026-10-29-Eptinezumab-cover-9x16.png — CODE cover (Canva: credit quota exceeded)"
+ },
  "all_done": false
 }
