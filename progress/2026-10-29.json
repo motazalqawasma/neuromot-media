@@ -11,7 +11,14 @@
   "4_cover": "done banners/2026-10-29-Eptinezumab-cover-9x16.png — CODE cover (Canva: credit quota exceeded)",
   "5_video": "done videos/2026-10-29-Eptinezumab.mp4 (54.6 s, 1080x1920, title card recreated)",
   "5c_carousel": "done code slides scheduled 15:35 Metricool 409954858 uuid 6416352048269905780",
-  "5_published": "done scheduled 13:35 Metricool ids 409954683 (YouTube, uuid -3048141277948393514), 409954715 (IG+FB+TikTok, uuid -6384791913979428713)"
+  "5_published": "done scheduled 13:35 Metricool ids 409954683 (YouTube, uuid -3048141277948393514), 409954715 (IG+FB+TikTok, uuid -6384791913979428713)",
+  "6_review_video": "pending — built-in browser and Chrome not reachable at 13:40; check-in set for 15:40"
  },
- "all_done": false
+ "all_done": false,
+ "links": {
+  "youtube": "https://www.youtube.com/shorts/EbF5McOGyrs",
+  "facebook": "https://facebook.com/reel/2334743814045283",
+  "tiktok": "https://www.tiktok.com/@motaz.alqawasma/video/7702052077883443208",
+  "instagram": "publishing at 13:40"
+ }
 }
