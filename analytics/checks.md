@@ -2,6 +2,17 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
+## 2026-10-29 — Eptinezumab (Paper #7) video + carousel, catch-up review at 21:05
+
+| App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |
+|---|---|---|---|---|---|---|---|
+| YouTube | ✅ public Short (Metricool PUBLISHED) | ✅ cover JPG uploaded in Studio + saved | ❌ not done — youtube.com page did not finish loading in the hidden browser pane | ❌ same reason | ❌ same reason | ✅ (checked in Studio) | — |
+| Instagram | ✅ reel | ✅ (Metricool cover) | ✅ (was already liked) | ✅ 1× posted | no pin on web | ✅ DOI present | ✅ 6 slides, liked + question comment 1× |
+| Facebook | ✅ (Metricool PUBLISHED) | not checked | ❌ not checked | ❌ not checked | — | not checked | ✅ published (Metricool); like/comment not done |
+| TikTok | ✅ (Metricool PUBLISHED) | not checked | ❌ not checked | ❌ not checked | — | not checked | ✅ published (Metricool); like/comment not done |
+
+Note: Motaz's computer disconnected at ~21:10 while opening Facebook, so Facebook and TikTok checks and comment replies could not be done.
+
 ## 2026-10-27 — Donanemab (Paper #6) video + carousel, review at 18:20
 
 | App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |

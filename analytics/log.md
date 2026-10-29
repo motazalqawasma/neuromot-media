@@ -2,6 +2,26 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-10-29 (Thursday, 21:15 Hebron — catch-up run; Eptinezumab, Paper #7, went out at 13:35)
+
+| Post | Posted | TikTok | Instagram | Change vs 28 Oct (TikTok) |
+|---|---|---|---|---|
+| Eptinezumab video + carousel | 29 Oct 13:35 / 15:35 | too new | too new | — |
+| Donanemab carousel (6 slides) | 27 Oct 18:07 | 185 | ? | +59 |
+| Donanemab (v3, Paper #6) | 27 Oct 12:03 | 105 | ? | +4 |
+| AneurysmAI carousel | 25 Oct 18:04 | 473 | ? | 0 |
+| AneurysmAI (v3, Paper #5) | 25 Oct 11:16 | 174 | ? | 0 |
+| SELECT2 | 20 Oct 22:26 | 432 | ? | 0 |
+
+Numbers from Metricool only (TikTok views). The computer disconnected, so platform pages, YouTube and Facebook numbers could not be read today.
+Comments from real viewers: Instagram Eptinezumab reel and carousel had 0 comments before Motaz's question comment. Other apps not checked.
+
+Findings:
+1. Donanemab at 48 h on TikTok: carousel 185 vs video 105. Third time in a row the carousel beats the video on TikTok (early sign, small numbers).
+2. Carousels also stop growing after ~3 days (AneurysmAI carousel flat at 473).
+
+Plan changes: Current plan unchanged. Data line added; the "carousel at noon on TikTok" test is now ready to try for Paper #8.
+
 ## 2026-10-28 (Wednesday, 08:00 Hebron — no video today: videos are Sun/Tue/Thu)
 
 | Post | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 27 Oct |

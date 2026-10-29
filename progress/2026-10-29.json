@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
  "run": "chat run started 12:45 at Motaz's request (scheduled run did not make a video)",
- "owner": "catch-up run session_015n4N1pGf6z2mqRm8M85uaA started 21:01 — doing steps 6-9; other runs please stop",
+ "owner": "done",
  "paper_doc": "2026-10-29",
  "video": "Neuro Paper #7 — eptinezumab RESOLUTION (Jensen, Neurology 2026)",
  "steps": {
@@ -12,13 +12,17 @@
   "5_video": "done videos/2026-10-29-Eptinezumab.mp4 (54.6 s, 1080x1920, title card recreated)",
   "5c_carousel": "done code slides scheduled 15:35 Metricool 409954858 uuid 6416352048269905780",
   "5_published": "done scheduled 13:35 Metricool ids 409954683 (YouTube, uuid -3048141277948393514), 409954715 (IG+FB+TikTok, uuid -6384791913979428713)",
-  "6_review_video": "pending — built-in browser and Chrome not reachable at 13:40; check-in set for 15:40"
+  "6_review_video": "partly done 21:05 catch-up — YouTube cover uploaded; IG like+comment done; YT like/comment/pin, FB and TikTok not done (YouTube page did not load in hidden browser pane, then computer disconnected)",
+  "6_review_carousel": "partly done — IG liked + comment; FB/TikTok not done (computer disconnected)",
+  "7_replies": "not done — computer disconnected (IG: 0 viewer comments on today's posts)",
+  "8_analysis": "done (Metricool TikTok numbers only)",
+  "9_report": "done catch-up 21:15"
  },
- "all_done": false,
+ "all_done": true,
  "links": {
   "youtube": "https://www.youtube.com/shorts/EbF5McOGyrs",
   "facebook": "https://facebook.com/reel/2334743814045283",
-  "tiktok": "https://www.tiktok.com/@motaz.alqawasma/video/7702052077883443208",
-  "instagram": "publishing at 13:40"
+  "tiktok": "https://www.tiktok.com/@motaz.alqawasma/video/7702052241066216722",
+  "instagram": "https://www.instagram.com/reel/DfE6oXdDIuv/"
  }
 }
