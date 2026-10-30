@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-10-30 (Friday analysis, no video day)
+Last updated: 2026-10-30 (Motaz: format test + ENRICH pinned for 2026-11-03)
 
 ## Fixed rules (never change these)
 
@@ -22,6 +22,8 @@ Last updated: 2026-10-30 (Friday analysis, no video day)
 4c. **Carousel** (6 slides, 4:5, Canva) of the same paper posted at 18:00 on Instagram + Facebook + TikTok (photo mode, no music). Real numbers only — never invented curves/funnels.
 5. **3 videos a week (Motaz, 2026-10-23): Sunday, Tuesday, Thursday at 12:00 noon (Asia/Hebron)**, each from the most interesting paper of the days since the last video; carousel the same day at 18:00. Late-night posts (9–11 PM) did worst.
 6. **Caption:** first line = the hook question; keep the key numbers short; hashtags start with #NeuroMot (5–9 in total).
+7. **Pinned pick (Motaz, 2026-10-30):** on **Tuesday 2026-11-03** the video paper is **ENRICH** (summary doc_id 2026-11-03), not another candidate. Hook = format A, a two-option decision question: **"Suck the clot out, or leave it?"**, spoken first and big on screen. Comment question: "Would you operate? 1 = remove it, 2 = leave it". Paywalled paper (NEJM) → title/authors block only, no page screenshots. Remove this line after that video is published.
+8. **Hook style (data, 2026-10-30):** decision questions with two options did best on Instagram ("Operate now, or wait?" 215 views, 32% stayed past 3 s; "Too late to pull the clot?" 141). Plain "Can X do Y?" questions did worse (102–136, 21–26%). Prefer the two-option form.
 
 ## What the data has shown so far
 
@@ -43,6 +45,8 @@ Last updated: 2026-10-30 (Friday analysis, no video day)
 - Next NEURO PAPER number: 8 (increase by 1 after every published paper video).
 
 ## Ideas to test next
+
+- **Format test (Motaz approved 2026-10-30):** over the next ~2 weeks, use one format per video and compare Instagram 3-second rate + watch time, then keep the 1–2 winners. Formats: A two-option decision question · B carousel-first · C "Too late?" / myth vs evidence · D case puzzle ("What would you do?") · E one shocking number · F "This is on your exam". Start with stroke/thrombectomy and neurosurgery/bleed papers (best topics so far). Log which format each video used in analytics/log.md.
 
 - A/B the hook: a question hook vs a number hook. Compare the share of viewers who stay past 3 s and the average watch time on Instagram.
 - Try about 35 s versus about 50 s.
