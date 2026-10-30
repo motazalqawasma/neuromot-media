@@ -2,6 +2,34 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-10-30 (Friday, 11:40 Hebron — no video today: videos are Sun/Tue/Thu)
+
+| Post | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 28 Oct |
+|---|---|---|---|---|---|---|---|
+| Eptinezumab carousel (6 slides) | 29 Oct 15:36 | — | 177 | ? | ? | 177+ (TikTok) | new |
+| Eptinezumab (v3, Paper #7, 54 s) | 29 Oct 13:36 | 4 | 123 | 102 | 38 | 267 (22 h) | new |
+| Donanemab carousel | 27 Oct 18:07 | — | 215 | ? | ? | 215+ | +89 |
+| Donanemab (v3, Paper #6, 54 s) | 27 Oct 12:03 | 4 | 110 | 136 | 34 | 284 | +22 |
+| AneurysmAI carousel | 25 Oct 18:04 | — | 473 | ? | ? | 473+ | 0 |
+| AneurysmAI (v3, Paper #5, 53 s) | 25 Oct 11:16 | 6 | 174 | 155 | 210 | 545 | +8 |
+| SELECT2 (own voice, 62 s) | 20 Oct 22:26 | 1 | 432 | 141 | 228 | 802 | +3 |
+| Boston v2.0 (72 s) | 19 Oct 12:03 | 11 | 95 | 135 | 162 | 403 | +5 |
+| INTERACT3 (78 s) | 18 Oct | 1 | 0 | 105 | 51 | 157 | +3 |
+| ASDH (67 s) | 17 Oct | 9 | 0 | 215 | 8 | 232 | +4 |
+
+Platform numbers (YouTube Studio shorts list, TikTok Studio content, Facebook Page reels tab); Instagram from Metricool (web reels grid did not load). Instagram avg watch / share past 3 s: Eptinezumab 5.1 s / 26%; Donanemab 6.6 s / 22%; AneurysmAI 8.1 s / 22%; SELECT2 4.9 s / 27%. TikTok watch-time fields are empty in Metricool.
+Comments from real viewers: still 0 (YouTube Studio "unresponded" empty; TikTok Studio only Motaz's own; Instagram Eptinezumab/Donanemab only Motaz's own; Facebook notifications show none on NeuroMot reels). No replies needed.
+Catch-up for Paper #7: YouTube like + question comment + pinned; TikTok question comment posted (video was already liked); Facebook reel liked + question comment (as Motaz Al-Qawasma).
+
+Findings:
+1. TikTok carousel beat the video for the 4th time in a row: Eptinezumab carousel 177 vs video 123 after ~20 h, and Donanemab carousel grew to 215 vs video 110. Still small numbers, but now consistent.
+2. Eptinezumab reached 267 views in 22 h — about the same as Donanemab at 20 h (262). The v3 videos settle around 270–550 in total.
+3. Facebook dropped for the last 2 videos (38 and 34 views) after 160–228 for the 3 before. Early sign only; could be the Page's reach changing, not the videos.
+4. Instagram: 26% of Eptinezumab viewers stayed past 3 s (Donanemab 22%), but average watch is only 5.1 s.
+5. Still 0 real viewer comments after 7 videos and 3 carousels.
+
+Plan changes: Current plan unchanged. Merged the carousel data lines; the Paper #8 test (TikTok carousel at noon, TikTok video at 18:00) stays as the next test on Sunday.
+
 ## 2026-10-29 (Thursday, 21:15 Hebron — catch-up run; Eptinezumab, Paper #7, went out at 13:35)
 
 | Post | Posted | TikTok | Instagram | Change vs 28 Oct (TikTok) |
