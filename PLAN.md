@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-10-31 (daily analysis, no plan change; OSCIS pinned for 2026-11-01, ENRICH for 2026-11-03)
+Last updated: 2026-10-31 (growth prompts added — hook lab + retention pass; daily analysis; OSCIS pinned for 2026-11-01, ENRICH for 2026-11-03)
 
 ## Fixed rules (never change these)
 
@@ -25,6 +25,8 @@ Last updated: 2026-10-31 (daily analysis, no plan change; OSCIS pinned for 2026-
 7a. **Pinned pick (Motaz, 2026-10-30):** on **Sunday 2026-11-01** the video paper is **OSCIS** (summary doc_id 2026-10-30, early vs delayed surgery for incomplete cervical cord injury), not another candidate. Hook = format A, a two-option decision question: **"Operate now, or wait 2 weeks?"**, spoken first and big on screen; then the twist: early surgery was ahead at 2 weeks (+34.2 vs +18.9 motor points) but at 1 year the gap was not significant (53.7 vs 48.5). Mention that 7 of 33 in the wait group never needed surgery. Comment question: "Would you operate? 1 = now, 2 = wait". Open access (JAMA Netw Open, CC BY) → real page screenshots allowed. Remove this line after that video is published.
 7. **Pinned pick (Motaz, 2026-10-30):** on **Tuesday 2026-11-03** the video paper is **ENRICH** (summary doc_id 2026-11-03), not another candidate. Hook = format A, a two-option decision question: **"Suck the clot out, or leave it?"**, spoken first and big on screen. Comment question: "Would you operate? 1 = remove it, 2 = leave it". Paywalled paper (NEJM) → title/authors block only, no page screenshots. Remove this line after that video is published.
 8. **Hook style (data, 2026-10-30):** decision questions with two options did best on Instagram ("Operate now, or wait?" 215 views, 32% stayed past 3 s; "Too late to pull the clot?" 141). Plain "Can X do Y?" questions did worse (102–136, 21–26%). Prefer the two-option form.
+
+9. **Growth prompts (Motaz, 2026-10-31, see strategy/playbook.md):** every video gets a hook lab (15 hooks in 5 groups → best 5 → use #1) and a retention pass on the script; carousels end with a save reason + a share reason. Pinned hooks still win over the hook lab.
 
 ## What the data has shown so far
 

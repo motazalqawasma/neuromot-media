@@ -20,9 +20,14 @@ PROGRESS FILE (so a run stopped by the usage limit can be continued later)
 - If there is no candidate at all, notify Motaz ("no new paper — refill needed") and skip to step 7.
 - Use ONLY facts from that document. Re-check every number. Always include: citation + DOI, the main limitation, "For education — not medical advice". Note the license (open access / CC BY or not).
 
+1B. HOOK LAB (Motaz's growth prompt, 2026-10-31 — before writing the script)
+- Write 15 opening hooks for this paper, 3 in each group: (1) curiosity, (2) contrarian / goes against what people believe, (3) emotional tension (a real decision, a patient's moment), (4) specificity (exact numbers from the summary), (5) calm authority. Each must stop the scroll WITHOUT clickbait, sound natural and smart, and use only facts from the summary.
+- Rank the best 5 (what makes a person stop in 1 second + fits the data in PLAN.md: two-option decision questions won so far). Use #1 unless PLAN.md pins a hook for today. Save all 15 + the top 5 in progress/TODAY.json ("hooks").
+
 2. VOICE SCRIPT (elevenlabs-voice-prompt skill + PLAN.md)
 - About 110–130 spoken words (40–50 s, a few seconds more is fine), 6 paragraphs: hook (question), what they did, result, second result, the catch, takeaway + comment question ("Would you trust it? 1 for yes, 2 for not yet" style).
 - It must sound 100% human: spoken phrasing, contractions, short sentences, "honestly", "basically", a "…" breath before numbers. Add 1–2 LIGHT jokes (med-student life, everyday relatable, pop culture/memes — e.g. "basically their whole Instagram history", "better than my last exam", "like my phone at 1% for an hour"). Jokes never change or blur a fact.
+- RETENTION PASS (after the first draft): rewrite the script like a retention specialist — the hook is spoken in the first 1.5 s and shown big on screen; open a loop early ("…but wait for the 1-year result"); every line must pull to the next one (end paragraphs on a turn or a question); cut every weak or setup sentence; keep it natural, sharp, never promotional; the payoff comes near the end and the last line loops into the hook. Add one "save" reason (an exam fact, a stat lesson) and one "share" reason (a debate question people want to send to a friend). Write 2 lines in progress/TODAY.json on why the new version is better.
 - End with the catchphrase: "Dr. Mot, one paper a day… because the real question is…" (loops into the hook).
 - One emotion tag per paragraph ([serious], [curious], [matter-of-fact], [impressed], [skeptical], [warmly]); ONE stressed word per sentence in CAPITALS; numbers as digits.
 
@@ -47,7 +52,7 @@ PROGRESS FILE (so a run stopped by the usage limit can be continued later)
   - Post B — instagram + facebook + tiktok: videoThumbnailUrl = cover URL, instagramData {type "REEL", showReelOnFeed true}, facebookData {type "REEL", title}, tiktokData {privacyOption "PUBLIC_TO_EVERYONE", title, autoAddMusic false}.
   - Caption: hook question, 2–4 short lines with key numbers, the comment question, limitation, citation + DOI, "Page images: <Journal>, CC BY." when used, "For education — not medical advice.", 5–9 hashtags starting #NeuroMot.
 
-5C. CAROUSEL (18:00)
+5C. CAROUSEL (18:00) — faceless version of the same idea: slide 1 = the best hook from the hook lab, one idea per slide, the last slide gives a SAVE reason ("Save this for your exam") and a SHARE reason ("Send this to the friend who'd operate").
 - Canva create-design format "Instagram Post (Portrait)", 6 slides 4:5 in the same gray/orange/red style: 1 hook ("swipe →"), 2 the study, 3 the main score, 4 the second result, 5 the catch + limitation, 6 the question + "Follow #NeuroMot · one paper a day" + citation/disclaimer. Every slide: "NEURO PAPER #N", "#NeuroMot", page number.
 - Check EVERY slide with read-design thumbnails: no invented charts/curves/funnels/numbers (Canva likes to add them — delete them or cover them with a dark shape and put true numbers), no doubled/ghost text, nothing clipped. Fix with edit-design, then commit.
 - export-design jpg (quality 92) and pass the 6 export URLs directly as media to Metricool (it copies them): providers instagram + facebook + tiktok, 18:00 TODAY, instagramData {type "POST"}, facebookData {type "POST"}, tiktokData {privacyOption "PUBLIC_TO_EVERYONE", title, autoAddMusic false, photoCoverIndex 0}. Short caption: hook + "Swipe 👉", "Save this for later 📌", the question, citation, disclaimer, hashtags.
