@@ -14,11 +14,15 @@ PROGRESS FILE (so a run stopped by the usage limit can be continued later)
 - add_repo motazalqawasma/neuromot-media with push access, clone it. Read PLAN.md (living plan; it has the "Next NEURO PAPER number"), template/README.md (v3 style) and the newest section of analytics/log.md.
 - Follow PLAN.md "Current plan". The fixed rules (facts only, citation + DOI, limitation, disclaimer, vertical 1080×1920, cover-first opening, no "<" ">" on YouTube, NO MUSIC) can never change.
 
-1. PAPER (videos are made 3 times a week — Sunday, Tuesday, Thursday — so pick the best paper of the last days)
-- Neuro Papers artifact https://claude.ai/artifact/CGg8ANcDUHx45cCXHAzSag, collection "summaries". Candidates = the summaries dated from the day after the last video's paper up to TODAY (see progress/*.json "paper_doc" of the newest earlier day; ArtifactData get each doc_id = date). Never reuse a paper that already has a video.
-- Choose the ONE candidate that will interest the most people (clear surprising number, common condition or popular topic, simple yes/no question, open access helps the page screenshots). Write the chosen doc_id as "paper_doc" in progress/TODAY.json.
-- If there is no candidate at all, notify Motaz ("no new paper — refill needed") and skip to step 7.
-- Use ONLY facts from that document. Re-check every number. Always include: citation + DOI, the main limitation, "For education — not medical advice". Note the license (open access / CC BY or not).
+1. PAPER — choose the MOST ATTRACTIVE idea, not just the newest summary (Motaz, 2026-10-31)
+- If PLAN.md pins a paper for TODAY, use it. Otherwise pick the single idea that will attract the most people, from ANY source:
+  (a) the Neuro Papers summaries not yet used for a video (artifact https://claude.ai/artifact/CGg8ANcDUHx45cCXHAzSag, collection "summaries");
+  (b) the 10 pattern-breaking ideas and the idea grid in strategy/playbook.md and PLAN.md;
+  (c) a fresh search (WebSearch) for a recent, talked-about neurology/neurosurgery paper or a famous landmark trial that fits a winning format.
+  Judge "attractive" by: a clear surprising number, a common condition or popular topic, a real two-option decision, a med-student exam link, open access (page screenshots), and what won in analytics/log.md. Never reuse a paper that already has a video.
+- If the chosen paper is NOT in the app yet: read its FULL text (free copy via WebSearch, opened in the built-in browser; PDFs with pdf.js in the page) and add a verified summary with the neuro-paper-summary skill (single-paper mode) on TODAY's date (or the next free date) BEFORE writing anything. Never put a trial name or a number in a hook or script from memory. If the full text can't be read, fall back to the best paper already in the app.
+- Write the chosen doc_id as "paper_doc" and one line "why this one" in progress/TODAY.json.
+- Use ONLY facts from that summary. Re-check every number. Always include: citation + DOI, the main limitation, "For education — not medical advice". Note the license (open access / CC BY or not).
 
 1B. HOOK LAB (Motaz's growth prompt, 2026-10-31 — before writing the script)
 - Write 15 opening hooks for this paper, 3 in each group: (1) curiosity, (2) contrarian / goes against what people believe, (3) emotional tension (a real decision, a patient's moment), (4) specificity (exact numbers from the summary), (5) calm authority. Each must stop the scroll WITHOUT clickbait, sound natural and smart, and use only facts from the summary.
