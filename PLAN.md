@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-10-30 (Motaz: format test; OSCIS pinned for 2026-11-01, ENRICH for 2026-11-03)
+Last updated: 2026-10-31 (daily analysis, no plan change; OSCIS pinned for 2026-11-01, ENRICH for 2026-11-03)
 
 ## Fixed rules (never change these)
 
@@ -38,7 +38,7 @@ Last updated: 2026-10-30 (Motaz: format test; OSCIS pinned for 2026-11-01, ENRIC
 - 2026-10-23: SELECT2 (posted 22:25, 62 s, own voice) is the top video: 740 views in 2.5 days (TikTok 386, Facebook 219). Early sign that the topic/hook matters more than the hour on TikTok. Still 0 real viewer comments; Instagram viewers leave after ~5–6 s.
 - 2026-10-27: AneurysmAI (v3, noon) 530 views in 2 days vs SELECT2 740 at the same age; its TikTok carousel (345) beat the video on TikTok (170). Early signs only.
 - 2026-10-28: TikTok carousels keep growing, videos do not: AneurysmAI carousel 345 → 473 in a day (video 170 → 174); Donanemab carousel 126 in 14 h vs its video 101 in 20 h. Second time the carousel wins on TikTok (early sign). Facebook gave Donanemab only 30 views in 20 h (AneurysmAI 205). Instagram watch time: Donanemab 6.4 s, AneurysmAI 8.2 s (best so far).
-- 2026-10-29/30: carousel beat the video on TikTok for the 3rd and 4th time (Donanemab 215 vs 110; Eptinezumab 177 vs 123 at 22 h). Carousels also stop after ~3 days. Facebook fell for the last 2 videos (Donanemab 34, Eptinezumab 38 vs 160–228 before) — early sign, watch it.
+- 2026-10-29/31: carousel beat the video on TikTok 5 times in a row (latest Eptinezumab 222 vs 168 at 2 days; Donanemab 215 vs 113). Carousels and videos both stop after ~3 days. Facebook stays low for the last 2 videos (35 and 39 vs 160–228 before) — early sign, watch it. Still 0 real viewer comments after 7 videos + 4 carousels.
 - 2026-10-24/25: videos stop growing after ~3 days (all 4 old videos +65 then +19 views per day); only TikTok keeps a slow trickle (SELECT2 386 → 432). Still 0 real viewer comments after 5 videos.
 
 ## Series counter

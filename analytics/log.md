@@ -2,6 +2,33 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-10-31 (Saturday, 12:10 Hebron — no video today: videos are Sun/Tue/Thu)
+
+| Post | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 30 Oct |
+|---|---|---|---|---|---|---|---|
+| Eptinezumab carousel (6 slides) | 29 Oct 15:36 | — | 222 | ? | ? | 222+ (TikTok) | +45 |
+| Eptinezumab (v3, Paper #7, 54 s) | 29 Oct 13:36 | 3 | 168 | 112 | 39 | 322 (2 days) | +55 |
+| Donanemab carousel | 27 Oct 18:07 | — | 215 | ? | ? | 215+ | 0 |
+| Donanemab (v3, Paper #6, 54 s) | 27 Oct 12:03 | 4 | 113 | 136 | 35 | 288 | +4 |
+| AneurysmAI carousel | 25 Oct 18:04 | — | 473 | ? | ? | 473+ | 0 |
+| AneurysmAI (v3, Paper #5, 53 s) | 25 Oct 11:16 | 6 | 174 | 155 | 210 | 545 | 0 |
+| SELECT2 (own voice, 62 s) | 20 Oct 22:26 | 1 | 432 | 141 | 228 | 802 | 0 |
+| Boston v2.0 (72 s) | 19 Oct 12:03 | 11 | 95 | 135 | 162 | 403 | 0 |
+| INTERACT3 (78 s) | 18 Oct | 1 | 0 | 105 | 51 | 157 | 0 |
+| ASDH (67 s) | 17 Oct | 8 | 0 | 215 | 8 | 231 | -1 (YouTube recount) |
+
+Platform numbers: YouTube Studio shorts list, TikTok Studio content, Instagram reels grid, Facebook Page reels tab. Instagram avg watch / share past 3 s (Metricool): Eptinezumab 6.2 s / 25.5% (was 5.1 s yesterday); Donanemab 6.6 s / 22%; AneurysmAI 8.1 s / 22%; SELECT2 4.9 s / 27%; Boston 5.6 s / 21%; INTERACT3 3.0 s / 22%; ASDH 6.8 s / 32%.
+Comments from real viewers: 0 on all 4 apps (YouTube Studio "unresponded" empty; TikTok Studio only Motaz's own; Facebook reels Eptinezumab/Donanemab/AneurysmAI/SELECT2 only Motaz's comment; Instagram Eptinezumab/Donanemab only Motaz's). No replies needed.
+
+Findings:
+1. TikTok carousel beat the video for the 5th time: Eptinezumab carousel 222 vs video 168 at 2 days.
+2. Only Eptinezumab still grew (+55 in a day); everything older than 3 days was flat. Same "3-day life" as before.
+3. Facebook stays low for the newest 2 videos (39, 35) against 160–228 for the 3 before — still an early sign.
+4. Instagram: Eptinezumab average watch rose to 6.2 s, 25.5% stayed past 3 s — in the normal range (21–32%). The best 3-second rate is still ASDH (32%, two-option "operate now, or wait?" hook), which supports tomorrow's two-option OSCIS hook.
+5. 0 real viewer comments after 7 videos and 4 carousels.
+
+Plan changes: Current plan unchanged (OSCIS with the two-option hook is already pinned for tomorrow). Merged the carousel/Facebook data lines in PLAN.md.
+
 ## 2026-10-30 (Friday, 11:40 Hebron — no video today: videos are Sun/Tue/Thu)
 
 | Post | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 28 Oct |
