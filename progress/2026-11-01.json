@@ -1,0 +1,54 @@
+{
+ "date": "2026-11-01",
+ "run": "scheduled run started 08:47 Hebron",
+ "paper_doc": "2026-10-30",
+ "why_this_one": "Pinned in PLAN.md by Motaz (OSCIS, two-option hook 'Operate now, or wait 2 weeks?'); open access CC BY; two-option decisions won so far.",
+ "video": "Neuro Paper #8 — OSCIS early vs delayed surgery (Chikuda, JAMA Netw Open 2021)",
+ "hooks": {
+  "all": {
+   "curiosity": [
+    "Operate now, or wait 2 weeks? The 1-year answer surprised the surgeons.",
+    "Why would a surgeon WAIT on a spinal cord injury?",
+    "Early surgery won the sprint. Did it win the race?"
+   ],
+   "contrarian": [
+    "Faster surgery isn't always a better year.",
+    "For some neck cord injuries, waiting 2 weeks did about as well at 1 year.",
+    "7 of 33 patients who waited never needed surgery at all."
+   ],
+   "emotional": [
+    "Your patient can't lift his arms. Operate tonight, or wait?",
+    "It's 2 a.m., the OR is free. Do you operate now?",
+    "A fall, a narrow neck canal, weak arms. Now or later?"
+   ],
+   "specificity": [
+    "34.2 vs 18.9 motor points at 2 weeks. 53.7 vs 48.5 at 1 year.",
+    "Surgery within 24 hours vs after 2 weeks: 70 patients, 43 hospitals.",
+    "Double the recovery at 2 weeks… and no significant gap at 1 year."
+   ],
+   "authority": [
+    "The largest trial of early surgery for this injury. Here's what it found.",
+    "OSCIS, JAMA Network Open: early vs delayed decompression, explained in 50 s.",
+    "What a randomized trial says about timing cord surgery."
+   ]
+  },
+  "top5": [
+   "Operate now, or wait 2 weeks? (pinned)",
+   "Your patient can't lift his arms. Operate tonight, or wait?",
+   "Early surgery won the sprint. Did it win the race?",
+   "34.2 vs 18.9 at 2 weeks. 53.7 vs 48.5 at 1 year.",
+   "7 of 33 patients who waited never needed surgery at all."
+  ],
+  "used": "Operate now, or wait 2 weeks? (pinned by PLAN.md)"
+ },
+ "retention_pass": [
+  "Hook is the first 5 words and opens a loop ('wait for the 1-year twist'); each paragraph ends on a turn ('Half WAITED', 'Basically DOUBLE', 'But at 1 year').",
+  "Added a save reason (an 'Exam line': faster recovery, not a proven better year) and a share/debate question (1 = now, 2 = wait); cut setup sentences to 135 words."
+ ],
+ "steps": {
+  "1_paper": "done 2026-10-30 (OSCIS, pinned)",
+  "1b_hooks": "done",
+  "2_script": "done progress/2026-11-01-script.txt"
+ },
+ "all_done": false
+}
