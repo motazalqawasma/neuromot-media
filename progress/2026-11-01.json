@@ -48,7 +48,9 @@
  "steps": {
   "1_paper": "done 2026-10-30 (OSCIS, pinned)",
   "1b_hooks": "done",
-  "2_script": "done progress/2026-11-01-script.txt"
+  "2_script": "done progress/2026-11-01-script.txt",
+  "3_voice": "done take1 (connector, progress/2026-11-01-voice-take1.mp3, 54.5 s; take2 nearly identical)",
+  "4_cover": "done banners/2026-11-01-OSCIS-cover-9x16.png (Canva DAHZpsOryEc, 1080x1920) + .jpg"
  },
  "all_done": false
 }
