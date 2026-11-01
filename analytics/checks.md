@@ -13,6 +13,8 @@ Newest first. One table per day (app × checklist items 1–7).
 
 Note: the built-in browser and Claude in Chrome could not be reached (Motaz's computer is not connected), so only the Metricool checks were possible. Retry at 18:10.
 
+Catch-up 14:40: YouTube cover ✅ (Canva JPG uploaded + saved in Studio). YouTube like/comment/pin ❌ (youtube.com Short page does not render in the hidden pane). Instagram like ✅ + question comment ✅ (already there, posted 14:36 — not by this run). Catch-up stopped there because another run or Motaz was active at the same time; Facebook, TikTok and replies left for 18:10.
+
 ## 2026-10-29 — Eptinezumab (Paper #7) video + carousel, catch-up review at 21:05
 
 | App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |
