@@ -13,6 +13,17 @@ Newest first. One table per day (app × checklist items 1–7).
 
 Replies: none needed — YouTube Studio 0 unanswered, TikTok Studio no viewer comments, Instagram no new comments, today's FB reel none (older FB posts not checked).
 
+## 2026-11-01 — OSCIS (Paper #8), evening review at 18:15 (computer back online)
+
+| App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |
+|---|---|---|---|---|---|---|---|
+| YouTube | ✅ public Short | ✅ Canva cover JPG uploaded in Studio + saved (#save disabled after) | ❌ youtube.com did not load in the hidden browser pane | ❌ same reason | ❌ same reason | ✅ title + description with DOI (Studio) | — |
+| Instagram | ✅ reel (1 like, 1 comment) | ✅ cover shows on profile grid | ✅ already liked (by Motaz) | ✅ already posted by Motaz 3 h before | no pin on web | ✅ DOI present | ✅ 6 slides (6 dots); liked + question comment 1× (18:15) |
+| Facebook | ✅ reel | not seen (pane hidden) | ✅ already liked | ✅ already posted as NeuroMot Page | — | ✅ | ✅ 6 photos; liked + question comment 1× as Motaz Al-Qawasma (18:16) |
+| TikTok | ✅ video 18:05 (2 views at 18:15); carousel 12:03 (87 views, 2 likes) | thumbnails did not load in the hidden pane | ❌ TikTok showed a slider puzzle (CAPTCHA) — not solved | ✅ carousel: question comment by Motaz; video: ❌ (puzzle) | ❌ | ✅ | ✅ carousel published, no music set |
+
+Replies: 0 real viewer comments on any app (YouTube Studio "unresponded" empty; TikTok Studio only creator comments; IG and FB posts only Motaz/NeuroMot comments).
+
 ## 2026-11-01 — OSCIS (Paper #8), noon review at 12:10
 
 | App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |
