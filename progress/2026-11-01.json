@@ -56,8 +56,8 @@
   "5_published": "done scheduled 12:00 Metricool ids 412712660 (YouTube Short, uuid 8651009624884727507), 412712676 (IG+FB reel, uuid 208629174716220936), TikTok video 18:00 id 412712680 (uuid -8848964839378695993) — Paper #8 test: TikTok carousel at noon, TikTok video at 18:00",
   "5c_carousel": "done scheduled TikTok 12:00 id 412712687 (uuid -5710649210150236755); IG+FB 18:00 id 412712690 (uuid -5921427281600822300)",
   "8_analysis": "done 09:15 (Metricool only; browser offline) — analytics/log.md, PLAN.md",
-  "6_review_video": "partly — 14:40 YouTube cover done; IG like+comment present (14:36, not by this run); YouTube like/comment/pin, FB, TikTok still open. Retry 18:10.",
-  "7_replies": "not done 12:10 — computer offline"
+  "6_review_video": "done 14:45 catch-up for the noon posts — YouTube cover uploaded in Studio; IG reel already liked + question comment 1x (no pin on web); FB reel liked (Motaz) + question comment as NeuroMot Page, switched back; TikTok carousel already liked + question comment 1x (a slider puzzle popped up after posting, not solved; comment is live). YouTube like/comment/pin NOT done: youtube.com page does not draw in the hidden browser pane. 18:10 review still to do (TikTok video + IG/FB carousel).",
+  "7_replies": "partly 14:50 catch-up — YouTube Studio: 0 unanswered; TikTok Studio: no viewer comments; Instagram notifications: no new comments; today's FB reel: no viewer comments. Older FB posts not checked."
  },
  "all_done": false,
  "reviews_scheduled": "send_later 12:10 (trig_01K8bnSqqaYQMgRWaMkkZnSF) and 18:10 (trig_01U7zvXw5d3q4TvLzrHGCkfr) Hebron",
@@ -67,5 +67,5 @@
   "facebook": "https://facebook.com/reel/1403023522898236",
   "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/video/7703141563223870740"
  },
- "catchup": "catch-up run 14:37-14:42 Hebron: YouTube cover JPG uploaded + saved in Studio. youtube.com Short page did not load in hidden pane (like/comment/pin not done). Instagram reel already liked + question comment posted at 14:36:51 by someone else (another run or Motaz) just before this run -> stopped to avoid double actions. Facebook, TikTok, replies left for the 18:10 review."
+ "catchup": "Two catch-up runs overlapped 14:32-14:50 Hebron (same browser). Run B uploaded the YouTube cover again and stopped. Run A (12:32 trigger) did IG comment, FB like+comment, TikTok comment and the reply check. No action was doubled (IG comment checked: 1x)."
 }

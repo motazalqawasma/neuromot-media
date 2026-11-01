@@ -2,6 +2,17 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
+## 2026-11-01 — OSCIS (Paper #8), catch-up review at 14:45 (noon posts)
+
+| App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |
+|---|---|---|---|---|---|---|---|
+| YouTube | ✅ public Short | ✅ Canva cover JPG uploaded in Studio + saved (custom thumb shows after reload) | ❌ youtube.com does not draw in the hidden browser pane | ❌ same reason | ❌ same reason | ✅ checked in Studio (title, DOI) | — |
+| Instagram | ✅ reel | ✅ (Metricool cover) | ✅ was already liked | ✅ posted 1x | no pin on web | ✅ DOI present | carousel at 18:00 |
+| Facebook | ✅ reel | not seen (screens don't draw) | ✅ liked 1x by Motaz | ✅ posted 1x as NeuroMot Page, switched back to Motaz | — | ✅ | carousel at 18:00 |
+| TikTok | carousel ✅ live; video at 18:00 | ✅ photoCoverIndex 0 | ✅ was already liked | ✅ posted 1x (seen in TikTok Studio) | not tried | ✅ DOI present | ✅ live; slider puzzle appeared after commenting — NOT solved |
+
+Replies: none needed — YouTube Studio 0 unanswered, TikTok Studio no viewer comments, Instagram no new comments, today's FB reel none (older FB posts not checked).
+
 ## 2026-11-01 — OSCIS (Paper #8), noon review at 12:10
 
 | App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |
