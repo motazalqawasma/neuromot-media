@@ -2,6 +2,28 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-01 (Sunday, 09:15 Hebron — OSCIS, Paper #8, scheduled for 12:00; Metricool numbers only, the browser was offline at analysis time)
+
+| Post | Posted | YouTube | TikTok | Instagram | Facebook | Change vs 31 Oct |
+|---|---|---|---|---|---|---|
+| Eptinezumab carousel | 29 Oct 15:36 | — | 222 | ? | ? | 0 |
+| Eptinezumab (Paper #7) | 29 Oct 13:36 | ? | 168 | 112 | 36 (Metricool) | 0 |
+| Donanemab carousel | 27 Oct 18:07 | — | 215 | ? | ? | 0 |
+| Donanemab (Paper #6) | 27 Oct 12:03 | ? | 113 | 136 | 32 (Metricool) | 0 |
+| AneurysmAI carousel | 25 Oct 18:04 | — | 473 | ? | ? | 0 |
+| AneurysmAI (Paper #5) | 25 Oct 11:16 | ? | 174 | 155 | 189 (Metricool) | 0 |
+| SELECT2 | 20 Oct 22:26 | ? | 432 | 141 | 220 (Metricool) | 0 |
+
+Instagram avg watch / share past 3 s (Metricool): Eptinezumab 6.2 s / 25.5%; Donanemab 7.3 s / 22%; AneurysmAI 8.1 s / 22%; SELECT2 4.9 s / 27%; ASDH 6.8 s / 32% (two-option hook, still the best 3-second rate).
+Comments from real viewers: still 0 (Metricool comment counts only show Motaz's own).
+
+Findings:
+1. Nothing moved in the last day: every post older than 2 days is flat (the "3-day life" again).
+2. The two-option "operate now, or wait?" hook (ASDH) still has the best Instagram 3-second rate (32%) — today's OSCIS video reuses that exact form.
+3. Today starts the Paper #8 test: TikTok carousel at 12:00 and TikTok video at 18:00 (reverse of usual).
+
+Plan changes: removed the OSCIS pin (now published); no other change.
+
 ## 2026-10-31 (Saturday, 12:10 Hebron — no video today: videos are Sun/Tue/Thu)
 
 | Post | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 30 Oct |

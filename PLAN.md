@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-10-31 (growth prompts added — hook lab + retention pass; daily analysis; OSCIS pinned for 2026-11-01, ENRICH for 2026-11-03)
+Last updated: 2026-11-01 (OSCIS published as Paper #8; TikTok carousel-at-noon / video-at-18:00 test running; OSCIS pin removed)
 
 ## Fixed rules (never change these)
 
@@ -22,7 +22,6 @@ Last updated: 2026-10-31 (growth prompts added — hook lab + retention pass; da
 4c. **Carousel** (6 slides, 4:5, Canva) of the same paper posted at 18:00 on Instagram + Facebook + TikTok (photo mode, no music). Real numbers only — never invented curves/funnels.
 5. **3 videos a week (Motaz, 2026-10-23): Sunday, Tuesday, Thursday at 12:00 noon (Asia/Hebron)**, each from the MOST ATTRACTIVE idea from any source (app summaries, the playbook ideas, or a fresh search) — a new paper gets a verified summary in the app first (Motaz, 2026-10-31); carousel the same day at 18:00. Late-night posts (9–11 PM) did worst.
 6. **Caption:** first line = the hook question; keep the key numbers short; hashtags start with #NeuroMot (5–9 in total).
-7a. **Pinned pick (Motaz, 2026-10-30):** on **Sunday 2026-11-01** the video paper is **OSCIS** (summary doc_id 2026-10-30, early vs delayed surgery for incomplete cervical cord injury), not another candidate. Hook = format A, a two-option decision question: **"Operate now, or wait 2 weeks?"**, spoken first and big on screen; then the twist: early surgery was ahead at 2 weeks (+34.2 vs +18.9 motor points) but at 1 year the gap was not significant (53.7 vs 48.5). Mention that 7 of 33 in the wait group never needed surgery. Comment question: "Would you operate? 1 = now, 2 = wait". Open access (JAMA Netw Open, CC BY) → real page screenshots allowed. Remove this line after that video is published.
 7. **Pinned pick (Motaz, 2026-10-30):** on **Tuesday 2026-11-03** the video paper is **ENRICH** (summary doc_id 2026-11-03), not another candidate. Hook = format A, a two-option decision question: **"Suck the clot out, or leave it?"**, spoken first and big on screen. Comment question: "Would you operate? 1 = remove it, 2 = leave it". Paywalled paper (NEJM) → title/authors block only, no page screenshots. Remove this line after that video is published.
 8. **Hook style (data, 2026-10-30):** decision questions with two options did best on Instagram ("Operate now, or wait?" 215 views, 32% stayed past 3 s; "Too late to pull the clot?" 141). Plain "Can X do Y?" questions did worse (102–136, 21–26%). Prefer the two-option form.
 
@@ -42,6 +41,8 @@ Last updated: 2026-10-31 (growth prompts added — hook lab + retention pass; da
 - 2026-10-28: TikTok carousels keep growing, videos do not: AneurysmAI carousel 345 → 473 in a day (video 170 → 174); Donanemab carousel 126 in 14 h vs its video 101 in 20 h. Second time the carousel wins on TikTok (early sign). Facebook gave Donanemab only 30 views in 20 h (AneurysmAI 205). Instagram watch time: Donanemab 6.4 s, AneurysmAI 8.2 s (best so far).
 - 2026-10-29/31: carousel beat the video on TikTok 5 times in a row (latest Eptinezumab 222 vs 168 at 2 days; Donanemab 215 vs 113). Carousels and videos both stop after ~3 days. Facebook stays low for the last 2 videos (35 and 39 vs 160–228 before) — early sign, watch it. Still 0 real viewer comments after 7 videos + 4 carousels.
 - 2026-10-24/25: videos stop growing after ~3 days (all 4 old videos +65 then +19 views per day); only TikTok keeps a slow trickle (SELECT2 386 → 432). Still 0 real viewer comments after 5 videos.
+
+- 2026-11-01: all posts older than 2 days were flat for a full day (no views added); ASDH two-option hook still best Instagram 3-s rate (32%).
 
 ## Series counter
 
