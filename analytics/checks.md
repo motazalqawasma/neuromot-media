@@ -2,6 +2,17 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
+## 2026-11-01 — OSCIS (Paper #8), noon review at 12:10
+
+| App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |
+|---|---|---|---|---|---|---|---|
+| YouTube | ✅ Short published (Metricool) https://www.youtube.com/shorts/czZ-fqE9MtU | ❌ not checked — computer offline | ❌ computer offline | ❌ computer offline | ❌ computer offline | ✅ sent text correct (title, DOI) | — |
+| Instagram | ✅ reel published https://www.instagram.com/reel/DfMeUEqDZOs/ | ✅ Canva cover sent as thumbnail (not seen in app) | ❌ computer offline | ❌ computer offline | ❌ | ✅ sent text correct | carousel at 18:00 |
+| Facebook | ✅ reel published https://facebook.com/reel/1403023522898236 | ✅ Canva cover sent (not seen) | ❌ computer offline | ❌ computer offline | — | ✅ sent text correct | carousel at 18:00 |
+| TikTok | carousel published 12:00 https://www.tiktok.com/@motaz.alqawasma/video/7703141563223870740 ; video at 18:00 | — | ❌ computer offline | ❌ computer offline | ❌ | ✅ | ✅ published (6 slides, no music set) — not seen in app |
+
+Note: the built-in browser and Claude in Chrome could not be reached (Motaz's computer is not connected), so only the Metricool checks were possible. Retry at 18:10.
+
 ## 2026-10-29 — Eptinezumab (Paper #7) video + carousel, catch-up review at 21:05
 
 | App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |

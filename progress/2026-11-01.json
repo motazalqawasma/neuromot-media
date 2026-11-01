@@ -55,8 +55,16 @@
   "5c_carousel_made": "done Canva DAHZpg6ueWk, banners/2026-11-01-OSCIS-carousel/slide1-6.jpg (1080x1440)",
   "5_published": "done scheduled 12:00 Metricool ids 412712660 (YouTube Short, uuid 8651009624884727507), 412712676 (IG+FB reel, uuid 208629174716220936), TikTok video 18:00 id 412712680 (uuid -8848964839378695993) — Paper #8 test: TikTok carousel at noon, TikTok video at 18:00",
   "5c_carousel": "done scheduled TikTok 12:00 id 412712687 (uuid -5710649210150236755); IG+FB 18:00 id 412712690 (uuid -5921427281600822300)",
-  "8_analysis": "done 09:15 (Metricool only; browser offline) — analytics/log.md, PLAN.md"
+  "8_analysis": "done 09:15 (Metricool only; browser offline) — analytics/log.md, PLAN.md",
+  "6_review_video": "partly 12:10 — Metricool: YouTube, IG, FB reel and TikTok carousel all PUBLISHED; browser checks (cover in apps, like, comment, pin) NOT done: computer offline. Retry 18:10.",
+  "7_replies": "not done 12:10 — computer offline"
  },
  "all_done": false,
- "reviews_scheduled": "send_later 12:10 (trig_01K8bnSqqaYQMgRWaMkkZnSF) and 18:10 (trig_01U7zvXw5d3q4TvLzrHGCkfr) Hebron"
+ "reviews_scheduled": "send_later 12:10 (trig_01K8bnSqqaYQMgRWaMkkZnSF) and 18:10 (trig_01U7zvXw5d3q4TvLzrHGCkfr) Hebron",
+ "links": {
+  "youtube": "https://www.youtube.com/shorts/czZ-fqE9MtU",
+  "instagram": "https://www.instagram.com/reel/DfMeUEqDZOs/",
+  "facebook": "https://facebook.com/reel/1403023522898236",
+  "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/video/7703141563223870740"
+ }
 }
