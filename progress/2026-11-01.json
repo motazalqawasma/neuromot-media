@@ -52,7 +52,9 @@
   "3_voice": "done take1 (connector, progress/2026-11-01-voice-take1.mp3, 54.5 s; take2 nearly identical)",
   "4_cover": "done banners/2026-11-01-OSCIS-cover-9x16.png (Canva DAHZpsOryEc, 1080x1920) + .jpg",
   "5_video": "done videos/2026-11-01-OSCIS.mp4 (55.5 s, 1080x1920, PMC page text images CC BY, SFX only)",
-  "5c_carousel_made": "done Canva DAHZpg6ueWk, banners/2026-11-01-OSCIS-carousel/slide1-6.jpg (1080x1440)"
+  "5c_carousel_made": "done Canva DAHZpg6ueWk, banners/2026-11-01-OSCIS-carousel/slide1-6.jpg (1080x1440)",
+  "5_published": "done scheduled 12:00 Metricool ids 412712660 (YouTube Short, uuid 8651009624884727507), 412712676 (IG+FB reel, uuid 208629174716220936), TikTok video 18:00 id 412712680 (uuid -8848964839378695993) — Paper #8 test: TikTok carousel at noon, TikTok video at 18:00",
+  "5c_carousel": "done scheduled TikTok 12:00 id 412712687 (uuid -5710649210150236755); IG+FB 18:00 id 412712690 (uuid -5921427281600822300)"
  },
  "all_done": false
 }
