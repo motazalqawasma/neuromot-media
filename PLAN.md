@@ -14,7 +14,7 @@ Last updated: 2026-11-01 (Motaz: two-option hook always, ~35 s length test, stro
 
 ## Current plan (change these when the data says so)
 
-1. **Hook in the first 2 seconds.** Open on the most surprising number or a yes/no question, big on screen and spoken first. Example: "Surgery rates: 0% vs 86%. Same outcome." No logo intro and no slow build-up.
+1. **Hook in the first 2 seconds.** Open on a two-option decision question (see rule 8), big on screen and spoken first. Example: "Surgery rates: 0% vs 86%. Same outcome." No logo intro and no slow build-up.
 2. **Length: about 35 seconds (Motaz, 2026-11-01)** — roughly 85–100 spoken words, 5–6 short scenes (hook, what they did, main result, the catch, takeaway + question). Instagram viewers watched only ~6 s of the 54-s Eptinezumab video, so test ~35 s against the old ~50 s and compare 3-second rate + average watch time.
 3. **End with a question that invites a comment.** Example: "Would you operate? Comment 1 for yes, 2 for wait." Then "Follow for one neuro paper a day."
 4. **v3 style (approved by Motaz on 2026-10-22, see template/README.md).** Dr. Mot (cartoon stick doctor = Motaz) with smooth poses; eased zoom in/out; real 3D object (Three.js) in the hook; 3D motion graphics (page fly-ins, card flips, extruded titles, parallax particles); real journal page screenshots with red boxes + note pills (open-access/CC BY papers only; paywalled = title/authors block only); burned-in word-by-word captions with yellow key words; sound effects only (whoosh/pop/click/swipe) — NO music, no instruments (Motaz's rule); loop ending (last line "because the real question is…" fades into the cover); "NEURO PAPER #N" badge; light human jokes (med-student life, everyday, memes), script must sound 100% human.
