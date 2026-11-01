@@ -50,7 +50,9 @@
   "1b_hooks": "done",
   "2_script": "done progress/2026-11-01-script.txt",
   "3_voice": "done take1 (connector, progress/2026-11-01-voice-take1.mp3, 54.5 s; take2 nearly identical)",
-  "4_cover": "done banners/2026-11-01-OSCIS-cover-9x16.png (Canva DAHZpsOryEc, 1080x1920) + .jpg"
+  "4_cover": "done banners/2026-11-01-OSCIS-cover-9x16.png (Canva DAHZpsOryEc, 1080x1920) + .jpg",
+  "5_video": "done videos/2026-11-01-OSCIS.mp4 (55.5 s, 1080x1920, PMC page text images CC BY, SFX only)",
+  "5c_carousel_made": "done Canva DAHZpg6ueWk, banners/2026-11-01-OSCIS-carousel/slide1-6.jpg (1080x1440)"
  },
  "all_done": false
 }

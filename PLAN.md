@@ -45,7 +45,7 @@ Last updated: 2026-10-31 (growth prompts added — hook lab + retention pass; da
 
 ## Series counter
 
-- Next NEURO PAPER number: 8 (increase by 1 after every published paper video).
+- Next NEURO PAPER number: 9 (increase by 1 after every published paper video).
 
 ## Ideas to test next
 
