@@ -67,5 +67,5 @@
   "facebook": "https://facebook.com/reel/1403023522898236",
   "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/video/7703141563223870740"
  },
- "catchup": "Two catch-up runs overlapped 14:32-14:50 Hebron (same browser). Run B uploaded the YouTube cover again and stopped. Run A (12:32 trigger) did IG comment, FB like+comment, TikTok comment and the reply check. No action was doubled (IG comment checked: 1x)."
+ "catchup": "Two catch-up runs overlapped 14:32-14:50 Hebron (same browser). Run B uploaded the YouTube cover again and stopped. Run A (12:32 trigger) did IG comment, FB like+comment, TikTok comment and the reply check. No action was doubled (IG comment checked: 1x). | Rerun 14:50 (Motaz asked): YouTube video liked ✅; YouTube Studio: no unanswered comments ✅; YouTube question comment/pin ❌ (watch page comments do not render in the pane). Facebook reel already liked + NeuroMot question comment posted ~14:45 by another active session (not Motaz, not this run) -> stopped again to avoid doubles."
 }
