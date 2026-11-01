@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-01 (OSCIS published as Paper #8; TikTok carousel-at-noon / video-at-18:00 test running; OSCIS pin removed)
+Last updated: 2026-11-01 (Motaz: two-option hook always, ~35 s length test, stroke/neurosurgery first; OSCIS published as Paper #8; TikTok carousel-at-noon / video-at-18:00 test running; OSCIS pin removed)
 
 ## Fixed rules (never change these)
 
@@ -15,7 +15,7 @@ Last updated: 2026-11-01 (OSCIS published as Paper #8; TikTok carousel-at-noon /
 ## Current plan (change these when the data says so)
 
 1. **Hook in the first 2 seconds.** Open on the most surprising number or a yes/no question, big on screen and spoken first. Example: "Surgery rates: 0% vs 86%. Same outcome." No logo intro and no slow build-up.
-2. **Length: about 40–50 seconds** (roughly 110–130 spoken words, 6 scenes: hook, what they did, result, second result, the catch, takeaway + question). Most viewers leave before 7 seconds, so shorter is better.
+2. **Length: about 35 seconds (Motaz, 2026-11-01)** — roughly 85–100 spoken words, 5–6 short scenes (hook, what they did, main result, the catch, takeaway + question). Instagram viewers watched only ~6 s of the 54-s Eptinezumab video, so test ~35 s against the old ~50 s and compare 3-second rate + average watch time.
 3. **End with a question that invites a comment.** Example: "Would you operate? Comment 1 for yes, 2 for wait." Then "Follow for one neuro paper a day."
 4. **v3 style (approved by Motaz on 2026-10-22, see template/README.md).** Dr. Mot (cartoon stick doctor = Motaz) with smooth poses; eased zoom in/out; real 3D object (Three.js) in the hook; 3D motion graphics (page fly-ins, card flips, extruded titles, parallax particles); real journal page screenshots with red boxes + note pills (open-access/CC BY papers only; paywalled = title/authors block only); burned-in word-by-word captions with yellow key words; sound effects only (whoosh/pop/click/swipe) — NO music, no instruments (Motaz's rule); loop ending (last line "because the real question is…" fades into the cover); "NEURO PAPER #N" badge; light human jokes (med-student life, everyday, memes), script must sound 100% human.
 4b. **Cover = Canva** (9:16 only, AI 3D hero image + big 2-line headline + key number box + NEURO PAPER #N + #NeuroMot, text out of the bottom 20%). The same cover is the video's first frame and the loop's last frame.
@@ -23,7 +23,9 @@ Last updated: 2026-11-01 (OSCIS published as Paper #8; TikTok carousel-at-noon /
 5. **3 videos a week (Motaz, 2026-10-23): Sunday, Tuesday, Thursday at 12:00 noon (Asia/Hebron)**, each from the MOST ATTRACTIVE idea from any source (app summaries, the playbook ideas, or a fresh search) — a new paper gets a verified summary in the app first (Motaz, 2026-10-31); carousel the same day at 18:00. Late-night posts (9–11 PM) did worst.
 6. **Caption:** first line = the hook question; keep the key numbers short; hashtags start with #NeuroMot (5–9 in total).
 7. **Pinned pick (Motaz, 2026-10-30):** on **Tuesday 2026-11-03** the video paper is **ENRICH** (summary doc_id 2026-11-03), not another candidate. Hook = format A, a two-option decision question: **"Suck the clot out, or leave it?"**, spoken first and big on screen. Comment question: "Would you operate? 1 = remove it, 2 = leave it". Paywalled paper (NEJM) → title/authors block only, no page screenshots. Remove this line after that video is published.
-8. **Hook style (data, 2026-10-30):** decision questions with two options did best on Instagram ("Operate now, or wait?" 215 views, 32% stayed past 3 s; "Too late to pull the clot?" 141). Plain "Can X do Y?" questions did worse (102–136, 21–26%). Prefer the two-option form.
+8. **Hook = two-option decision question, always (Motaz, 2026-11-01).** It is the only pattern that clearly helped the first 3 seconds: "Operate now, or wait?" (ASDH) 32% stayed past 3 s, vs 21–26% for yes/no or "Can X do Y?" hooks (Eptinezumab 25.5%). The hook lab still runs, but the chosen hook must be a two-option choice ("A, or B?").
+
+10. **Topic priority (Motaz, 2026-11-01):** prefer stroke and neurosurgery decision papers (thrombectomy, bleeds, surgery timing) — SELECT2 802 and AneurysmAI 545 views beat headache (~325) and Alzheimer's (288). Other topics only when nothing strong fits.
 
 9. **Growth prompts (Motaz, 2026-10-31, see strategy/playbook.md):** every video gets a hook lab (15 hooks in 5 groups → best 5 → use #1) and a retention pass on the script; carousels end with a save reason + a share reason. Pinned hooks still win over the hook lab.
 
