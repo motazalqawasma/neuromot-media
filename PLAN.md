@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-01 (Motaz: two-option hook always, ~35 s length test, stroke/neurosurgery first; OSCIS published as Paper #8; TikTok carousel-at-noon / video-at-18:00 test running; OSCIS pin removed)
+Last updated: 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with a two-option hook; Facebook rebound on neurosurgery; TikTok carousel-noon / video-18:00 test repeats for Paper #9)
 
 ## Fixed rules (never change these)
 
@@ -45,6 +45,7 @@ Last updated: 2026-11-01 (Motaz: two-option hook always, ~35 s length test, stro
 - 2026-10-24/25: videos stop growing after ~3 days (all 4 old videos +65 then +19 views per day); only TikTok keeps a slow trickle (SELECT2 386 → 432). Still 0 real viewer comments after 5 videos.
 
 - 2026-11-01: all posts older than 2 days were flat for a full day (no views added); ASDH two-option hook still best Instagram 3-s rate (32%).
+- 2026-11-02: OSCIS (two-option hook, neurosurgery) ~440 views in under 1 day, best first day so far; Instagram 28.9% past 3 s / 7.7 s (2nd best, after ASDH — both two-option hooks); Facebook 171 vs 33–37 for the last 2 non-surgical videos. Early signs.
 
 ## Series counter
 
@@ -56,4 +57,4 @@ Last updated: 2026-11-01 (Motaz: two-option hook always, ~35 s length test, stro
 
 - A/B the hook: a question hook vs a number hook. Compare the share of viewers who stay past 3 s and the average watch time on Instagram.
 - Try about 35 s versus about 50 s.
-- Carousel vs video on TikTok: carousel won twice (473 vs 174; 126 vs 101). Then 215 vs 110 and Eptinezumab 177 vs 123 (four wins). Next: for Paper #8, post the TikTok carousel at noon and the TikTok video at 18:00 (one-paper test).
+- Carousel vs video on TikTok: carousel has won 6 times (latest OSCIS 213 vs 134). Paper #8 test (carousel at noon, video at 18:00): the 18:00 video did slightly better than the noon Eptinezumab video at the same age (134 vs 123). Repeat the same order once for Paper #9 (ENRICH) before deciding.

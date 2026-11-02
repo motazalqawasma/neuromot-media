@@ -2,6 +2,36 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-02 (Monday, 11:00 Hebron — no video today: videos are Sun/Tue/Thu)
+
+| Post | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 1 Nov |
+|---|---|---|---|---|---|---|---|
+| OSCIS carousel (Paper #8) | 1 Nov 12:03 TikTok / 18:00 IG+FB | — | 213 | ? | ? | 213+ | new |
+| OSCIS (Paper #8, 55 s, two-option hook) | 1 Nov 12:00 (TikTok 18:05) | 10 | 134 | 125 | 171 (Metricool) | 440 (under 1 day) | new |
+| Eptinezumab carousel | 29 Oct 15:36 | — | 276 | ? | ? | 276+ | +54 |
+| Eptinezumab (Paper #7) | 29 Oct 13:36 | 4 | 171 | 113 | 37 | 325 | +3 |
+| Donanemab carousel | 27 Oct 18:07 | — | 256 | ? | ? | 256+ | +41 |
+| Donanemab (Paper #6) | 27 Oct 12:03 | 4 | 125 | 137 | 33 | 299 | small |
+| AneurysmAI carousel | 25 Oct 18:04 | — | 473 | ? | ? | 473+ | 0 |
+| AneurysmAI (Paper #5) | 25 Oct 11:16 | 6 | 174 | 156 | 189 | 525 | ~0 |
+| SELECT2 | 20 Oct 22:26 | 1 | 432 | 142 | 220 | 795 | 0 |
+| Boston v2.0 | 19 Oct 12:03 | 11 | 95 | 136 | 154 | 396 | 0 |
+| INTERACT3 | 18 Oct | 1 | 0 | 105 | 49 | 155 | 0 |
+| ASDH | 17 Oct | 8 | 0 | 216 | 8 | 232 | 0 |
+
+Sources: YouTube Studio shorts list, TikTok Studio content page (platform numbers); Instagram and Facebook from Metricool (Instagram reels grid did not load in the pane). Carousel jumps on TikTok (+54, +41) are partly Metricool-vs-TikTok Studio differences, not only growth.
+Instagram avg watch / share past 3 s: OSCIS 7.7 s / 28.9%; Eptinezumab 6.2 s / 25.2%; Donanemab 7.3 s / 22.8%; AneurysmAI 8.2 s / 22.4%; SELECT2 5.0 s / 27.2%; Boston 5.7 s / 21.7%; INTERACT3 3.0 s / 21.7%; ASDH 6.8 s / 31.6%.
+Comments from real viewers: 0 on all 4 apps (YouTube Studio "unresponded" empty; TikTok Studio only Motaz's own; OSCIS Instagram reel and Facebook reel only the NeuroMot/Motaz question comment; Facebook notifications show no comments). No replies needed.
+
+Findings:
+1. The two-option hook again did well on Instagram: OSCIS 28.9% stayed past 3 s and 7.7 s average watch — 2nd best after ASDH (31.6%), which also used "operate now, or wait?". Both top 3-second rates are two-option hooks (early sign, 2 videos).
+2. Facebook came back with a neurosurgery topic: OSCIS 171 views in under a day vs 37 and 33 for the migraine and Alzheimer's videos. Supports "stroke/neurosurgery first" (early sign).
+3. Paper #8 TikTok test: carousel at noon 213 vs video at 18:00 134 — the carousel won for the 6th time. But the 18:00 video (134 in ~17 h) did a little better than the noon Eptinezumab video at the same age (123 at ~20 h). Too small to call.
+4. OSCIS reached about 440 views in under 1 day — the best first day so far (AneurysmAI 530 needed 2 days).
+5. Still 0 real viewer comments after 8 videos and 5 carousels.
+
+Plan changes: Current plan unchanged (two-option hook + stroke/neurosurgery are already the rules). Ideas: repeat the TikTok "carousel at noon, video at 18:00" order once more for Paper #9 (ENRICH, Tue) before deciding.
+
 ## 2026-11-01 (Sunday, 09:15 Hebron — OSCIS, Paper #8, scheduled for 12:00; Metricool numbers only, the browser was offline at analysis time)
 
 | Post | Posted | YouTube | TikTok | Instagram | Facebook | Change vs 31 Oct |
