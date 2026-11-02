@@ -29,6 +29,8 @@ Last updated: 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with
 
 9. **Growth prompts (Motaz, 2026-10-31, see strategy/playbook.md):** every video gets a hook lab (15 hooks in 5 groups → best 5 → use #1) and a retention pass on the script; carousels end with a save reason + a share reason. Pinned hooks still win over the hook lab.
 
+10. **3D anatomy segment (Motaz, 2026-11-03):** if the paper has a clear body place (spine, nerve, brain region, bleed, vessel), add a 5–10 s x-ray-body anatomy scene (template/src/Anatomy.tsx) right after the hook. Skip it when it doesn't help.
+
 ## What the data has shown so far
 
 - 2026-10-19: Boston (new style, voice, 12:00) beat both older videos within 12 hours. It got 327 views across 4 apps, versus 209 for ASDH (2 days old) and 114 for INTERACT3.

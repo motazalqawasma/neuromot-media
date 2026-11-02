@@ -8,3 +8,6 @@ Example: the aneurysm-AI video (Neuro Paper #5, Fujimura, JAMA Netw Open 2025) �
 - Sound effects: `python3 ../tools/sfx.py public/sfx.wav <total_s> "whoosh@0.4,pop@2.1,click@3,swipe@5"` — whoosh/pop/click/swipe only. **No music, no instruments** (Motaz's rule).
 - Render: `npx remotion render src/index.ts NeuroMot out/video.mp4 --concurrency=2 --gl=angle --browser-executable=/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell`
 - **Instagram grid crop**: the profile grid shows only the middle 3:4 of a 9:16 cover (y 240–1680 of 1920). Keep the headline, hero and key number inside that band.
+
+## 3D anatomy segment (approved by Motaz 2026-11-03) — `src/Anatomy.tsx`
+Style from an anatomy-explainer reference: see-through "x-ray" body on a dark background, real 3D bones (Three.js), glowing orange nerves/vessels that DRAW themselves (TubeGeometry + setDrawRange), a purple lesion with a red pain pulse, label tags that follow 3D points (project the point with the same camera), a legend list that builds up, short captions at the bottom, smooth camera moves (camAt keyframes). Example = sciatica (disc L5–S1 → sciatic nerve → foot). Re-use the parts (Tube, Ghost body, Tag, Legend, camAt) and build the anatomy of the paper (brain + clot, brain vessels + aneurysm, spinal cord, nerve…). Only textbook anatomy; never invented numbers.
