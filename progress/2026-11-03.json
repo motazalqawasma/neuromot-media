@@ -15,8 +15,8 @@
   "5c_carousel": "done scheduled 18:00 id 415268900 (IG+FB+TikTok)",
   "6_published_check": "done 15:45 \u2014 all 4 PUBLISHED",
   "8_analysis": "done 15:45 (Metricool TikTok only; browser offline) + weak-point review in analytics/lessons.md, PLAN.md fixes #12",
-  "6_review_video": "pending \u2014 computer not reachable at 15:45 (YouTube thumbnail, likes, question comments); retry at 16:15 and 18:10",
-  "7_replies": "pending (needs browser)"
+  "6_review_video": "done 16:40 \u2014 YouTube Studio thumbnail uploaded + saved (JPG); IG liked + question comment; FB liked + question comment (as Motaz; cover correct); TikTok liked + question comment (ClipboardEvent paste \u2014 execCommand insertText doubled the text, cleared before posting); YouTube like/comment/pin NOT done (watch/shorts page buttons don't render in hidden pane); no pin on IG/FB/TikTok web",
+  "7_replies": "done 16:40 \u2014 0 real viewer comments on ENRICH (IG/FB/TikTok)"
  },
  "all_done": false,
  "hooks": {

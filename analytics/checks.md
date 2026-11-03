@@ -2,6 +2,15 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
+## 2026-11-03 ENRICH video (checked 16:40)
+
+| App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption |
+|---|---|---|---|---|---|---|
+| YouTube | ✅ | ✅ uploaded in Studio | ❌ page buttons don't load in hidden pane | ❌ same | ❌ | ✅ |
+| Instagram | ✅ | ✅ (Metricool cover) | ✅ | ✅ | no pin on web | ✅ |
+| Facebook | ✅ | ✅ cover frame | ✅ | ✅ | no pin on web | ✅ |
+| TikTok | ✅ | ✅ cover-first frame | ✅ | ✅ | no pin on web | ✅ |
+
 ## 2026-11-01 — OSCIS (Paper #8), catch-up review at 14:45 (noon posts)
 
 | App | 1 live | 2 cover | 3 like | 4 question comment | 5 pinned | 6 caption | 7 carousel |
