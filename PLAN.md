@@ -31,6 +31,8 @@ Last updated: 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with
 
 10. **3D anatomy segment (Motaz, 2026-11-03):** if the paper has a clear body place (spine, nerve, brain region, bleed, vessel), add a 5–10 s x-ray-body anatomy scene (template/src/Anatomy.tsx) right after the hook. Skip it when it doesn't help.
 
+11. **Improve without asking (Motaz, 2026-11-03):** any suggestion from the analysis goes straight into the next video; report it, don't ask for permission. Fixed rules still hold.
+
 ## What the data has shown so far
 
 - 2026-10-19: Boston (new style, voice, 12:00) beat both older videos within 12 hours. It got 327 views across 4 apps, versus 209 for ASDH (2 days old) and 114 for INTERACT3.
