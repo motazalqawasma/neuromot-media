@@ -12,6 +12,26 @@ Findings:
 2. Engagement is the weakest part: 0 comments and 0 shares on every TikTok post; likes per 100 views under 2%.
 Plan changes: see analytics/lessons.md (3 fixes for Thursday).
 
+Evening update (17:10 Hebron, scheduled run; browser online):
+
+| Post | YouTube | TikTok | Instagram | Facebook | Total |
+|---|---|---|---|---|---|
+| ENRICH (Paper #9, 15:32) | 4 | ? | ? (too new) | ? | too new |
+| OSCIS (Paper #8) | 10 | 228 | 125 | 172 | 535 |
+| Eptinezumab (Paper #7) | 4 | 173 | 113 | 37 | 327 |
+| Donanemab (Paper #6) | 4 | 125 | 137 | 33 | 299 |
+| AneurysmAI (Paper #5) | 6 | 174 | 156 | 189 | 525 |
+| SELECT2 | 1 | 432 | 142 | 220 | 795 |
+| Boston v2.0 | 11 | 95 | 136 | 156 | 398 |
+| INTERACT3 | 1 | 0 | 105 | 49 | 155 |
+| ASDH | 8 | 0 | 216 | 9 | 233 |
+
+Sources: YouTube Studio Shorts list; TikTok, Instagram, Facebook from Metricool (Instagram grid still does not load in the pane). Carousels on TikTok: AneurysmAI 473, Eptinezumab 310, Donanemab 257, OSCIS 230.
+Comments from real viewers: still 0 on all 4 apps (YouTube Studio unresponded empty; TikTok Studio only Motaz's own; ENRICH Instagram only the question comment; Facebook notifications no reel comments). No replies needed.
+ENRICH YouTube: liked + question comment posted and pinned (desktop-size viewport made the comment box load).
+Findings: everything older than 2 days is flat again (OSCIS only +1 Facebook view since yesterday). Note: the OSCIS YouTube Short has 0 comments, so its question comment was never posted there.
+Plan changes: none (nothing new in the data).
+
 ## 2026-11-02 (Monday, 11:00 Hebron — no video today: videos are Sun/Tue/Thu)
 
 | Post | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 1 Nov |

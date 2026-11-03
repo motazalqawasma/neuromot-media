@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-03 (weak-point review: 0 real comments, short watch time, low likes → 3 fixes for Thursday); previously 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with a two-option hook; Facebook rebound on neurosurgery; TikTok carousel-noon / video-18:00 test repeats for Paper #9)
+Last updated: 2026-11-03 evening (no plan change: all older posts flat, still 0 real comments; YouTube comment box works with a 1280×900 viewport); earlier 2026-11-03 (weak-point review: 0 real comments, short watch time, low likes → 3 fixes for Thursday); previously 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with a two-option hook; Facebook rebound on neurosurgery; TikTok carousel-noon / video-18:00 test repeats for Paper #9)
 
 ## Fixed rules (never change these)
 
