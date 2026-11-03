@@ -51,7 +51,7 @@ Last updated: 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with
 
 ## Series counter
 
-- Next NEURO PAPER number: 9 (increase by 1 after every published paper video).
+- Next NEURO PAPER number: 10 (increase by 1 after every published paper video).
 
 ## Ideas to test next
 
