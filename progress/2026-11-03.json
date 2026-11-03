@@ -8,7 +8,11 @@
   "1b_hooks": "done",
   "2_script": "done progress/2026-11-03-script.txt",
   "3_voice": "done take1 (connector, progress/2026-11-03-voice-take1.mp3, 46.2 s; downloaded via browser pane \u2014 elevenlabsusercontent.com blocked in workspace)",
-  "4_cover": "done banners/2026-11-03-ENRICH-cover-9x16.png (Canva DAHZ3bDWMXE, 1080x1920) + .jpg"
+  "4_cover": "done banners/2026-11-03-ENRICH-cover-9x16.png (Canva DAHZ3bDWMXE, 1080x1920) + .jpg",
+  "5_video": "done videos/2026-11-03-ENRICH.mp4 (48.1 s, 1080x1920, recreated title card \u2014 paywalled, SFX only, 3D x-ray brain anatomy)",
+  "5c_carousel_made": "done Canva DAHZ3SDkHbI (6 slides 1080x1440, checked: true numbers only)",
+  "5_published": "done scheduled 15:32 (late run, Motaz asked ASAP) Metricool ids 415268225 (YouTube Short), 415268429 (IG+FB reel + TikTok video). TikTok order test skipped today (all at once).",
+  "5c_carousel": "done scheduled 18:00 id 415268900 (IG+FB+TikTok)"
  },
  "all_done": false,
  "hooks": {
@@ -51,5 +55,6 @@
  "retention_pass": [
   "Hook is the first 6 words and spoken in 1.5 s; the group-chat joke keeps the loop open before the numbers; each paragraph ends on a turn ('Half got medicines only', 'Almost HALF', 'But wait').",
   "Cut to 116 words (~46 s); added a save reason ('Exam tip: surface bleeds, early') and a share/debate question (1 = remove it, 2 = leave it)."
- ]
+ ],
+ "video": "Neuro Paper #9 \u2014 ENRICH early minimally invasive ICH evacuation (Pradilla, NEJM 2024)"
 }
