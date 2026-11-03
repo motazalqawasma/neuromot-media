@@ -3,6 +3,53 @@
  "run": "manual run started 15:05 Hebron in Motaz's chat (scheduled runs missed: computer off at 7:06 and 10:36). Publish video ASAP.",
  "paper_doc": "2026-11-03",
  "why_this_one": "Pinned in PLAN.md by Motaz (ENRICH, hook 'Suck the clot out, or leave it?').",
- "steps": {},
- "all_done": false
+ "steps": {
+  "1_paper": "done 2026-11-03 (ENRICH, pinned)",
+  "1b_hooks": "done",
+  "2_script": "done progress/2026-11-03-script.txt",
+  "3_voice": "done take1 (connector, progress/2026-11-03-voice-take1.mp3, 46.2 s; downloaded via browser pane \u2014 elevenlabsusercontent.com blocked in workspace)",
+  "4_cover": "done banners/2026-11-03-ENRICH-cover-9x16.png (Canva DAHZ3bDWMXE, 1080x1920) + .jpg"
+ },
+ "all_done": false,
+ "hooks": {
+  "all": {
+   "curiosity": [
+    "Suck the clot out, or leave it?",
+    "Why would a surgeon push a tube INTO a bleeding brain?",
+    "Open surgery failed for brain bleeds. So why did this tube work?"
+   ],
+   "contrarian": [
+    "Open brain surgery didn't help most bleeds. A tiny tube did.",
+    "Removing the clot only helped one kind of bleed.",
+    "Deep bleeds? The tube didn't help at all."
+   ],
+   "emotional": [
+    "Your patient has a 50 ml bleed. Tube now, or wait?",
+    "It's hour 16. The clot is still there. Do you go in?",
+    "Family asks: 'Can't you just take it out?'"
+   ],
+   "specificity": [
+    "9.3% vs 18%: deaths at 30 days, tube vs medicines.",
+    "87.7% of the clot gone through one tiny port.",
+    "300 patients, 37 centers, surgery within 24 hours."
+   ],
+   "authority": [
+    "ENRICH, NEJM 2024: early minimally invasive clot removal, explained.",
+    "The trial that may change how we treat lobar bleeds.",
+    "What a Bayesian adaptive trial found about clot removal."
+   ]
+  },
+  "top5": [
+   "Suck the clot out, or leave it? (pinned)",
+   "Your patient has a 50 ml bleed. Tube now, or wait?",
+   "9.3% vs 18%: deaths at 30 days.",
+   "Open brain surgery didn't help most bleeds. A tiny tube did.",
+   "Removing the clot only helped one kind of bleed."
+  ],
+  "used": "Suck the clot out, or leave it? (pinned by PLAN.md)"
+ },
+ "retention_pass": [
+  "Hook is the first 6 words and spoken in 1.5 s; the group-chat joke keeps the loop open before the numbers; each paragraph ends on a turn ('Half got medicines only', 'Almost HALF', 'But wait').",
+  "Cut to 116 words (~46 s); added a save reason ('Exam tip: surface bleeds, early') and a share/debate question (1 = remove it, 2 = leave it)."
+ ]
 }
