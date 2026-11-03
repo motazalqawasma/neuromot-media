@@ -12,7 +12,11 @@
   "5_video": "done videos/2026-11-03-ENRICH.mp4 (48.1 s, 1080x1920, recreated title card \u2014 paywalled, SFX only, 3D x-ray brain anatomy)",
   "5c_carousel_made": "done Canva DAHZ3SDkHbI (6 slides 1080x1440, checked: true numbers only)",
   "5_published": "done scheduled 15:32 (late run, Motaz asked ASAP) Metricool ids 415268225 (YouTube Short), 415268429 (IG+FB reel + TikTok video). TikTok order test skipped today (all at once).",
-  "5c_carousel": "done scheduled 18:00 id 415268900 (IG+FB+TikTok)"
+  "5c_carousel": "done scheduled 18:00 id 415268900 (IG+FB+TikTok)",
+  "6_published_check": "done 15:45 \u2014 all 4 PUBLISHED",
+  "8_analysis": "done 15:45 (Metricool TikTok only; browser offline) + weak-point review in analytics/lessons.md, PLAN.md fixes #12",
+  "6_review_video": "pending \u2014 computer not reachable at 15:45 (YouTube thumbnail, likes, question comments); retry at 16:15 and 18:10",
+  "7_replies": "pending (needs browser)"
  },
  "all_done": false,
  "hooks": {
@@ -56,5 +60,11 @@
   "Hook is the first 6 words and spoken in 1.5 s; the group-chat joke keeps the loop open before the numbers; each paragraph ends on a turn ('Half got medicines only', 'Almost HALF', 'But wait').",
   "Cut to 116 words (~46 s); added a save reason ('Exam tip: surface bleeds, early') and a share/debate question (1 = remove it, 2 = leave it)."
  ],
- "video": "Neuro Paper #9 \u2014 ENRICH early minimally invasive ICH evacuation (Pradilla, NEJM 2024)"
+ "video": "Neuro Paper #9 \u2014 ENRICH early minimally invasive ICH evacuation (Pradilla, NEJM 2024)",
+ "links": {
+  "youtube": "https://www.youtube.com/shorts/i2JU1u1C-p0",
+  "instagram": "https://www.instagram.com/reel/DfR_5z-EZb0/",
+  "facebook": "https://facebook.com/reel/955284644005952",
+  "tiktok_video": "https://www.tiktok.com/@motaz.alqawasma/video/7703937828761357586"
+ }
 }

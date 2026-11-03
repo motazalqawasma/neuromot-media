@@ -2,6 +2,16 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-03 (Tuesday — ENRICH, Paper #9, published 15:32 after the morning runs missed it; computer off)
+
+TikTok (Metricool, posts' lifetime): SELECT2 432 views / 8 likes; AneurysmAI carousel 473 / 6; Eptinezumab carousel 310 / 1; Donanemab carousel 257 / 5; OSCIS carousel 230 / 4; OSCIS video 228 / 2; Eptinezumab video 173 / 2; AneurysmAI video 174 / 2; Donanemab video 125 / 2; Boston 95 / 3; ASDH and INTERACT3 0. Comments 0 and shares 0 on all.
+ENRICH: too new. Other apps: no fresh numbers (browser offline at review time) — see 2026-11-02.
+
+Findings:
+1. OSCIS video on TikTok (posted 18:05) grew 134 → 228 in a day; carousel 213 → 230 — this time the video caught up (Paper #8 test: early sign the 18:00 TikTok video is not worse).
+2. Engagement is the weakest part: 0 comments and 0 shares on every TikTok post; likes per 100 views under 2%.
+Plan changes: see analytics/lessons.md (3 fixes for Thursday).
+
 ## 2026-11-02 (Monday, 11:00 Hebron — no video today: videos are Sun/Tue/Thu)
 
 | Post | Posted | YouTube | TikTok | Instagram | Facebook | Total | Change vs 1 Nov |

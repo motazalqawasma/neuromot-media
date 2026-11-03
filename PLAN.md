@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with a two-option hook; Facebook rebound on neurosurgery; TikTok carousel-noon / video-18:00 test repeats for Paper #9)
+Last updated: 2026-11-03 (weak-point review: 0 real comments, short watch time, low likes → 3 fixes for Thursday); previously 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with a two-option hook; Facebook rebound on neurosurgery; TikTok carousel-noon / video-18:00 test repeats for Paper #9)
 
 ## Fixed rules (never change these)
 
@@ -30,6 +30,8 @@ Last updated: 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with
 9. **Growth prompts (Motaz, 2026-10-31, see strategy/playbook.md):** every video gets a hook lab (15 hooks in 5 groups → best 5 → use #1) and a retention pass on the script; carousels end with a save reason + a share reason. Pinned hooks still win over the hook lab.
 
 10. **3D anatomy segment (Motaz, 2026-11-03):** if the paper has a clear body place (spine, nerve, brain region, bleed, vessel), add a 5–10 s x-ray-body anatomy scene (template/src/Anatomy.tsx) right after the hook. Skip it when it doesn't help.
+
+12. **Fixes from 2026-11-03 (weak-point review, see analytics/lessons.md):** (a) show the 1/2 comment question on screen at ~8–10 s as well as the end, and set Metricool firstCommentText = the question for Instagram + Facebook; (b) the most shocking true number on screen in the first 2 s next to the hook, 35–40 s total; (c) decision videos are a series "OPERATE OR WAIT? · case N" ending "Follow for case N+1".
 
 11. **Improve without asking (Motaz, 2026-11-03):** any suggestion from the analysis goes straight into the next video; report it, don't ask for permission. Fixed rules still hold.
 
