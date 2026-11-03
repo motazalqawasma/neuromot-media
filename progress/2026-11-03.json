@@ -17,7 +17,7 @@
   "8_analysis": "done 15:45 (Metricool TikTok only; browser offline) + weak-point review in analytics/lessons.md, PLAN.md fixes #12",
   "6_review_video": "done 16:40 \u2014 YouTube Studio thumbnail uploaded + saved (JPG); IG liked + question comment; FB liked + question comment (as Motaz; cover correct); TikTok liked + question comment (ClipboardEvent paste \u2014 execCommand insertText doubled the text, cleared before posting); YouTube like/comment/pin NOT done (watch/shorts page buttons don't render in hidden pane); no pin on IG/FB/TikTok web",
   "7_replies": "done 16:40 \u2014 0 real viewer comments on ENRICH (IG/FB/TikTok)",
-  "6_review_carousel": "partly 18:15 \u2014 all 3 PUBLISHED; IG 6 slides, liked + question comment \u2705; FB 6 slides, liked \u2705, question comment typed but computer disconnected before posting (check FB post: comment may be missing); TikTok carousel like/comment NOT done (computer offline)",
+  "6_review_carousel": "done 18:25 \u2014 all 3 PUBLISHED; IG 6 slides liked + question comment; FB 6 slides liked + question comment; TikTok photo carousel (no music shown) liked + question comment",
   "9_report": "done 18:16"
  },
  "all_done": true,
@@ -72,5 +72,5 @@
   "facebook_carousel": "https://facebook.com/122094426255522886/posts/122108839623522886",
   "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/video/7703978211255799058"
  },
- "note": "all_done set so catch-up runs don't remake anything; leftover: FB carousel question comment, TikTok carousel like+comment, YouTube video like/comment/pin \u2014 next run's review may finish them (check before posting, never twice)."
+ "note": "leftover: YouTube video like/comment/pin (page buttons don't load in hidden pane)."
 }
