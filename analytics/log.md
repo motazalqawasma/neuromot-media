@@ -2,6 +2,33 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-04 (Wednesday, 12:00 Hebron — no video today: videos are Sun/Tue/Thu; Thursday = EMMA-Can, Friday's Paper #11 made early in Motaz's chat)
+
+| Post | YouTube | TikTok | Instagram | Facebook | Total | Change vs 3 Nov evening |
+|---|---|---|---|---|---|---|
+| ENRICH (Paper #9, 48 s, 3 Nov 15:32) | 4 | 99 (+ carousel 125) | 122 | 159 | 384 (~20 h) | first numbers |
+| OSCIS (Paper #8) | 10 | 231 (carousel 239) | 125 | 174 | 540 | +5 |
+| Eptinezumab (Paper #7) | 4 | 173 (carousel 361) | 113 | 37 | 327 | 0 |
+| Donanemab (Paper #6) | 4 | 125 (carousel 257) | 137 | 33 | 299 | 0 |
+| AneurysmAI (Paper #5) | 6 | 174 (carousel 473) | 156 | 189 | 525 | 0 |
+| SELECT2 | 1 | 432 | 142 | 220 | 795 | 0 |
+| Boston v2.0 | 11 | 95 | 136 | 157 | 399 | +1 |
+| INTERACT3 | 1 | 0 | 105 | 49 | 155 | 0 |
+| ASDH | 10 | 0 | 216 | 10 | 236 | +3 |
+
+Sources: YouTube Studio Shorts list and TikTok Studio content page (platform numbers); Instagram and Facebook from Metricool (the browser link to Motaz's computer dropped while opening Instagram, so no IG/FB pages today).
+Instagram avg watch / share past 3 s: ENRICH 6.1 s / 28.3% (saves 0, shares 0, likes 2 incl. Motaz). Facebook avg watch (Metricool): ENRICH 4 s, OSCIS 3 s, AneurysmAI 5 s, Donanemab 6 s.
+Comments from real viewers: 0 on YouTube (Studio "unresponded" empty) and TikTok (Studio shows only Motaz's 6 question comments). Instagram comment counts = 1 per recent reel (Motaz's own question). Facebook comments not checked (browser offline). No replies needed.
+
+Findings:
+1. Two-option hook: ENRICH 28.3% past 3 s on Instagram. All 3 two-option hooks are at 28%+ (ASDH 31.6, OSCIS 28.9, ENRICH 28.3); all other hooks 21.7–27.2%. Strongest pattern so far (still small numbers).
+2. Shorter is not enough: ENRICH 48 s → 6.1 s average watch; OSCIS 55 s → 7.7 s. People leave at the same moment, so what is on screen in the first seconds matters more than total length (Thursday's fixes target exactly this).
+3. Facebook likes neurosurgery: ENRICH 159 in ~20 h, OSCIS 174, vs 33–37 for migraine/Alzheimer's (3rd confirmation).
+4. TikTok carousel beat the video again (125 vs 99, same afternoon) — 7th time. Older posts are flat (only +5 views on OSCIS in a day).
+5. Still 0 real comments and 0 shares after 9 videos and 6 carousels.
+
+Plan changes: no rule change (Thursday already carries the 3 fixes from analytics/lessons.md). Removed the old ENRICH pin; TikTok order test moved to Thursday; added a watch-time check for Thursday.
+
 ## 2026-11-03 (Tuesday — ENRICH, Paper #9, published 15:32 after the morning runs missed it; computer off)
 
 TikTok (Metricool, posts' lifetime): SELECT2 432 views / 8 likes; AneurysmAI carousel 473 / 6; Eptinezumab carousel 310 / 1; Donanemab carousel 257 / 5; OSCIS carousel 230 / 4; OSCIS video 228 / 2; Eptinezumab video 173 / 2; AneurysmAI video 174 / 2; Donanemab video 125 / 2; Boston 95 / 3; ASDH and INTERACT3 0. Comments 0 and shares 0 on all.

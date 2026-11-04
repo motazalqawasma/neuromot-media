@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-03 evening (no plan change: all older posts flat, still 0 real comments; YouTube comment box works with a 1280×900 viewport); earlier 2026-11-03 (weak-point review: 0 real comments, short watch time, low likes → 3 fixes for Thursday); previously 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with a two-option hook; Facebook rebound on neurosurgery; TikTok carousel-noon / video-18:00 test repeats for Paper #9)
+Last updated: 2026-11-04 (daily analysis: ENRICH is the 3rd two-option hook at 28%+ on Instagram; 48 s did not raise watch time; Facebook neurosurgery again strong; still 0 real comments; no rule change); earlier 2026-11-03 evening (no plan change: all older posts flat, still 0 real comments; YouTube comment box works with a 1280×900 viewport); earlier 2026-11-03 (weak-point review: 0 real comments, short watch time, low likes → 3 fixes for Thursday); previously 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with a two-option hook; Facebook rebound on neurosurgery; TikTok carousel-noon / video-18:00 test repeats for Paper #9)
 
 ## Fixed rules (never change these)
 
@@ -22,7 +22,7 @@ Last updated: 2026-11-03 evening (no plan change: all older posts flat, still 0 
 4c. **Carousel** (6 slides, 4:5, Canva) of the same paper posted at 18:00 on Instagram + Facebook + TikTok (photo mode, no music). Real numbers only — never invented curves/funnels.
 5. **3 videos a week (Motaz, 2026-10-23): Sunday, Tuesday, Thursday at 12:00 noon (Asia/Hebron)**, each from the MOST ATTRACTIVE idea from any source (app summaries, the playbook ideas, or a fresh search) — a new paper gets a verified summary in the app first (Motaz, 2026-10-31); carousel the same day at 18:00. Late-night posts (9–11 PM) did worst.
 6. **Caption:** first line = the hook question; keep the key numbers short; hashtags start with #NeuroMot (5–9 in total).
-7. **Pinned picks:** **Thursday 2026-11-05 = EMMA-Can** (summary doc_id 2026-10-26, chronic subdural hematoma ± middle meningeal artery embolization; two-option hook e.g. "Drain it… or also block the artery?"). Paper #10 (DBS vs focused ultrasound, doc 2026-10-28) is already made for Friday 2026-11-06 — never reuse it. Old: on **Tuesday 2026-11-03** the video paper is **ENRICH** (summary doc_id 2026-11-03), not another candidate. Hook = format A, a two-option decision question: **"Suck the clot out, or leave it?"**, spoken first and big on screen. Comment question: "Would you operate? 1 = remove it, 2 = leave it". Paywalled paper (NEJM) → title/authors block only, no page screenshots. Remove this line after that video is published.
+7. **Pinned picks:** **Thursday 2026-11-05 = EMMA-Can** (summary doc_id 2026-10-26, chronic subdural hematoma ± middle meningeal artery embolization; two-option hook e.g. "Drain it… or also block the artery?"). Paper #10 (DBS vs focused ultrasound, doc 2026-10-28) is already made for Friday 2026-11-06 — never reuse it.
 8. **Hook = two-option decision question, always (Motaz, 2026-11-01).** It is the only pattern that clearly helped the first 3 seconds: "Operate now, or wait?" (ASDH) 32% stayed past 3 s, vs 21–26% for yes/no or "Can X do Y?" hooks (Eptinezumab 25.5%). The hook lab still runs, but the chosen hook must be a two-option choice ("A, or B?").
 
 10. **Topic priority (Motaz, 2026-11-01):** prefer stroke and neurosurgery decision papers (thrombectomy, bleeds, surgery timing) — SELECT2 802 and AneurysmAI 545 views beat headache (~325) and Alzheimer's (288). Other topics only when nothing strong fits.
@@ -52,6 +52,7 @@ Last updated: 2026-11-03 evening (no plan change: all older posts flat, still 0 
 
 - 2026-11-01: all posts older than 2 days were flat for a full day (no views added); ASDH two-option hook still best Instagram 3-s rate (32%).
 - 2026-11-02: OSCIS (two-option hook, neurosurgery) ~440 views in under 1 day, best first day so far; Instagram 28.9% past 3 s / 7.7 s (2nd best, after ASDH — both two-option hooks); Facebook 171 vs 33–37 for the last 2 non-surgical videos. Early signs.
+- 2026-11-04: ENRICH (48 s, two-option hook, neurosurgery) 384 video views in ~20 h (FB 159, IG 122, TikTok 99, YouTube 4; OSCIS had 440 at the same age) + TikTok carousel 125. Instagram 28.3% past 3 s — now 3 of 3 two-option hooks at 28%+ vs 21.7–27.2% for the rest. But watch time 6.1 s (OSCIS 55 s: 7.7 s): shorter alone did not keep people longer. Still 0 real comments and 0 shares.
 
 ## Series counter
 
@@ -63,4 +64,5 @@ Last updated: 2026-11-03 evening (no plan change: all older posts flat, still 0 
 
 - A/B the hook: a question hook vs a number hook. Compare the share of viewers who stay past 3 s and the average watch time on Instagram.
 - Try about 35 s versus about 50 s.
-- Carousel vs video on TikTok: carousel has won 6 times (latest OSCIS 213 vs 134). Paper #8 test (carousel at noon, video at 18:00): the 18:00 video did slightly better than the noon Eptinezumab video at the same age (134 vs 123). Repeat the same order once for Paper #9 (ENRICH) before deciding.
+- Carousel vs video on TikTok: carousel has won 7 times (latest ENRICH 125 vs 99, both posted the same afternoon). The noon-carousel / 18:00-video order was only tested once (Paper #8) — repeat it for Thursday's EMMA-Can if the run is on time.
+- Watch time: judge Thursday's fixes (shocking number in the first 2 s, question at ~8–10 s) on Instagram avg watch vs ENRICH 6.1 s and OSCIS 7.7 s.
