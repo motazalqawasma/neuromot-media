@@ -31,7 +31,7 @@ Last updated: 2026-11-03 evening (no plan change: all older posts flat, still 0 
 
 10. **3D anatomy segment (Motaz, 2026-11-03):** if the paper has a clear body place (spine, nerve, brain region, bleed, vessel), add a 5–10 s x-ray-body anatomy scene (template/src/Anatomy.tsx) right after the hook. Skip it when it doesn't help.
 
-12. **Fixes from 2026-11-03 (weak-point review, see analytics/lessons.md):** (a) show the 1/2 comment question on screen at ~8–10 s as well as the end, and set Metricool firstCommentText = the question for Instagram + Facebook; (b) the most shocking true number on screen in the first 2 s next to the hook, 35–40 s total; (c) decision videos are a series "OPERATE OR WAIT? · case N" ending "Follow for case N+1".
+12. **Fixes from 2026-11-03 (weak-point review, see analytics/lessons.md):** (a) show the 1/2 comment question on screen at ~8–10 s as well as the end, and set Metricool firstCommentText = the question for Instagram + Facebook; (b) the most shocking true number on screen in the first 2 s next to the hook, 35–40 s total; (c) decision videos are a series "YOU'RE THE SURGEON · case N" (pill on screen + caption) ending "Follow for case N+1": Thu 2026-11-05 = case 1, Fri 2026-11-06 = case 2.
 
 11. **Improve without asking (Motaz, 2026-11-03):** any suggestion from the analysis goes straight into the next video; report it, don't ask for permission. Fixed rules still hold.
 
@@ -55,7 +55,7 @@ Last updated: 2026-11-03 evening (no plan change: all older posts flat, still 0 
 
 ## Series counter
 
-- Next NEURO PAPER number: 10 (increase by 1 after every published paper video).
+- Next NEURO PAPER number: 10 (increase by 1 after every published paper video). #11 is already used by the Friday 2026-11-06 video (made early) — so after Thursday's #10, the next free number is 12.
 
 ## Ideas to test next
 
