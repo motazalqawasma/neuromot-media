@@ -6,7 +6,16 @@
  "video": "Neuro Paper #10 \u2014 DBS vs MR-guided focused ultrasound for essential tremor (Sabet, Neurosurg Rev 2026)",
  "steps": {
   "1_paper": "done 2026-10-28",
-  "2_script": "done progress/2026-11-06-script.txt"
+  "2_script": "done progress/2026-11-06-script.txt",
+  "3_voice": "done take1 (connector; downloaded via browser pane as .tmp; atempo 1.08 \u2192 45.5 s) progress/2026-11-06-voice-take1.mp3",
+  "4_cover": "done banners/2026-11-06-Tremor-cover-9x16.png (Canva DAHZ8YxVs-Q) + .jpg"
  },
- "all_done": false
+ "all_done": false,
+ "fixes_applied": [
+  "27% vs 4% on screen in the first 0.3 s",
+  "'Pick 1 or 2 \u2014 comment now' card at ~6.5 s plus end question",
+  "series pill YOU'RE THE SURGEON \u00b7 CASE 2 + 'Follow for case 3'",
+  "~47 s (voice sped up 8%)",
+  "Metricool firstCommentText on IG+FB"
+ ]
 }
