@@ -7,6 +7,9 @@ PROGRESS FILE (so a run stopped by the usage limit can be continued later)
 - After EACH finished step, update it and commit + push right away (git pull --rebase first): {"date": TODAY, "steps": {"1_paper": "done", "2_script": "done", "3_voice": "done take2", "4_cover": "done banners/…png", "5_video": "done videos/…mp4", "5_published": "done ids …", "5c_carousel": "done id …", "6_review_video": "done", "6_review_carousel": "done", "7_replies": "done", "8_analysis": "done", "9_report": "done"}, "all_done": false}. Set "all_done": true after the report. Also save the script text and the chosen take file into progress/ so a later run can reuse them (never generate the voice twice for the same day).
 - LATE RUN TIMES: if the video is published by a catch-up run after 12:00, schedule it 10 minutes from now (not in the past); if it is already after 21:00, schedule it for tomorrow 10:00 and tell Motaz. If the carousel time 18:00 has passed, post it 2 hours after the video (or tomorrow 16:00 if that is after 22:00). The review step (6) happens about 10 minutes after each post goes live.
 
+
+DOWNLOAD TIP (2026-11-04): the workspace cannot reach elevenlabsusercontent.com or export-download.canva.com. Download through the built-in browser (navigate to the file URL, JS fetch → blob → <a download> click) ONE file at a time. The file often stays in C:\Users\mmmoq\Downloads under a random name ending .tmp (same byte size as the blob): find it with device_list_dir (match the size) and stage that .tmp. Metricool can take Canva export URLs directly, so carousels need no download.
+
 0. SKIP CHECK
 - Metricool brand id 7496566 (timezone Asia/Hebron). Call getScheduledPosts for TODAY. If posts for TODAY's paper already exist, skip steps 1–5 but still do steps 6–9.
 
