@@ -56,7 +56,7 @@ Last updated: 2026-11-04 (daily analysis: ENRICH is the 3rd two-option hook at 2
 
 ## Series counter
 
-- Next NEURO PAPER number: 10 (increase by 1 after every published paper video). #11 is already used by the Friday 2026-11-06 video (made early) — so after Thursday's #10, the next free number is 12.
+- Next NEURO PAPER number: 12 (#10 = EMMA-Can Thu 11-05, #11 = tremor Fri 11-06; increase by 1 after every published paper video). #11 is already used by the Friday 2026-11-06 video (made early) — so after Thursday's #10, the next free number is 12.
 
 ## Ideas to test next
 
