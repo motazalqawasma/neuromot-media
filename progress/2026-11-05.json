@@ -7,7 +7,13 @@
   "1_paper": "done 2026-10-26 (EMMA-Can, pinned)",
   "2_script": "done progress/2026-11-05-script.txt",
   "3_voice": "done take1 (connector; browser .tmp download; atempo 1.08 \u2192 46.7 s)",
-  "4_cover": "done CODE cover banners/2026-11-05-EMMA-cover-9x16.png \u2014 Canva credit quota exceeded today"
+  "4_cover": "done CODE cover banners/2026-11-05-EMMA-cover-9x16.png \u2014 Canva credit quota exceeded today",
+  "5_video": "done videos/2026-11-05-EMMA.mp4 (48.6 s, 1080x1920, 3D x-ray skull with CSDH + MMA/Onyx, recreated title card, SFX only)",
+  "5_published": "done scheduled 16:16 (late run) Metricool 417784163 (YouTube), 417784272 (IG+FB reel + TikTok; IG/FB first comment = question)",
+  "5c_carousel_made": "done CODE slides banners/2026-11-05-EMMA-carousel/slide1-6.jpg (Canva quota exceeded)",
+  "5c_carousel": "done scheduled 18:16 id 417784386",
+  "6_review": "handled by send_later in Motaz's chat session at 16:28 and 18:28"
  },
- "all_done": false
+ "all_done": true,
+ "note": "all_done set so catch-up runs don't remake anything; reviews run from the chat session."
 }
