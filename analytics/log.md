@@ -29,6 +29,16 @@ Findings:
 
 Plan changes: no rule change (Thursday already carries the 3 fixes from analytics/lessons.md). Removed the old ENRICH pin; TikTok order test moved to Thursday; added a watch-time check for Thursday.
 
+## 2026-11-05 (Thursday — EMMA-Can, Paper #10, published 16:16 after the morning runs missed it again; computer off)
+
+TikTok (Metricool, lifetime): ENRICH video 111 views / 1 like (2 days, posted 15:32); ENRICH carousel 201 / 2; OSCIS video 231 / 3; OSCIS carousel 239 / 5; Eptinezumab carousel 388 / 1 (still growing); Eptinezumab video 173 / 2; SELECT2 432 / 8; AneurysmAI carousel 473 / 6. Comments 0 and shares 0 on all.
+
+Findings:
+1. ENRICH video is the weakest recent video on TikTok (111 in 2 days vs OSCIS 231, Eptinezumab 173): it was posted at 15:32 instead of noon and its first second was a 3-line title. Early sign: late posting hurts.
+2. Carousel beat the video on TikTok for the 7th time (ENRICH 201 vs 111). Carousels keep growing for longer (Eptinezumab carousel 310 → 388 in 2 days).
+3. Still 0 real comments. Today's EMMA-Can is the first video with the question on screen at 8 s and the automatic first comment on Instagram/Facebook; judge on Sunday.
+Plan change: none new (fixes from 2026-11-03 are now in use); make sure the computer is on so videos go out at noon.
+
 ## 2026-11-03 (Tuesday — ENRICH, Paper #9, published 15:32 after the morning runs missed it; computer off)
 
 TikTok (Metricool, posts' lifetime): SELECT2 432 views / 8 likes; AneurysmAI carousel 473 / 6; Eptinezumab carousel 310 / 1; Donanemab carousel 257 / 5; OSCIS carousel 230 / 4; OSCIS video 228 / 2; Eptinezumab video 173 / 2; AneurysmAI video 174 / 2; Donanemab video 125 / 2; Boston 95 / 3; ASDH and INTERACT3 0. Comments 0 and shares 0 on all.
