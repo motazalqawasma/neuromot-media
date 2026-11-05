@@ -3,6 +3,11 @@
  "run": "manual run started 15:50 Hebron in Motaz's chat (scheduled runs missed: computer off at 7:06 and 10:36). Publish ASAP.",
  "paper_doc": "2026-10-26",
  "why_this_one": "Pinned in PLAN.md (EMMA-Can, chronic subdural hematoma, two-option hook). Case 1 of YOU'RE THE SURGEON, Neuro Paper #10.",
- "steps": {},
+ "steps": {
+  "1_paper": "done 2026-10-26 (EMMA-Can, pinned)",
+  "2_script": "done progress/2026-11-05-script.txt",
+  "3_voice": "done take1 (connector; browser .tmp download; atempo 1.08 \u2192 46.7 s)",
+  "4_cover": "done CODE cover banners/2026-11-05-EMMA-cover-9x16.png \u2014 Canva credit quota exceeded today"
+ },
  "all_done": false
 }
