@@ -12,8 +12,15 @@
   "5_published": "done scheduled 16:16 (late run) Metricool 417784163 (YouTube), 417784272 (IG+FB reel + TikTok; IG/FB first comment = question)",
   "5c_carousel_made": "done CODE slides banners/2026-11-05-EMMA-carousel/slide1-6.jpg (Canva quota exceeded)",
   "5c_carousel": "done scheduled 18:16 id 417784386",
-  "6_review": "handled by send_later in Motaz's chat session at 16:28 and 18:28"
+  "6_review": "handled by send_later in Motaz's chat session at 16:28 and 18:28",
+  "6_review_video": "done 16:35 \u2014 all 4 PUBLISHED; YouTube thumbnail uploaded (save unclear in hidden pane; first frame is the cover anyway); IG liked + auto first comment present; FB liked + auto first comment present; TikTok liked + question comment (paste); YouTube like/comment not possible (hidden pane)"
  },
  "all_done": true,
- "note": "all_done set so catch-up runs don't remake anything; reviews run from the chat session."
+ "note": "all_done set so catch-up runs don't remake anything; reviews run from the chat session.",
+ "links": {
+  "youtube": "https://www.youtube.com/shorts/oS7otkCD8fM",
+  "instagram": "https://www.instagram.com/reel/DfXOc_EDcdF/",
+  "facebook": "https://facebook.com/reel/1430540145350831",
+  "tiktok": "https://www.tiktok.com/@motaz.alqawasma/video/7704691156109593864"
+ }
 }

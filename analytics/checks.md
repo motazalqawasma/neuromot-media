@@ -2,6 +2,17 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
+## 2026-11-05 EMMA-Can video (checked 16:35)
+
+| App | live | cover | like | question | pin | caption |
+|---|---|---|---|---|---|---|
+| YouTube | ✅ | ✅ (uploaded; first frame = cover) | ❌ hidden pane | ❌ hidden pane | ❌ | ✅ |
+| Instagram | ✅ | ✅ | ✅ | ✅ auto first comment | no pin on web | ✅ |
+| Facebook | ✅ | ✅ | ✅ | ✅ auto first comment | no pin on web | ✅ |
+| TikTok | ✅ | ✅ cover-first frame | ✅ | ✅ | no pin on web | ✅ |
+
+Note: the automatic first comment (Metricool firstCommentText) worked on Instagram and Facebook — no manual comment needed there any more.
+
 ## 2026-11-03 ENRICH video (checked 16:40)
 
 | App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption |
