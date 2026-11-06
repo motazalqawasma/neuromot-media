@@ -2,6 +2,36 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-06 (Friday, ~14:30 Hebron — Tremor, Paper #11, was made early and auto-published at 12:00; this run only did the after-publish jobs)
+
+| Post | YouTube | TikTok | Instagram | Facebook | Total | Change vs 4 Nov |
+|---|---|---|---|---|---|---|
+| Tremor (Paper #11, today 12:00) | 1 | 0 | ? | 23 | too new | — |
+| EMMA-Can (Paper #10, 5 Nov 14:16) | 0 | 172 (+ carousel 163) | 117 | 173 | 462 (~22 h) | new |
+| ENRICH (Paper #9) | 4 | 111 (carousel 320) | 126 | 231 | 472 | +88 |
+| OSCIS (Paper #8) | 10 | 231 (carousel 241) | 125 | 189 | 555 | +15 |
+| Eptinezumab (Paper #7) | 4 | 173 (carousel 388) | 113 | 40 | 330 | +3 |
+| Donanemab (Paper #6) | 4 | 125 (carousel 257) | 137 | 38 | 304 | +5 |
+| AneurysmAI (Paper #5) | 6 | 174 (carousel 473) | 156 | 210 | 546 | +21 |
+| SELECT2 | 1 | 432 | 142 | 228 | 803 | +8 |
+| Boston v2.0 | 11 | 95 | 136 | 167 | 409 | +10 |
+| INTERACT3 | 1 | 0 | 105 | 49 | 155 | 0 |
+| ASDH | 10 | 0 | 216 | 11 | 237 | +1 |
+
+Sources: YouTube Studio Shorts list and Facebook Page reels tab (platform numbers); TikTok and Instagram from Metricool (Instagram grid still does not load in the pane).
+Instagram share past 3 s / avg watch: EMMA-Can 39.1% / 5.7 s; ENRICH 28.7% / 6.3 s; OSCIS 28.9% / 7.7 s; Eptinezumab 25.2% / 6.1 s; Donanemab 22.8% / 7.3 s; AneurysmAI 22.4% / 8.2 s; SELECT2 27.2% / 5.0 s; Boston 21.7% / 5.7 s; INTERACT3 21.7% / 3.0 s; ASDH 31.6% / 6.8 s.
+Comments from real viewers: 0 on all 4 apps (YouTube Studio unresponded empty; TikTok Studio only Motaz's own; Instagram counts = 1 = the automatic question comment; Facebook notifications show no reel comments). No replies needed.
+Today's Tremor: YouTube thumbnail set (cover) + liked + question comment (pin blocked: "Your channel has lost access to advanced features", needs verification); Instagram liked (auto question comment present); Facebook liked (NeuroMot auto question comment present); TikTok liked + question comment.
+
+Findings:
+1. The first-second number works for the start: EMMA-Can (28% vs 4.3% on screen at once, cover-first) kept 39.1% of Instagram viewers past 3 s — best ever (before: 21.7–31.6%). One video only, early sign.
+2. But watch time did not move: 5.7 s (others 5–8 s). People still leave around second 6, so the next fix is in seconds 3–10.
+3. TikTok: for the first time the video beat its carousel (172 vs 163, carousel posted 2 h later). Early sign that the cover-first + number opening helps on TikTok too.
+4. Facebook keeps liking neurosurgery (EMMA 173, ENRICH 231, OSCIS 189 vs 38–40 for migraine/Alzheimer's). ENRICH is still growing on Facebook (+72 in 2 days).
+5. YouTube Shorts stay near 0 (EMMA 0 views), and the channel lost advanced features (pinning asks for verification). Still 0 real comments and almost 0 shares everywhere.
+
+Plan changes: added the EMMA-Can line to "What the data has shown"; next small test (Sunday) = an open loop at 3–5 s + faster picture changes in the first 10 s to lift watch time; comment idea queued after it.
+
 ## 2026-11-04 (Wednesday, 12:00 Hebron — no video today: videos are Sun/Tue/Thu; Thursday = EMMA-Can, Friday's Paper #11 made early in Motaz's chat)
 
 | Post | YouTube | TikTok | Instagram | Facebook | Total | Change vs 3 Nov evening |

@@ -2,6 +2,15 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
+## 2026-11-06 Tremor video (checked 14:20)
+
+| App | live | cover | like | question | pin | caption |
+|---|---|---|---|---|---|---|
+| YouTube | ✅ | ✅ uploaded in Studio + saved | ✅ | ✅ | ❌ channel lost advanced features (verification asked) | ✅ |
+| Instagram | ✅ | ✅ | ✅ | ✅ auto first comment | no pin on web | ✅ |
+| Facebook | ✅ | ✅ | ✅ | ✅ auto first comment (NeuroMot) | no pin on web | ✅ |
+| TikTok | ✅ | ✅ cover-first frame | ✅ | ✅ | no pin on web | ✅ |
+
 ## 2026-11-05 EMMA-Can video (checked 16:35)
 
 | App | live | cover | like | question | pin | caption |

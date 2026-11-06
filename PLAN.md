@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-04 (daily analysis: ENRICH is the 3rd two-option hook at 28%+ on Instagram; 48 s did not raise watch time; Facebook neurosurgery again strong; still 0 real comments; no rule change); earlier 2026-11-03 evening (no plan change: all older posts flat, still 0 real comments; YouTube comment box works with a 1280×900 viewport); earlier 2026-11-03 (weak-point review: 0 real comments, short watch time, low likes → 3 fixes for Thursday); previously 2026-11-02 (daily analysis: OSCIS 2nd-best Instagram 3-s rate with a two-option hook; Facebook rebound on neurosurgery; TikTok carousel-noon / video-18:00 test repeats for Paper #9)
+Last updated: 2026-11-06 (daily analysis: EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
 
 ## Fixed rules (never change these)
 
@@ -53,6 +53,7 @@ Last updated: 2026-11-04 (daily analysis: ENRICH is the 3rd two-option hook at 2
 - 2026-11-01: all posts older than 2 days were flat for a full day (no views added); ASDH two-option hook still best Instagram 3-s rate (32%).
 - 2026-11-02: OSCIS (two-option hook, neurosurgery) ~440 views in under 1 day, best first day so far; Instagram 28.9% past 3 s / 7.7 s (2nd best, after ASDH — both two-option hooks); Facebook 171 vs 33–37 for the last 2 non-surgical videos. Early signs.
 - 2026-11-04: ENRICH (48 s, two-option hook, neurosurgery) 384 video views in ~20 h (FB 159, IG 122, TikTok 99, YouTube 4; OSCIS had 440 at the same age) + TikTok carousel 125. Instagram 28.3% past 3 s — now 3 of 3 two-option hooks at 28%+ vs 21.7–27.2% for the rest. But watch time 6.1 s (OSCIS 55 s: 7.7 s): shorter alone did not keep people longer. Still 0 real comments and 0 shares.
+- 2026-11-06: EMMA-Can (Thu 14:16, two-option hook + 28% vs 4.3% on screen in the first second + question card at ~8 s) 462 views in ~22 h (FB 173, TikTok 172, IG 117, YouTube 0). Instagram 39.1% past 3 s (best ever; earlier best 31.6%) but avg watch 5.7 s (no gain). TikTok: video 172 beat its carousel 163 for the first time. Still 0 real comments, even with the on-screen question + auto first comment. Early signs.
 
 ## Series counter
 
@@ -65,4 +66,5 @@ Last updated: 2026-11-04 (daily analysis: ENRICH is the 3rd two-option hook at 2
 - A/B the hook: a question hook vs a number hook. Compare the share of viewers who stay past 3 s and the average watch time on Instagram.
 - Try about 35 s versus about 50 s.
 - Carousel vs video on TikTok: carousel has won 7 times (latest ENRICH 125 vs 99, both posted the same afternoon). The noon-carousel / 18:00-video order was only tested once (Paper #8) — repeat it for Thursday's EMMA-Can if the run is on time.
-- Watch time: judge Thursday's fixes (shocking number in the first 2 s, question at ~8–10 s) on Instagram avg watch vs ENRICH 6.1 s and OSCIS 7.7 s.
+- Watch time (next small test, Sunday 11-08): the first-second number fix works for the 3-s rate, but people still leave at ~6 s. Test an open loop at 3–5 s ("the answer surprised the surgeons — stay to the end") and change the picture every 1.5–2 s in the first 10 s; judge on Instagram avg watch vs EMMA 5.7 s and Tremor (Fri 11-06).
+- Comments: still 0 real comments after the on-screen question card. Next idea after the watch-time test: ask an easier, one-tap question ("1 or 2?") with a playful reason to answer.
