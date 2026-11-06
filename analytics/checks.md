@@ -2,6 +2,14 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
+## 2026-11-06 Tremor carousel (checked 18:12)
+
+| App | live | 6 slides | no music | like | question |
+|---|---|---|---|---|---|
+| Instagram | ✅ | ✅ 6 | — | ✅ liked now | ✅ auto first comment |
+| Facebook | ✅ | ✅ 6 (4 + "+2") | — | ✅ liked now | ✅ auto first comment (NeuroMot) |
+| TikTok | ✅ PUBLISHED (Metricool) | ❓ | ❓ | ❓ | ❓ — computer went offline mid-check; not done |
+
 ## 2026-11-06 Tremor video (checked 14:20)
 
 | App | live | cover | like | question | pin | caption |
