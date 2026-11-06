@@ -3,23 +3,29 @@
  "run": "made early on Wed 2026-11-04 in Motaz's chat (he asked: make a video today for Friday, use the weekly limit before Thu 21:00)",
  "paper_doc": "2026-10-28",
  "why_this_one": "Neurosurgery decision with a two-option hook (drill vs no cut), common condition, CC BY open access (real page screenshots), very visual.",
- "video": "Neuro Paper #10 \u2014 DBS vs MR-guided focused ultrasound for essential tremor (Sabet, Neurosurg Rev 2026)",
+ "video": "Neuro Paper #10 — DBS vs MR-guided focused ultrasound for essential tremor (Sabet, Neurosurg Rev 2026)",
  "steps": {
   "1_paper": "done 2026-10-28",
   "2_script": "done progress/2026-11-06-script.txt",
-  "3_voice": "done take1 (connector; downloaded via browser pane as .tmp; atempo 1.08 \u2192 45.5 s) progress/2026-11-06-voice-take1.mp3",
+  "3_voice": "done take1 (connector; downloaded via browser pane as .tmp; atempo 1.08 → 45.5 s) progress/2026-11-06-voice-take1.mp3",
   "4_cover": "done banners/2026-11-06-Tremor-cover-9x16.png (Canva DAHZ8YxVs-Q) + .jpg",
   "5_video": "done videos/2026-11-06-Tremor.mp4 (47.3 s, 1080x1920, 3D x-ray heads, recreated title card CC BY, SFX only)",
   "5_published": "done scheduled Fri 2026-11-06 12:00: Metricool 416301140 (YouTube Short), 416301245 (IG+FB reel + TikTok, IG/FB firstCommentText = question)",
   "5c_carousel_made": "done Canva DAHZ8XE9yLQ (slide 1 checked; slides 2-6 to be checked Friday from Metricool media)",
   "5c_carousel": "done scheduled Fri 18:00 id 416289619 (firstCommentText = question)",
-  "review": "scheduled task trig_01LAjnJDDgAMtA9tkudWkcey Fri 12:12"
+  "review": "scheduled task trig_01LAjnJDDgAMtA9tkudWkcey Fri 12:12",
+  "6_review_video": "done (2 runs; TikTok question comment posted twice by mistake)",
+  "6_carousel_slides_checked": "done 14:00 all 6 OK, no fix",
+  "7_replies": "done 0 real comments",
+  "8_analysis": "done (log + PLAN by daily run; lessons.md + PLAN fix 13 by review run)",
+  "9_report": "done video report",
+  "6_review_carousel": "scheduled 18:10 send_later"
  },
  "all_done": false,
  "fixes_applied": [
   "27% vs 4% on screen in the first 0.3 s",
-  "'Pick 1 or 2 \u2014 comment now' card at ~6.5 s plus end question",
-  "series pill YOU'RE THE SURGEON \u00b7 CASE 2 + 'Follow for case 3'",
+  "'Pick 1 or 2 — comment now' card at ~6.5 s plus end question",
+  "series pill YOU'RE THE SURGEON · CASE 2 + 'Follow for case 3'",
   "~47 s (voice sped up 8%)",
   "Metricool firstCommentText on IG+FB"
  ]

@@ -2,6 +2,26 @@
 
 After every published video, the run compares ALL past videos and carousels, names the 3 biggest weak points (views, hook, retention, likes, comments, followers), the mistake behind each, 1–3 fixes for the next video, and judges whether earlier fixes worked. Newest at the top.
 
+## 2026-11-06 (after Tremor, Paper #11 — review of EMMA-Can's fixes)
+
+Numbers: analytics/log.md 2026-11-06 (EMMA-Can ~22 h old; Tremor too new).
+
+**Earlier fixes (from 2026-11-03) — verdict**
+- Shock number in the first second (+ cover-first): WORKED for the hook — EMMA-Can Instagram 39.1% past 3 s, best ever (before 21.7–31.6%). One video, early sign.
+- Question card at ~8 s + Metricool auto first comment: DID NOT WORK yet — the auto comment posts fine, but still 0 real viewer comments (EMMA-Can, 462 views).
+- Shorter (~45 s): DID NOT WORK for retention — Instagram avg watch 5.7 s (ENRICH 6.3 s, OSCIS 7.7 s).
+- "You're the surgeon · case N" series + "Follow for case N+1": TOO EARLY (case 2 is today; no follower numbers yet).
+
+**3 biggest weak points**
+1. RETENTION: avg watch 5.7 s on a ~47 s video (~12% watched), even with a better 3-s rate. Mistake: after the shock number, seconds 3–10 repeat setup (option 1 / option 2) with no reason to stay.
+2. COMMENTS: 0 real comments on all 4 apps after 10 videos + 6 carousels. Mistake: the question needs thinking ("drill or no cut?") and nothing rewards answering; the answer is never promised.
+3. YOUTUBE VIEWS: Shorts get 0–11 views (EMMA-Can 0); the channel lost advanced features (pin needs verification). Mistake: we never fixed the verification, and YouTube gets the same caption with nothing Shorts-specific.
+
+**Fixes for the next video (Sun 2026-11-08) — applied without asking**
+1. Open loop at 3–5 s ("the result surprised the surgeons — answer at the end") + a new picture every 1.5–2 s in the first 10 s.
+2. One-tap question with a reward: "Comment 1 or 2 — I reply to every answer with the reason" (and reply the same day).
+3. YouTube: Motaz to do the channel verification himself (phone code in YouTube Studio) — we do not change settings.
+
 ## 2026-11-03 (after ENRICH, Paper #9 — first weak-point review)
 
 Numbers used: TikTok from Metricool today; Instagram/Facebook/YouTube from the 2026-11-02 platform check (log.md). Browser was offline at 15:45, so no fresh platform pages.

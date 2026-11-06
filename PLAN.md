@@ -33,6 +33,8 @@ Last updated: 2026-11-06 (daily analysis: EMMA-Can's fixes — true shock number
 
 12. **Fixes from 2026-11-03 (weak-point review, see analytics/lessons.md):** (a) show the 1/2 comment question on screen at ~8–10 s as well as the end, and set Metricool firstCommentText = the question for Instagram + Facebook; (b) the most shocking true number on screen in the first 2 s next to the hook, 35–40 s total; (c) decision videos are a series "YOU'RE THE SURGEON · case N" (pill on screen + caption) ending "Follow for case N+1": Thu 2026-11-05 = case 1, Fri 2026-11-06 = case 2.
 
+13. **Fixes from 2026-11-06 (see analytics/lessons.md):** (a) open loop at 3–5 s ("the answer surprised the surgeons — stay to the end") and a new picture every 1.5–2 s in the first 10 s; (b) one-tap question with a reward: "Comment 1 or 2 — I reply to every answer with the reason", and reply the same day.
+
 11. **Improve without asking (Motaz, 2026-11-03):** any suggestion from the analysis goes straight into the next video; report it, don't ask for permission. Fixed rules still hold.
 
 ## What the data has shown so far

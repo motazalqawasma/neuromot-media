@@ -11,6 +11,8 @@ Newest first. One table per day (app × checklist items 1–7).
 | Facebook | ✅ | ✅ | ✅ | ✅ auto first comment (NeuroMot) | no pin on web | ✅ |
 | TikTok | ✅ | ✅ cover-first frame | ✅ | ✅ | no pin on web | ✅ |
 
+Second review run (14:00, other session): carousel 416289619 (18:00) — all 6 slides checked from the Metricool media: numbers match the paper (463 patients; response 2 studies/125 patients; CRST 5.1; gait 26.6% vs 4.1%; paresthesia 13.3% vs 2.2%; limitation), no invented charts, no ghost text; slide 5 "THE CATCH" title touches the device image a little but is readable — no fix needed. ❌ TikTok: this run posted the question comment a 2nd time (the other run had posted it 3 min earlier; video page still showed 0 comments) — not deleted (rule); Motaz may delete one. YouTube Studio Save did not fire in the hidden pane (thumbnail was already saved by the first run).
+
 ## 2026-11-05 EMMA-Can video (checked 16:35)
 
 | App | live | cover | like | question | pin | caption |
