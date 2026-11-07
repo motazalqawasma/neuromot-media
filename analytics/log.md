@@ -2,6 +2,35 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-07 (Saturday, ~13:50 Hebron — no video today: videos are Sun/Tue/Thu (+ Friday's Tremor made early); this run did comments + analysis only)
+
+| Post | YouTube | TikTok | Instagram | Facebook | Total | Change vs 6 Nov |
+|---|---|---|---|---|---|---|
+| Tremor (Paper #11, 6 Nov 12:04) | 3 | 187 (+ carousel 185) | 114 | 296 | 600 (~25 h) | first full day |
+| EMMA-Can (Paper #10) | 0 | 220 (carousel 293) | 117 | 175 | 512 | +50 |
+| ENRICH (Paper #9) | 4 | 111 (carousel 368) | 126 | 231 | 472 | 0 |
+| OSCIS (Paper #8) | 10 | 232 (carousel 243) | 125 | 189 | 556 | +1 |
+| Eptinezumab (Paper #7) | 4 | 173 (carousel 388) | 113 | 40 | 330 | 0 |
+| Donanemab (Paper #6) | 4 | 125 (carousel 257) | 137 | 38 | 304 | 0 |
+| AneurysmAI (Paper #5) | 6 | 174 (carousel 473) | 156 | 210 | 546 | 0 |
+| SELECT2 | 1 | 432 | 142 | 228 | 803 | 0 |
+| Boston v2.0 | 12 | 95 | 136 | 168 | 411 | +2 |
+| INTERACT3 | 1 | 0 | 105 | 49 | 155 | 0 |
+| ASDH | 10 | 0 | 216 | 11 | 237 | 0 |
+
+Sources: YouTube Studio Shorts list, TikTok Studio content page, Facebook Page reels tab (platform numbers); Instagram from Metricool.
+Instagram share past 3 s / avg watch: Tremor 35.2% / 6.2 s; EMMA-Can 39.1% / 5.7 s; ENRICH 28.7% / 6.3 s; OSCIS 28.9% / 7.7 s; others 21.7–31.6% / 3.0–8.2 s.
+Comments from real viewers: 0 on all 4 apps (YouTube Studio "unresponded" empty; TikTok Studio only Motaz's own — note Tremor has 2 near-identical question comments from Motaz; Instagram comment count 1 per reel = auto question; Facebook Tremor + EMMA reels only the NeuroMot comment). No replies needed.
+
+Findings:
+1. Tremor had the best first day ever: 600 views in ~25 h (EMMA 462, OSCIS 440), mostly Facebook 296 (best Facebook reel ever). Neurosurgery + two-option hook + true number in the first second + cover-first, posted on time at noon.
+2. The first-second number keeps the start strong: Instagram 35.2% past 3 s (EMMA 39.1%); all older videos 21.7–31.6%. 2 of 2 videos — still an early sign.
+3. Watch time is still stuck at ~6 s (Tremor 6.2 s, EMMA 5.7 s). Sunday's test (open loop at 3–5 s + new picture every 1.5–2 s) is the right next step.
+4. TikTok: Tremor video 187 = carousel 185 on the same day; EMMA's carousel passed its video after 2 days (293 vs 220). Carousels keep growing longer than videos.
+5. Still 0 real comments after 11 videos and 8 carousels; YouTube Shorts stay near 0.
+
+Plan changes: no rule change; added the Tremor line to "What the data has shown" (merged two old lines); Sunday test unchanged.
+
 ## 2026-11-06 (Friday, ~14:30 Hebron — Tremor, Paper #11, was made early and auto-published at 12:00; this run only did the after-publish jobs)
 
 | Post | YouTube | TikTok | Instagram | Facebook | Total | Change vs 4 Nov |

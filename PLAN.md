@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-06 (daily analysis: EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
+Last updated: 2026-11-07 (daily analysis: Tremor best first day, 600 views, Facebook 296; IG 35.2% past 3 s but watch time still ~6 s → Sunday test unchanged); earlier 2026-11-06 ( EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
 
 ## Fixed rules (never change these)
 
@@ -50,12 +50,11 @@ Last updated: 2026-11-06 (daily analysis: EMMA-Can's fixes — true shock number
 - 2026-10-27: AneurysmAI (v3, noon) 530 views in 2 days vs SELECT2 740 at the same age; its TikTok carousel (345) beat the video on TikTok (170). Early signs only.
 - 2026-10-28: TikTok carousels keep growing, videos do not: AneurysmAI carousel 345 → 473 in a day (video 170 → 174); Donanemab carousel 126 in 14 h vs its video 101 in 20 h. Second time the carousel wins on TikTok (early sign). Facebook gave Donanemab only 30 views in 20 h (AneurysmAI 205). Instagram watch time: Donanemab 6.4 s, AneurysmAI 8.2 s (best so far).
 - 2026-10-29/31: carousel beat the video on TikTok 5 times in a row (latest Eptinezumab 222 vs 168 at 2 days; Donanemab 215 vs 113). Carousels and videos both stop after ~3 days. Facebook stays low for the last 2 videos (35 and 39 vs 160–228 before) — early sign, watch it. Still 0 real viewer comments after 7 videos + 4 carousels.
-- 2026-10-24/25: videos stop growing after ~3 days (all 4 old videos +65 then +19 views per day); only TikTok keeps a slow trickle (SELECT2 386 → 432). Still 0 real viewer comments after 5 videos.
-
-- 2026-11-01: all posts older than 2 days were flat for a full day (no views added); ASDH two-option hook still best Instagram 3-s rate (32%).
+- 2026-10-24/11-01: videos stop growing after ~3 days (only TikTok carousels keep a slow trickle); posts older than 2 days add almost no views.
 - 2026-11-02: OSCIS (two-option hook, neurosurgery) ~440 views in under 1 day, best first day so far; Instagram 28.9% past 3 s / 7.7 s (2nd best, after ASDH — both two-option hooks); Facebook 171 vs 33–37 for the last 2 non-surgical videos. Early signs.
 - 2026-11-04: ENRICH (48 s, two-option hook, neurosurgery) 384 video views in ~20 h (FB 159, IG 122, TikTok 99, YouTube 4; OSCIS had 440 at the same age) + TikTok carousel 125. Instagram 28.3% past 3 s — now 3 of 3 two-option hooks at 28%+ vs 21.7–27.2% for the rest. But watch time 6.1 s (OSCIS 55 s: 7.7 s): shorter alone did not keep people longer. Still 0 real comments and 0 shares.
 - 2026-11-06: EMMA-Can (Thu 14:16, two-option hook + 28% vs 4.3% on screen in the first second + question card at ~8 s) 462 views in ~22 h (FB 173, TikTok 172, IG 117, YouTube 0). Instagram 39.1% past 3 s (best ever; earlier best 31.6%) but avg watch 5.7 s (no gain). TikTok: video 172 beat its carousel 163 for the first time. Still 0 real comments, even with the on-screen question + auto first comment. Early signs.
+- 2026-11-07: Tremor (Fri 12:04, two-option + number in the first second + cover-first) 600 video views in ~25 h — best first day ever (EMMA 462, OSCIS 440); Facebook 296 (best ever), TikTok video 187 = carousel 185, IG 114. IG 35.2% past 3 s (2 of 2 first-second-number videos at 35%+) but watch time 6.2 s (still ~6 s). 0 real comments after 11 videos.
 
 ## Series counter
 
