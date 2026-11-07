@@ -10,6 +10,9 @@ PROGRESS FILE (so a run stopped by the usage limit can be continued later)
 
 DOWNLOAD TIP (2026-11-04): the workspace cannot reach elevenlabsusercontent.com or export-download.canva.com. Download through the built-in browser (navigate to the file URL, JS fetch → blob → <a download> click) ONE file at a time. The file often stays in C:\Users\mmmoq\Downloads under a random name ending .tmp (same byte size as the blob): find it with device_list_dir (match the size) and stage that .tmp. Metricool can take Canva export URLs directly, so carousels need no download.
 
+
+FORMAT NOTE (Motaz, 2026-11-07): read PLAN.md item 13 first. On Brain Story days the video is a true neurology story, not a paper summary: skip the Neuro Papers summary requirement, verify every fact with WebSearch (original paper or reliable source), cite it, no real-patient photos, journal page screenshots only if the original paper is open access.
+
 0. SKIP CHECK
 - Metricool brand id 7496566 (timezone Asia/Hebron). Call getScheduledPosts for TODAY. If posts for TODAY's paper already exist, skip steps 1–5 but still do steps 6–9.
 
