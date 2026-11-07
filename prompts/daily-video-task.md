@@ -10,6 +10,8 @@ PROGRESS FILE (so a run stopped by the usage limit can be continued later)
 
 DOWNLOAD TIP (2026-11-04): the workspace cannot reach elevenlabsusercontent.com or export-download.canva.com. Download through the built-in browser (navigate to the file URL, JS fetch → blob → <a download> click) ONE file at a time. The file often stays in C:\Users\mmmoq\Downloads under a random name ending .tmp (same byte size as the blob): find it with device_list_dir (match the size) and stage that .tmp. Metricool can take Canva export URLs directly, so carousels need no download.
 
+DOWNLOAD TIP 2 (2026-11-07): the built-in pane now deletes its .tmp downloads within seconds, so staging fails. What works: Claude in Chrome (mcp__claude-in-chrome__*). Open https://elevenlabsusercontent.com/ (NOT the mp3 URL itself, that is a media viewer where JS can't run), then JS: fetch(the mp3 path) → blob → a=document.createElementNS('http://www.w3.org/1999/xhtml','a'); a.download='neuromot-DATE.mp3'; document.documentElement.appendChild(a); a.click(). The file lands in Downloads with that exact name; stage it, then close the tab.
+
 
 FORMAT NOTE (Motaz, 2026-11-07): read PLAN.md item 14 first. On Brain Story days the video is a true neurology story, not a paper summary: skip the Neuro Papers summary requirement, verify every fact with WebSearch (original paper or reliable source), cite it, no real-patient photos, journal page screenshots only if the original paper is open access.
 

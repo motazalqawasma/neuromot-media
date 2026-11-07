@@ -3,7 +3,33 @@
  "run": "made early on Sat 2026-11-07 evening in Motaz's chat (first Brain Story, new direction PLAN item 14). Publish Sun 12:00.",
  "format": "Brain Story #1",
  "topic": "Patient H.M. (Henry Molaison)",
- "sources": ["Scoville WB, Milner B. Loss of recent memory after bilateral hippocampal lesions. J Neurol Neurosurg Psychiatry 1957;20(1):11-21. doi:10.1136/jnnp.20.1.11", "BrainFacts.org: The Curious Case of Patient H.M. (2018)", "Live Science: Famous amnesia patient's brain cut into 2,401 slices (2014)"],
- "steps": {"1_topic":"done (pinned H.M.)","2_script":"done progress/2026-11-08-script.txt"},
- "all_done": false
+ "sources": [
+  "Scoville WB, Milner B. Loss of recent memory after bilateral hippocampal lesions. J Neurol Neurosurg Psychiatry 1957;20(1):11-21. doi:10.1136/jnnp.20.1.11",
+  "BrainFacts.org: The Curious Case of Patient H.M. (2018)",
+  "Live Science: Famous amnesia patient's brain cut into 2,401 slices (2014)"
+ ],
+ "steps": {
+  "1_topic": "done (pinned H.M., PLAN item 14)",
+  "2_script": "done progress/2026-11-08-script.txt",
+  "3_voice": "done take1 (atempo 1.1 \u2192 54.8 s) progress/2026-11-08-voice-take1.mp3; downloaded through Claude in Chrome (built-in pane deletes .tmp downloads now)",
+  "4_cover": "done banners/2026-11-08-HM-cover-9x16.png + .jpg (code cover, Hippo3D)",
+  "5_video": "done videos/2026-11-08-HM.mp4 (55.6 s, 1080x1920, 3D x-ray hippocampi, SFX only)",
+  "5_published": "done scheduled Sun 2026-11-08 12:00: Metricool 420159533 (YouTube Short), 420159569 (IG+FB reel + TikTok, firstCommentText = question)",
+  "5c_carousel_made": "done banners/2026-11-08-HM-carousel/s1-s6.jpg (code slides, all 6 checked)",
+  "5c_carousel": "done scheduled Sun 18:00 id 420159631 (firstCommentText = question)",
+  "6_review_video": "todo after 12:00 (covers, YouTube thumbnail JPG, like, question comment on YouTube+TikTok, captions)",
+  "6_review_carousel": "todo after 18:00",
+  "7_replies": "todo",
+  "8_analysis": "todo (all past videos + weak points \u2192 analytics/lessons.md)",
+  "9_report": "todo"
+ },
+ "all_done": false,
+ "fixes_applied": [
+  "first Brain Story (new direction, PLAN 14)",
+  "1953 big on screen in the first 0.3 s",
+  "question card with 1/2 at 9.3 s + answer at end",
+  "open loop 'answer at the end' at 12 s",
+  "new picture every 1.5-2 s",
+  "'I reply to every answer' on screen and in captions"
+ ]
 }
