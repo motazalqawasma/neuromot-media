@@ -31,7 +31,7 @@ Last updated: 2026-11-07 (daily analysis: Tremor best first day, 600 views, Face
 
 10. **3D anatomy segment (Motaz, 2026-11-03):** if the paper has a clear body place (spine, nerve, brain region, bleed, vessel), add a 5–10 s x-ray-body anatomy scene (template/src/Anatomy.tsx) right after the hook. Skip it when it doesn't help.
 
-13. **New direction (Motaz, 2026-11-07): videos are not only paper summaries.** Two formats now:
+14. **New direction (Motaz, 2026-11-07): videos are not only paper summaries.** Two formats now:
    - **Brain Stories** (new): one true story from neurology/neurosurgery history (famous patients, first surgeries, big discoveries), told like the H.M. LinkedIn post: a concrete first line (year + person + what happened), the twist, what it taught us about the brain, one-line lesson. Frame it as NEUROLOGY/anatomy (which brain part, what it does) — never psychology. Show the brain part in the 3D x-ray anatomy style. Facts only, checked against the original paper or a reliable source (cite it on screen and in the caption). No photos of real patients unless clearly public domain; use Dr. Mot + 3D + drawings instead. Ending question = a 1/2 guess (e.g. "Which part was removed? 1 = hippocampus, 2 = frontal lobe").
    - **You're the surgeon** (papers): keep, as before.
    - Mix: Sun = Brain Story, Tue = paper (You're the surgeon), Thu = Brain Story — then judge with the numbers after 2 weeks.
