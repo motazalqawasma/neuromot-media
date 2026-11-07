@@ -13,10 +13,10 @@
   "2_script": "done progress/2026-11-08-script.txt",
   "3_voice": "done take1 (atempo 1.1 \u2192 54.8 s) progress/2026-11-08-voice-take1.mp3; downloaded through Claude in Chrome (built-in pane deletes .tmp downloads now)",
   "4_cover": "done banners/2026-11-08-HM-cover-9x16.png + .jpg (code cover, Hippo3D)",
-  "5_video": "done videos/2026-11-08-HM.mp4 (55.6 s, 1080x1920, 3D x-ray hippocampi, SFX only)",
-  "5_published": "done scheduled Sun 2026-11-08 12:00: Metricool 420159533 (YouTube Short), 420159569 (IG+FB reel + TikTok, firstCommentText = question)",
+  "5_video": "done videos/2026-11-08-HM-v2.mp4 (v2 with real photos: Hartford Hospital postcard + W.B. Scoville (public domain), Brenda Milner 2014 (CC BY 2.0); credits in photos/2026-11-08-HM/CREDITS.txt)",
+  "5_published": "done scheduled Sun 2026-11-08 12:00: Metricool 420170989 (YouTube Short), 420171013 (IG+FB reel + TikTok, firstCommentText = question)",
   "5c_carousel_made": "done banners/2026-11-08-HM-carousel/s1-s6.jpg (code slides, all 6 checked)",
-  "5c_carousel": "done scheduled Sun 18:00 id 420159631 (firstCommentText = question)",
+  "5c_carousel": "done scheduled Sun 18:00 id 420171031 (carousel-v2, photos on slides 2 and 4)",
   "6_review_video": "todo after 12:00 (covers, YouTube thumbnail JPG, like, question comment on YouTube+TikTok, captions)",
   "6_review_carousel": "todo after 18:00",
   "7_replies": "todo",
@@ -30,6 +30,7 @@
   "question card with 1/2 at 9.3 s + answer at end",
   "open loop 'answer at the end' at 12 s",
   "new picture every 1.5-2 s",
-  "'I reply to every answer' on screen and in captions"
+  "'I reply to every answer' on screen and in captions",
+  "Motaz asked (Nov 7): add real photos of the story \u2014 free-license photos only (Wikimedia Commons), with credit; no free photo of H.M. exists so he stays a silhouette"
  ]
 }
