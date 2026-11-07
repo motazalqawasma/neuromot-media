@@ -3,3 +3,4 @@ hartford.jpg = File:Hartford Hospital, Hartford, Conn (78039).jpg — Tichnor Br
 scoville.jpg = File:William Beecher Scoville.jpg — public domain
 milner.jpg = File:Brenda Milner 2014.jpg — Per Henning/NTNU, CC BY 2.0
 No free-license photo of Henry Molaison exists on Commons (the known photo is copyrighted), so he is drawn as a silhouette.
+henry.jpg = en.wikipedia File:Henry Gustav 1.jpg — portrait of H.M., 1953; copyrighted (Suzanne Corkin / MIT), used under fair use for education at Motaz's request (2026-11-07)
