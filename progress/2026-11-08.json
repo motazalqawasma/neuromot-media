@@ -1,0 +1,9 @@
+{
+ "date": "2026-11-08",
+ "run": "made early on Sat 2026-11-07 evening in Motaz's chat (first Brain Story, new direction PLAN item 14). Publish Sun 12:00.",
+ "format": "Brain Story #1",
+ "topic": "Patient H.M. (Henry Molaison)",
+ "sources": ["Scoville WB, Milner B. Loss of recent memory after bilateral hippocampal lesions. J Neurol Neurosurg Psychiatry 1957;20(1):11-21. doi:10.1136/jnnp.20.1.11", "BrainFacts.org: The Curious Case of Patient H.M. (2018)", "Live Science: Famous amnesia patient's brain cut into 2,401 slices (2014)"],
+ "steps": {"1_topic":"done (pinned H.M.)","2_script":"done progress/2026-11-08-script.txt"},
+ "all_done": false
+}
