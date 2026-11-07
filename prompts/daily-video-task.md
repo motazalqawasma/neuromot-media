@@ -12,6 +12,13 @@ DOWNLOAD TIP (2026-11-04): the workspace cannot reach elevenlabsusercontent.com 
 
 DOWNLOAD TIP 2 (2026-11-07, Motaz: "smooth, without my touch and without asking for access"): NEVER open Claude in Chrome (his real Chrome) and never trigger anything that shows him a permission prompt. Use only the built-in browser. The pane now deletes its .tmp downloads, so for SMALL files (photos) move the bytes through JS instead: fetch → draw on a canvas → canvas.toDataURL('image/jpeg',0.85) at ≤900 px wide → return the base64 string → decode it in the workspace. For the voice mp3, first try curl (works if elevenlabsusercontent.com is on the allowed-domains list); if blocked, try the built-in pane .tmp method fast (list Downloads right after the click and stage at once); if that also fails, report it instead of using Chrome. Photo rule for Brain Stories: PLAN.md item 14.
 
+VIDIQ (connected 2026-11-07, free plan: 150 credits a month, renews on the 7th; Motaz does not want to pay, so stay inside it). YouTube channel UC4tMtswx2OI2IrCNg6WWTPw is linked.
+- YouTube Short thumbnail: mcp__vidIQ__vidiq_update_video_thumbnail (channelId above, videoId, thumbnail = raw.githubusercontent URL of the cover JPG under 2 MB). 5 credits. Use this instead of the YouTube Studio browser step; use the browser only if vidIQ fails.
+- YouTube comments: read with vidiq_video_comments, reply with vidiq_reply_to_comment (1 credit each). Same reply rules as step 6C.
+- Ideas: one vidiq_instagram_tiktok_outlier_search or vidiq_outliers per week for neurology/neurosurgery stories (5 credits), next to Taplio.
+- Budget per month: about 13 thumbnails (65) + replies (about 20) + about 5 idea searches (25) = about 110 of 150. Check vidiq_balance first; if under 20 credits are left, skip the idea search and fall back to the browser for thumbnails.
+- All four domains now reachable from the workspace (elevenlabsusercontent.com, upload.wikimedia.org, commons.wikimedia.org, en.wikipedia.org): download voice takes and photos with curl, no browser.
+
 
 FORMAT NOTE (Motaz, 2026-11-07): read PLAN.md item 14 first. On Brain Story days the video is a true neurology story, not a paper summary: skip the Neuro Papers summary requirement, verify every fact with WebSearch (original paper or reliable source), cite it, no real-patient photos, journal page screenshots only if the original paper is open access.
 
