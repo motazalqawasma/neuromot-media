@@ -2,6 +2,16 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
+## 2026-11-08 H.M. carousel (checked 18:12)
+
+| App | live | 6 slides | no music | like | question |
+|---|---|---|---|---|---|
+| Instagram https://www.instagram.com/p/DffJIp6ir29/ | ✅ | ✅ 6 (1/6, 6 dots) | — | ✅ liked now | ✅ auto first comment |
+| Facebook https://facebook.com/122094426255522886/posts/122111889657522886 | ✅ | ✅ 6 (4 + "+2") | — | ✅ liked now | ✅ auto first comment (NeuroMot) |
+| TikTok https://www.tiktok.com/@motaz.alqawasma/video/7705832139652156693 | ✅ | ✅ 6 (x/6) | ✅ original sound only | ✅ liked now | ✅ posted now once (auto first comment missing again on TikTok) |
+
+Replies 18:15: 0 real viewer comments (YouTube Studio unresponded empty, TikTok Studio only Motaz's own).
+
 ## 2026-11-08 H.M. video (re-checked 14:45 in browser, catch-up run)
 
 | App | live | cover | like | question | pin | caption |

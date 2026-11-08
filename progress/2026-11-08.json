@@ -18,14 +18,14 @@
   "5c_carousel_made": "done banners/2026-11-08-HM-carousel/s1-s6.jpg (code slides, all 6 checked)",
   "5c_carousel": "done scheduled Sun 18:00 id 420171031 (carousel-v2, photos on slides 2 and 4)",
   "6_review_video": "done 14:45 (browser): YT liked + question comment posted (pin blocked: channel needs verification); IG already liked + auto comment; FB liked now + auto comment (NeuroMot); TikTok liked now + question comment posted (auto first comment was missing). Thumbnail set 13:28 via vidIQ",
-  "6_review_carousel": "IN PROGRESS 18:11 (session 015n4N1m) \u2014 other runs: do not post comments/likes on the carousel",
-  "7_replies": "done 14:45 re-check: 0 real viewer comments on YT, IG, FB, TikTok",
+  "6_review_carousel": "done 18:12: all 3 PUBLISHED, 6 slides each, TikTok no music; liked IG+FB+TikTok; TikTok question comment posted (auto missing)",
+  "7_replies": "done 18:15 re-check: 0 real viewer comments",
   "8_analysis": "done (short, Metricool only) analytics/log.md 2026-11-08",
-  "9_report": "todo",
+  "9_report": "done 18:20 SendUserMessage + push",
   "6_published_check": "done 13:28 all 4 PUBLISHED at 12:00",
   "6A_youtube_thumbnail": "done 13:28 via vidIQ vidiq_update_video_thumbnail (5 credits)"
  },
- "all_done": false,
+ "all_done": true,
  "fixes_applied": [
   "first Brain Story (new direction, PLAN 14)",
   "1953 big on screen in the first 0.3 s",
