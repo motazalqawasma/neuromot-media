@@ -17,9 +17,9 @@
   "5_published": "done scheduled Sun 2026-11-08 12:00: Metricool 420197488 (YouTube Short), 420197539 (IG+FB reel + TikTok, firstCommentText = question); carousel 420171031 at 18:00 | LIVE 12:00: YT uVPRdHIPFTU, IG Dfef6qDiVip, FB 1118119350836518, TT 7705739030264024372",
   "5c_carousel_made": "done banners/2026-11-08-HM-carousel/s1-s6.jpg (code slides, all 6 checked)",
   "5c_carousel": "done scheduled Sun 18:00 id 420171031 (carousel-v2, photos on slides 2 and 4)",
-  "6_review_video": "partly done: Metricool shows all 4 PUBLISHED (12:00). Browser checks (YouTube thumbnail, like, question comment, pin, covers) NOT done \u2014 no browser/vidIQ tools in the 12:10 catch-up session; left for the next run with browser (checks table in analytics/checks.md)",
+  "6_review_video": "done 14:45 (browser): YT liked + question comment posted (pin blocked: channel needs verification); IG already liked + auto comment; FB liked now + auto comment (NeuroMot); TikTok liked now + question comment posted (auto first comment was missing). Thumbnail set 13:28 via vidIQ",
   "6_review_carousel": "todo after 18:00",
-  "7_replies": "done 11:50 (0 real comments on YouTube, TikTok, Instagram; re-check after reviews)",
+  "7_replies": "done 14:45 re-check: 0 real viewer comments on YT, IG, FB, TikTok",
   "8_analysis": "done (short, Metricool only) analytics/log.md 2026-11-08",
   "9_report": "todo",
   "6_published_check": "done 13:28 all 4 PUBLISHED at 12:00",
@@ -35,7 +35,7 @@
   "'I reply to every answer' on screen and in captions",
   "Motaz asked (Nov 7): add real photos of the story \u2014 free-license photos only (Wikimedia Commons), with credit; no free photo of H.M. exists so he stays a silhouette"
  ],
- "catchup_note": "catch-up run 11:43 Hebron: all 4 posts PENDING for 12:00, carousel PENDING 18:00; doing steps 6-9 (session cse_015n4N1mmFigHQ6dLT2SGEgW) | 12:20: 6 partial, 8 done; 6 browser items, 6_review_carousel, 7_replies, 9_report left for the 14:36/18:36 catch-up runs | 14:36 catch-up run started: doing 6 browser checks, 7 re-check, 9 report",
+ "catchup_note": "catch-up run 11:43 Hebron: all 4 posts PENDING for 12:00, carousel PENDING 18:00; doing steps 6-9 (session cse_015n4N1mmFigHQ6dLT2SGEgW) | 12:20: 6 partial, 8 done; 6 browser items, 6_review_carousel, 7_replies, 9_report left for the 14:36/18:36 catch-up runs | 14:36 catch-up run started: doing 6 browser checks, 7 re-check, 9 report | 14:45: 6_review_video + 7 done; left: 6_review_carousel + 9_report for the 18:36 run",
  "links": {
   "youtube": "https://www.youtube.com/shorts/uVPRdHIPFTU",
   "instagram": "https://www.instagram.com/reel/Dfef6qDiVip/",

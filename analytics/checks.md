@@ -2,6 +2,15 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
+## 2026-11-08 H.M. video (re-checked 14:45 in browser, catch-up run)
+
+| App | live | cover | like | question | pin | caption |
+|---|---|---|---|---|---|---|
+| YouTube https://www.youtube.com/shorts/uVPRdHIPFTU | ✅ | ✅ set 13:28 via vidIQ | ✅ liked now | ✅ posted now | ❌ "Help us keep YouTube safe" — channel needs verification (not done) | ✅ DOI present |
+| Instagram https://www.instagram.com/reel/Dfef6qDiVip/ | ✅ | ✅ | ✅ already liked | ✅ auto first comment | no pin on web | ✅ DOI present |
+| Facebook https://facebook.com/reel/1118119350836518 | ✅ | ✅ cover frame | ✅ liked now (2 reactions) | ✅ auto first comment (NeuroMot) | no pin on web | ✅ |
+| TikTok https://www.tiktok.com/@motaz.alqawasma/video/7705739030264024372 | ✅ | ✅ cover-first frame | ✅ liked now | ✅ posted now (auto first comment was missing) | no pin on web | ✅ |
+
 ## 2026-11-08 H.M. video (checked 12:12, Metricool only — built-in browser disconnected)
 
 | App | live | cover | like | question | pin | caption |
