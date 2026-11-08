@@ -2,6 +2,15 @@
 
 Newest first. One table per day (app × checklist items 1–7).
 
+## 2026-11-08 H.M. video (checked 12:12, Metricool only — built-in browser disconnected)
+
+| App | live | cover | like | question | pin | caption |
+|---|---|---|---|---|---|---|
+| YouTube https://www.youtube.com/shorts/uVPRdHIPFTU | ✅ PUBLISHED | ❌ thumbnail not set yet (browser down, vidIQ not connected) | ❌ browser down | ❌ browser down | ❌ channel lost advanced features | ✅ sent text correct |
+| Instagram https://www.instagram.com/reel/Dfef6qDiVip/ | ✅ | ✅ cover sent as thumbnail (not seen) | ❌ browser down | ✅ auto first comment | no pin on web | ✅ |
+| Facebook https://facebook.com/reel/1118119350836518 | ✅ | ✅ cover sent (not seen) | ❌ browser down | ✅ auto first comment | no pin on web | ✅ |
+| TikTok https://www.tiktok.com/@motaz.alqawasma/video/7705739030264024372 | ✅ | ✅ cover-first frame | ❌ browser down | ❓ auto first comment (not seen) | no pin on web | ✅ |
+
 ## 2026-11-06 Tremor carousel (checked 18:12)
 
 | App | live | 6 slides | no music | like | question |
