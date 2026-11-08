@@ -2,6 +2,26 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-08 (Sunday, ~11:50 Hebron — H.M. Brain Story #1 scheduled 12:00, made early; this run did review, comments + analysis)
+
+| Post | YouTube | TikTok | Instagram | Facebook | Total | Change vs 7 Nov |
+|---|---|---|---|---|---|---|
+| H.M. (Brain Story #1, today 12:00) | — | — | — | — | too new | — |
+| Tremor (Paper #11, 6 Nov 12:04) | 4 | 210 (+ carousel 273) | 114 | 296+ (Metricool 277) | ~624 | +24 (carousel +88) |
+| EMMA-Can (Paper #10) | 0 | 225 (carousel 318) | 117 | 175 (Metricool 152) | ~517 | +5 (carousel +25) |
+| ENRICH (Paper #9) | 4 | 111 (carousel 386) | 126 | 231 | 472 | 0 (carousel +18) |
+| OSCIS (Paper #8) | 10 | 232 | 125 | 189 | 556 | 0 |
+
+Older posts unchanged. Sources: YouTube Studio Shorts list, TikTok Studio content (platform numbers); Instagram + Facebook from Metricool (Facebook Page tab not re-read; kept the higher platform number from 7 Nov).
+Comments from real viewers: still 0 (YouTube Studio unresponded empty; TikTok Studio only Motaz's own; Instagram 1 per reel = auto question).
+
+Findings:
+1. Videos stop after ~2 days (Tremor video +24 in a day), but carousels keep growing on TikTok: Tremor carousel 185 → 273 (+88) and now beats its video (210). Carousels have now won on TikTok 9 of 10 times once 2 days old.
+2. Paper videos settle at ~470–620 views; Tremor is the best paper video after SELECT2 (803).
+3. Still 0 real comments after 11 videos + 8 carousels; YouTube Shorts still 0–12 views.
+
+Plan changes: no rule change (Sunday's Brain Story is the test; judge it Tue). One test added: TikTok carousel-first.
+
 ## 2026-11-07 (Saturday, ~13:50 Hebron — no video today: videos are Sun/Tue/Thu (+ Friday's Tremor made early); this run did comments + analysis only)
 
 | Post | YouTube | TikTok | Instagram | Facebook | Total | Change vs 6 Nov |

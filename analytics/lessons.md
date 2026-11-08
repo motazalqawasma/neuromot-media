@@ -2,6 +2,23 @@
 
 After every published video, the run compares ALL past videos and carousels, names the 3 biggest weak points (views, hook, retention, likes, comments, followers), the mistake behind each, 1–3 fixes for the next video, and judges whether earlier fixes worked. Newest at the top.
 
+## 2026-11-08 (H.M. Brain Story #1 day — review before it has numbers)
+
+**Earlier fixes (from 2026-11-06) — verdict**
+- Open loop at 3–5 s + new picture every 1.5–2 s: TOO EARLY — first used in H.M. today; judge on Tue vs Tremor 6.2 s / EMMA 5.7 s Instagram watch.
+- "I reply to every answer" reward question: TOO EARLY — in H.M. today.
+- First-second number: WORKED (2 of 2 at 35%+ past 3 s), keep.
+
+**3 biggest weak points**
+1. RETENTION: Instagram avg watch ~6 s on 47–48 s videos (Tremor 6.2 s, EMMA 5.7 s). Mistake: nothing new on screen after the first number until ~10 s (being fixed today).
+2. COMMENTS: 0 real comments after 11 videos + 8 carousels (~5,000 views). Mistake: the question appears only at ~9 s and at the end, when most viewers are gone.
+3. VIDEO vs CAROUSEL ON TIKTOK: Tremor video 210 vs carousel 273 (+88 in a day while the video added +23). Mistake: we give TikTok's longer-living format the late slot (18:00).
+
+**Fixes for the next video (Tue 2026-11-10) — applied without asking**
+1. Show "1 or 2?" with the two options on screen from second 0–2, next to the hook (not only at 9 s).
+2. Keep the open loop + fast picture changes if H.M. watch time beats 6.2 s; if not, cut the video to ~30 s.
+3. TikTok test: post the carousel at 12:00 and the video at 18:00 on TikTok only (Instagram/Facebook unchanged).
+
 ## 2026-11-06 (after Tremor, Paper #11 — review of EMMA-Can's fixes)
 
 Numbers: analytics/log.md 2026-11-06 (EMMA-Can ~22 h old; Tremor too new).

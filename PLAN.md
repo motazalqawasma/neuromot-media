@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-07 (daily analysis: Tremor best first day, 600 views, Facebook 296; IG 35.2% past 3 s but watch time still ~6 s → Sunday test unchanged); earlier 2026-11-06 ( EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
+Last updated: 2026-11-08 (Tremor carousel 273 passed its video 210 on TikTok; next fix: 1/2 question on screen from second 0; TikTok carousel-first test Tue); earlier 2026-11-07 (daily analysis: Tremor best first day, 600 views, Facebook 296; IG 35.2% past 3 s but watch time still ~6 s → Sunday test unchanged); earlier 2026-11-06 ( EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
 
 ## Fixed rules (never change these)
 
@@ -44,6 +44,8 @@ Last updated: 2026-11-07 (daily analysis: Tremor best first day, 600 views, Face
 
 13. **Fixes from 2026-11-06 (see analytics/lessons.md):** (a) open loop at 3–5 s ("the answer surprised the surgeons — stay to the end") and a new picture every 1.5–2 s in the first 10 s; (b) one-tap question with a reward: "Comment 1 or 2 — I reply to every answer with the reason", and reply the same day.
 
+15. **Fixes from 2026-11-08 (see analytics/lessons.md):** (a) the 1/2 question with both options on screen from second 0–2, next to the hook; (b) TikTok only: carousel at 12:00, video at 18:00 on Tue 2026-11-10 (IG/FB unchanged); (c) if H.M. Instagram watch time is not above 6.2 s, cut to ~30 s.
+
 11. **Improve without asking (Motaz, 2026-11-03):** any suggestion from the analysis goes straight into the next video; report it, don't ask for permission. Fixed rules still hold.
 
 ## What the data has shown so far
@@ -63,6 +65,7 @@ Last updated: 2026-11-07 (daily analysis: Tremor best first day, 600 views, Face
 - 2026-11-02: OSCIS (two-option hook, neurosurgery) ~440 views in under 1 day, best first day so far; Instagram 28.9% past 3 s / 7.7 s (2nd best, after ASDH — both two-option hooks); Facebook 171 vs 33–37 for the last 2 non-surgical videos. Early signs.
 - 2026-11-04: ENRICH (48 s, two-option hook, neurosurgery) 384 video views in ~20 h (FB 159, IG 122, TikTok 99, YouTube 4; OSCIS had 440 at the same age) + TikTok carousel 125. Instagram 28.3% past 3 s — now 3 of 3 two-option hooks at 28%+ vs 21.7–27.2% for the rest. But watch time 6.1 s (OSCIS 55 s: 7.7 s): shorter alone did not keep people longer. Still 0 real comments and 0 shares.
 - 2026-11-06: EMMA-Can (Thu 14:16, two-option hook + 28% vs 4.3% on screen in the first second + question card at ~8 s) 462 views in ~22 h (FB 173, TikTok 172, IG 117, YouTube 0). Instagram 39.1% past 3 s (best ever; earlier best 31.6%) but avg watch 5.7 s (no gain). TikTok: video 172 beat its carousel 163 for the first time. Still 0 real comments, even with the on-screen question + auto first comment. Early signs.
+- 2026-11-08: TikTok carousels keep growing after videos stop: Tremor carousel 185 → 273 in a day, video 187 → 210.
 - 2026-11-07: Tremor (Fri 12:04, two-option + number in the first second + cover-first) 600 video views in ~25 h — best first day ever (EMMA 462, OSCIS 440); Facebook 296 (best ever), TikTok video 187 = carousel 185, IG 114. IG 35.2% past 3 s (2 of 2 first-second-number videos at 35%+) but watch time 6.2 s (still ~6 s). 0 real comments after 11 videos.
 
 ## Series counter
