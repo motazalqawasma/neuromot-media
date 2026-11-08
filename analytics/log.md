@@ -22,6 +22,21 @@ Findings:
 
 Plan changes: no rule change (Sunday's Brain Story is the test; judge it Tue). One test added: TikTok carousel-first.
 
+## 2026-11-08 (Sunday, ~12:20 Hebron — catch-up run; H.M. Brain Story #1 published 12:00 on all 4 apps)
+
+Metricool numbers only (no browser in this run). Change vs 7 Nov:
+- H.M. (Brain Story #1): too new. YouTube uVPRdHIPFTU, IG Dfef6qDiVip, FB 1118119350836518, TikTok 7705739030264024372.
+- Tremor: TikTok video 210 (+23), carousel 273 (+88); Instagram 114 (0), 35.2% past 3 s, 6.2 s avg.
+- EMMA-Can: TikTok carousel 318 (+25), video 225. ENRICH carousel 386 (+18).
+- Real comments: still 0 (Metricool comment counts = our own question comments).
+
+Findings:
+1. The carousel effect again: Tremor carousel gained +88 TikTok views in a day, the video only +23. Carousels keep growing for days.
+2. Instagram reels stop growing after ~1 day (all flat since 7 Nov).
+3. Nothing new to judge for Sunday's fixes (open loop, new picture every 1.5–2 s, "I reply to every answer"): judge H.M. on Tuesday.
+
+Plan changes: none.
+
 ## 2026-11-07 (Saturday, ~13:50 Hebron — no video today: videos are Sun/Tue/Thu (+ Friday's Tremor made early); this run did comments + analysis only)
 
 | Post | YouTube | TikTok | Instagram | Facebook | Total | Change vs 6 Nov |

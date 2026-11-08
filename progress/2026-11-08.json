@@ -17,10 +17,10 @@
   "5_published": "done scheduled Sun 2026-11-08 12:00: Metricool 420197488 (YouTube Short), 420197539 (IG+FB reel + TikTok, firstCommentText = question); carousel 420171031 at 18:00",
   "5c_carousel_made": "done banners/2026-11-08-HM-carousel/s1-s6.jpg (code slides, all 6 checked)",
   "5c_carousel": "done scheduled Sun 18:00 id 420171031 (carousel-v2, photos on slides 2 and 4)",
-  "6_review_video": "todo after 12:00 (covers, YouTube thumbnail JPG, like, question comment on YouTube+TikTok, captions)",
+  "6_review_video": "partly done: Metricool shows all 4 PUBLISHED (12:00). Browser checks (YouTube thumbnail, like, question comment, pin, covers) NOT done \u2014 no browser/vidIQ tools in the 12:10 catch-up session; left for the next run with browser",
   "6_review_carousel": "todo after 18:00",
   "7_replies": "done 11:50 (0 real comments on YouTube, TikTok, Instagram; re-check after reviews)",
-  "8_analysis": "done 11:55 (log.md, lessons.md, PLAN item 15)",
+  "8_analysis": "done (short, Metricool only) analytics/log.md 2026-11-08",
   "9_report": "todo"
  },
  "all_done": false,
@@ -33,5 +33,5 @@
   "'I reply to every answer' on screen and in captions",
   "Motaz asked (Nov 7): add real photos of the story \u2014 free-license photos only (Wikimedia Commons), with credit; no free photo of H.M. exists so he stays a silhouette"
  ],
- "catchup_note": "catch-up run 11:43 Hebron: all 4 posts PENDING for 12:00, carousel PENDING 18:00; doing steps 6-9 (session cse_015n4N1mmFigHQ6dLT2SGEgW)"
+ "catchup_note": "catch-up run 11:43 Hebron: all 4 posts PENDING for 12:00, carousel PENDING 18:00; doing steps 6-9 (session cse_015n4N1mmFigHQ6dLT2SGEgW) | 12:20: 6 partial, 8 done; 6 browser items, 6_review_carousel, 7_replies, 9_report left for the 14:36/18:36 catch-up runs"
 }
