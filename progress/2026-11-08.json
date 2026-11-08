@@ -21,7 +21,9 @@
   "6_review_carousel": "todo after 18:00",
   "7_replies": "done 11:50 (0 real comments on YouTube, TikTok, Instagram; re-check after reviews)",
   "8_analysis": "done (short, Metricool only) analytics/log.md 2026-11-08",
-  "9_report": "todo"
+  "9_report": "todo",
+  "6_published_check": "done 13:28 all 4 PUBLISHED at 12:00",
+  "6A_youtube_thumbnail": "done 13:28 via vidIQ vidiq_update_video_thumbnail (5 credits)"
  },
  "all_done": false,
  "fixes_applied": [
@@ -33,5 +35,11 @@
   "'I reply to every answer' on screen and in captions",
   "Motaz asked (Nov 7): add real photos of the story \u2014 free-license photos only (Wikimedia Commons), with credit; no free photo of H.M. exists so he stays a silhouette"
  ],
- "catchup_note": "catch-up run 11:43 Hebron: all 4 posts PENDING for 12:00, carousel PENDING 18:00; doing steps 6-9 (session cse_015n4N1mmFigHQ6dLT2SGEgW) | 12:20: 6 partial, 8 done; 6 browser items, 6_review_carousel, 7_replies, 9_report left for the 14:36/18:36 catch-up runs"
+ "catchup_note": "catch-up run 11:43 Hebron: all 4 posts PENDING for 12:00, carousel PENDING 18:00; doing steps 6-9 (session cse_015n4N1mmFigHQ6dLT2SGEgW) | 12:20: 6 partial, 8 done; 6 browser items, 6_review_carousel, 7_replies, 9_report left for the 14:36/18:36 catch-up runs",
+ "links": {
+  "youtube": "https://www.youtube.com/shorts/uVPRdHIPFTU",
+  "instagram": "https://www.instagram.com/reel/Dfef6qDiVip/",
+  "facebook": "https://facebook.com/reel/1118119350836518",
+  "tiktok": "https://www.tiktok.com/@motaz.alqawasma/video/7705739030264024372"
+ }
 }
