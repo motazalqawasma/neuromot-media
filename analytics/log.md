@@ -2,6 +2,20 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-09 (Monday 17:30 Hebron — quick check in Motaz's chat, Metricool numbers, ~29 h after H.M.)
+
+| Post | Instagram | Facebook | TikTok | Total (no YouTube) |
+|---|---|---|---|---|
+| H.M. (Brain Story #1) video | 455 views, 13.2 s avg watch, 39.5% past 3 s, 6 likes, 5 saves | 236 | 137 | 828 |
+| H.M. carousel (18:00) | — | — | 147 | 147 |
+| Tremor (Paper #11) video, 3 days | 117 views, 6.9 s, 36.4% | 278 | 229 | 624 |
+
+Findings:
+1. Brain Story #1 already beats every paper video after one day: Instagram 455 vs about 115-127 for each paper video (4x), average watch 13.2 s vs 6-7.6 s (about 2x), and the first saves ever (5).
+2. TikTok is the exception: video 137 after 1 day is lower than paper videos so far; its carousel (147) already beats it.
+3. Real comments still 0 (Instagram 1 = our auto question).
+Early sign (one video), but strong: the new direction works best on Instagram. Keep the Sun/Thu Brain Stories; judge again after Thursday's story.
+
 ## 2026-11-08 (Sunday, ~11:50 Hebron — H.M. Brain Story #1 scheduled 12:00, made early; this run did review, comments + analysis)
 
 | Post | YouTube | TikTok | Instagram | Facebook | Total | Change vs 7 Nov |
