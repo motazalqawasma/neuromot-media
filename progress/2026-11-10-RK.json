@@ -1,2 +1,21 @@
-{"date":"2026-11-10","run":"made early on Mon 2026-11-09 in Motaz's chat (Brain Story #2, Taplio pick). Publish Tue 12:00 + 18:00.","format":"Brain Story #2","topic":"Rosemary Kennedy and the 1941 lobotomy",
-"steps":{"1_topic":"done (Taplio)","2_script":"done progress/2026-11-10-RK-script.txt","3_voice":"done take 2 (curl download)","4_cover":"done banners/2026-11-10-RK-cover-9x16.jpg","5_video":"done videos/2026-11-10-RK.mp4 (-15 LUFS, QA passed; women photos: hair+skin blurred, face+clothes sharp)","5c_carousel_made":"done banners/2026-11-10-RK-carousel/s1-6.jpg + videos/2026-11-10-RK-fb-slides.mp4","5_published":"scheduling","6_review_video":"todo after 12:00","6_review_carousel":"todo after 18:00","7_replies":"todo","8_analysis":"todo","9_report":"todo"},"all_done":false}
+{
+ "date": "2026-11-10",
+ "run": "made early on Mon 2026-11-09 in Motaz's chat (Brain Story #2, Taplio pick). Publish Tue 12:00 + 18:00.",
+ "format": "Brain Story #2",
+ "topic": "Rosemary Kennedy and the 1941 lobotomy",
+ "steps": {
+  "1_topic": "done (Taplio)",
+  "2_script": "done progress/2026-11-10-RK-script.txt",
+  "3_voice": "done take 2 (curl download)",
+  "4_cover": "done banners/2026-11-10-RK-cover-9x16.jpg",
+  "5_video": "done videos/2026-11-10-RK.mp4 (-15 LUFS, QA passed; women photos: hair+skin blurred, face+clothes sharp)",
+  "5c_carousel_made": "done banners/2026-11-10-RK-carousel/s1-6.jpg + videos/2026-11-10-RK-fb-slides.mp4",
+  "5_published": "done scheduled Tue 2026-11-10 12:00: Metricool 422044415 (YouTube Short), 422044514 (IG+FB reel + TikTok, firstCommentText); 18:00: 422044664 carousel IG+TikTok, 422044771 FB slideshow reel",
+  "6_review_video": "todo after 12:00",
+  "6_review_carousel": "todo after 18:00",
+  "7_replies": "todo",
+  "8_analysis": "todo",
+  "9_report": "todo"
+ },
+ "all_done": false
+}
