@@ -33,6 +33,8 @@ FORMAT NOTE (Motaz, 2026-11-07): read PLAN.md item 14 first. On Brain Story days
 - add_repo motazalqawasma/neuromot-media with push access, clone it. Read PLAN.md (living plan; it has the "Next NEURO PAPER number"), template/README.md (v3 style) and the newest section of analytics/log.md.
 - Follow PLAN.md "Current plan". The fixed rules (facts only, citation + DOI, limitation, disclaimer, vertical 1080×1920, cover-first opening, no "<" ">" on YouTube, NO MUSIC) can never change.
 
+>>> WOMEN IN PHOTOS (Motaz, 2026-11-09, Islamic rule, FIXED): no woman's hair or body may be visible in any video, cover, carousel or slideshow. Blur every photo of a woman completely (CSS filter blur(28px) on the image, scaled 1.2x inside its frame) and keep only the name label and credit sharp; masked/capped surgical staff whose hair is covered are fine. Never use AI images of women either.
+
 >>> FORMAT OVERRIDE (Motaz, 2026-11-09): every video day is now a BRAIN STORY, not a paper summary. Read PLAN.md items 14-14e first. If PLAN.md pins a story for TODAY, make that one; otherwise pick one with Taplio search_inspiration (+ vidIQ outliers) as in the paper-video-prompt skill section 8. Steps 1-2 below become: verify the story's facts with 2+ sources and write the story script (skill section 8 + 9). Cover, video, carousel, publishing, review and analysis steps stay the same; badge "BRAIN STORY #N" (count up in PLAN.md), citation = the classic paper or best historical source. Do NOT use the Neuro Papers summary for the video.
 
 1. PAPER — choose the MOST ATTRACTIVE idea, not just the newest summary (Motaz, 2026-10-31)
