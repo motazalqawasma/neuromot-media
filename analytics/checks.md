@@ -1,5 +1,16 @@
 # Post-publish checks
 
+## 2026-11-10 12:10 — Rosemary Kennedy (Brain Story #2) video, catch-up run
+
+| App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption |
+|---|---|---|---|---|---|---|
+| YouTube _26mgrBhxUQ | ✅ PUBLISHED | ❌ not set yet (vidIQ not connected in this run) | ❌ not checked | ❌ not checked | ❌ | ✅ (Metricool text) |
+| Instagram DfjqCGbGS2k | ✅ PUBLISHED | not checked (thumbnail sent) | ❌ not checked | auto first comment set | — | ✅ |
+| Facebook 1805406764009693 | ✅ PUBLISHED | not checked (thumbnail sent) | ❌ not checked | auto first comment set | — | ✅ |
+| TikTok 7706482641280847125 | ✅ PUBLISHED | not checked | ❌ not checked | auto first comment set | — | ✅ |
+
+Browser items not done: the built-in browser and vidIQ were not reachable in this run (desktop link down). Claude in Chrome is not used (Motaz's rule). Try again at 18:08.
+
 Newest first. One table per day (app × checklist items 1–7).
 
 ## 2026-11-08 H.M. carousel (checked 18:12)

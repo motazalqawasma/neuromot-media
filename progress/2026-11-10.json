@@ -11,12 +11,19 @@
   "5_video": "done videos/2026-11-10-RK.mp4 (-15 LUFS, QA passed; women photos: hair+skin blurred, face+clothes sharp)",
   "5c_carousel_made": "done banners/2026-11-10-RK-carousel/s1-6.jpg + videos/2026-11-10-RK-fb-slides.mp4",
   "5_published": "done scheduled Tue 2026-11-10 12:00: Metricool 422044415 (YouTube Short), 422044514 (IG+FB reel + TikTok, firstCommentText); 18:00: 422044664 carousel IG+TikTok, 422044771 FB slideshow reel",
-  "6_review_video": "todo after 12:00",
+  "6_review_video": "partial 12:10: all PUBLISHED; browser checks + YouTube thumbnail not done (built-in browser + vidIQ not reachable) \u2014 retry 18:08",
   "6_review_carousel": "todo after 18:00",
   "7_replies": "todo",
   "8_analysis": "done 11:30 (Metricool) analytics/log.md + lessons.md 2026-11-10 + PLAN item 16 (fixes for Thu: opinion 1/2 question, TikTok carousel-first)",
-  "9_report": "todo"
+  "9_report": "todo",
+  "6_published_check": "done 12:10 all 4 PUBLISHED"
  },
  "all_done": false,
- "catchup_note": "catch-up run 11:20 Hebron: posts scheduled for 12:00/18:00; doing checks + step 8 now, review at 12:08/18:08 | 11:30: 8 done; send_later set for 12:08 and 18:08 reviews | 11:35: a SECOND copy of this routine (session_015n4N1oWZj8ybwva97PovPP) also started; it merged the full lessons/PLAN analysis and STOOD DOWN (cancelled its own 12:08/18:08 reviews) so likes/comments are not doubled. Session 015n4N1kgYRJdKzAgbfmSopu owns steps 6, 7, 9."
+ "catchup_note": "catch-up run 11:20 Hebron: posts scheduled for 12:00/18:00; doing checks + step 8 now, review at 12:08/18:08 | 11:30: 8 done; send_later set for 12:08 and 18:08 reviews | 11:35: a SECOND copy of this routine (session_015n4N1oWZj8ybwva97PovPP) also started; it merged the full lessons/PLAN analysis and STOOD DOWN (cancelled its own 12:08/18:08 reviews) so likes/comments are not doubled. Session 015n4N1kgYRJdKzAgbfmSopu owns steps 6, 7, 9. | 12:10: 4 PUBLISHED; browser/vidIQ not reachable",
+ "links": {
+  "youtube": "https://www.youtube.com/shorts/_26mgrBhxUQ",
+  "instagram": "https://www.instagram.com/reel/DfjqCGbGS2k/",
+  "facebook": "https://facebook.com/reel/1805406764009693",
+  "tiktok": "https://www.tiktok.com/@motaz.alqawasma/video/7706482641280847125"
+ }
 }
