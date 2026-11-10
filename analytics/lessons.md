@@ -2,6 +2,25 @@
 
 After every published video, the run compares ALL past videos and carousels, names the 3 biggest weak points (views, hook, retention, likes, comments, followers), the mistake behind each, 1–3 fixes for the next video, and judges whether earlier fixes worked. Newest at the top.
 
+## 2026-11-10 (Rosemary Kennedy Brain Story #2 day — review of H.M. at ~2 days)
+
+**Earlier fixes — verdict**
+- Open loop at 3–5 s + new picture every 1.5–2 s (from 11-06): WORKED (with the new Brain Story format) — H.M. Instagram watch 12.3 s vs Tremor 6.2 s / EMMA 6.0 s.
+- "Cut to 30 s if H.M. watch is not above 6.2 s" (11-08): not needed — keep the length.
+- "I reply to every answer" reward question (11-06): DID NOT WORK — still 0 real comments on H.M. (~1,000 views).
+- 1/2 question on screen from second 0 (11-08): TOO EARLY — first used in Rosemary Kennedy today.
+- TikTok carousel-first (11-08): NOT TESTED — today's TikTok video still at 12:00, carousel 18:00.
+
+**3 biggest weak points**
+1. COMMENTS: 0 real comments after 12 videos + 9 carousels (~7,000 views). Mistake: the 1/2 question is a quiz with a "right" answer — people who are not sure stay silent, people who know feel no reason to say it.
+2. TIKTOK: H.M. video 137 vs Instagram 616 (4.5x less), flat after day 1. Mistake: TikTok gets the long video at noon; on TikTok our carousels live longer (Tremor carousel 421 vs video 232).
+3. YOUTUBE: still near 0 views per Short. Mistake: channel not verified (Motaz's own step), so no pin and weak reach.
+
+**Fixes for the next video (Thu 2026-11-12) — applied without asking**
+1. Opinion question instead of a quiz: "Would you have said yes? 1 = yes, 2 = no" style (a choice with no wrong answer), on screen at 0–2 s and in the end.
+2. TikTok carousel-first test: TikTok carousel at 12:00, TikTok video at 18:00 (Instagram/Facebook unchanged).
+3. Keep Brain Story length and pace (H.M. style: open loop + new picture every 1.5–2 s).
+
 ## 2026-11-08 (H.M. Brain Story #1 day — review before it has numbers)
 
 **Earlier fixes (from 2026-11-06) — verdict**

@@ -2,19 +2,25 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
-## 2026-11-10 (Tuesday 11:30 Hebron — catch-up run, Metricool only, before Rosemary Kennedy goes live at 12:00)
+## 2026-11-10 (Tuesday ~11:30 Hebron — Rosemary Kennedy Brain Story #2 scheduled 12:00, made 9 Nov; Metricool numbers)
 
-| Post | Instagram | TikTok |
-|---|---|---|
-| H.M. (Brain Story #1) video, ~2 days | 616 views (was 455 on 9 Nov), 529 reach, 8 likes | 137 (no change) |
-| H.M. carousel | — | 152 (was 147) |
-| Tremor carousel (6 Nov) | — | 421 (was 273 on 8 Nov) |
+| Post | Instagram | Facebook | TikTok | Total (no YouTube) | Change vs 9 Nov |
+|---|---|---|---|---|---|
+| Rosemary Kennedy (Brain Story #2) | — | — | — | too new | — |
+| H.M. (Brain Story #1) video, ~2 days | 616 views, 12.3 s avg, 37.1% past 3 s, 8 likes, 6 saves, 0 shares | 260 | 137 | 1,013 | +185 (IG +161) |
+| H.M. carousel | — | — | 152 | 152 | +5 |
+| Tremor (Paper #11) video, 4 days | 118, 6.9 s | 280 | 232 (carousel 421) | 630 | +6 (carousel +148 since 8 Nov) |
+| EMMA-Can (Paper #10) | 119, 6.0 s | 155 | 247 (carousel 321) | 521 | ~0 |
+
+YouTube: Metricool returned no YouTube rows (still near 0 views).
+Real viewer comments: still 0 (IG H.M. 1 comment = our auto question; TikTok counts 0-5 = Motaz's own).
 
 Findings:
-1. H.M. keeps growing on Instagram (+161 in ~18 h) — paper videos stopped after ~2 days at ~115-127. Brain Story is still the best format on Instagram.
-2. TikTok: H.M. video stopped at 137; carousels keep growing (Tremor carousel 421, best TikTok post of the month).
-3. Real comments still 0 (Metricool).
-No plan change today (Rosemary Kennedy follows the Brain Story plan). Full review after 12:08 and 18:08.
+1. H.M. is the first video past 1,000 views (no YouTube) — best ever; SELECT2 had 803. Instagram alone 616 = 5x any paper video, watch time 12.3 s = 2x.
+2. TikTok is the weak app for Brain Stories: H.M. video 137 and carousel 152, both flat, while paper carousels keep growing (Tremor carousel 273 → 421).
+3. Saves are new (6 on H.M.), comments still 0.
+
+Plan changes: keep Brain Stories; Thu 11-12 runs the TikTok carousel-first test (not done today — the 9 Nov schedule kept TikTok video at 12:00); question changes from a quiz to an opinion choice.
 
 ## 2026-11-09 (Monday 17:30 Hebron — quick check in Motaz's chat, Metricool numbers, ~29 h after H.M.)
 

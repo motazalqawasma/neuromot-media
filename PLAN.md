@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-08 (Tremor carousel 273 passed its video 210 on TikTok; next fix: 1/2 question on screen from second 0; TikTok carousel-first test Tue); earlier 2026-11-07 (daily analysis: Tremor best first day, 600 views, Facebook 296; IG 35.2% past 3 s but watch time still ~6 s → Sunday test unchanged); earlier 2026-11-06 ( EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
+Last updated: 2026-11-10 (H.M. Brain Story first past 1,000 views, IG 12.3 s watch; fixes for Thu: opinion 1/2 question, TikTok carousel-first); earlier 2026-11-08 (Tremor carousel 273 passed its video 210 on TikTok; next fix: 1/2 question on screen from second 0; TikTok carousel-first test Tue); earlier 2026-11-07 (daily analysis: Tremor best first day, 600 views, Facebook 296; IG 35.2% past 3 s but watch time still ~6 s → Sunday test unchanged); earlier 2026-11-06 ( EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
 
 ## Fixed rules (never change these)
 
@@ -50,6 +50,8 @@ PINNED Tue 2026-11-10 = BRAIN STORY #2: Rosemary Kennedy and the 1941 lobotomy (
 
 15. **Fixes from 2026-11-08 (see analytics/lessons.md):** (a) the 1/2 question with both options on screen from second 0–2, next to the hook; (b) TikTok only: carousel at 12:00, video at 18:00 on Tue 2026-11-10 (IG/FB unchanged); (c) if H.M. Instagram watch time is not above 6.2 s, cut to ~30 s.
 
+16. **Fixes from 2026-11-10 (see analytics/lessons.md):** (a) the 1/2 question is an OPINION choice with no wrong answer ("Would you have said yes? 1 = yes, 2 = no"), on screen at 0–2 s and at the end; (b) Thu 2026-11-12: TikTok carousel 12:00 + TikTok video 18:00 (IG/FB unchanged) — 15(b) was not run on 11-10; (c) keep Brain Story length/pace (H.M. IG 12.3 s).
+
 11. **Improve without asking (Motaz, 2026-11-03):** any suggestion from the analysis goes straight into the next video; report it, don't ask for permission. Fixed rules still hold.
 
 ## What the data has shown so far
@@ -72,11 +74,15 @@ PINNED Tue 2026-11-10 = BRAIN STORY #2: Rosemary Kennedy and the 1941 lobotomy (
 - 2026-11-08: TikTok carousels keep growing after videos stop: Tremor carousel 185 → 273 in a day, video 187 → 210.
 - 2026-11-07: Tremor (Fri 12:04, two-option + number in the first second + cover-first) 600 video views in ~25 h — best first day ever (EMMA 462, OSCIS 440); Facebook 296 (best ever), TikTok video 187 = carousel 185, IG 114. IG 35.2% past 3 s (2 of 2 first-second-number videos at 35%+) but watch time 6.2 s (still ~6 s). 0 real comments after 11 videos.
 
+- 2026-11-10: H.M. (Brain Story #1) 1,013 views in ~2 days without YouTube — first past 1,000 (IG 616, 12.3 s avg, 6 saves; FB 260; TikTok only 137). Still 0 real comments.
+
 ## Series counter
 
 - Next NEURO PAPER number: 12 (#10 = EMMA-Can Thu 11-05, #11 = tremor Fri 11-06; increase by 1 after every published paper video). #11 is already used by the Friday 2026-11-06 video (made early) — so after Thursday's #10, the next free number is 12.
 
 ## Ideas to test next
+
+- Opinion question vs quiz question for comments (Thu 11-12 opinion; compare real comments per 1,000 views with H.M. and Rosemary Kennedy).
 
 - **Format test (Motaz approved 2026-10-30):** starting Thursday 2026-11-05 (Sun 11-01 and Tue 11-03 are both format A), over ~2 weeks, use one format per video and compare Instagram 3-second rate + watch time, then keep the 1–2 winners. Formats: A two-option decision question · B carousel-first · C "Too late?" / myth vs evidence · D case puzzle ("What would you do?") · E one shocking number · F "This is on your exam". Start with stroke/thrombectomy and neurosurgery/bleed papers (best topics so far). Log which format each video used in analytics/log.md.
 
