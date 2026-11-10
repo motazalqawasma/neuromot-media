@@ -1,0 +1,2 @@
+# Higgsfield log for the 2026-11-12 video (Phineas Gage)
+- 2026-11-10 (Tue, test run with Motaz): shot A made. Model minimax_hailuo variant minimax-2.3, 6 s, 768 (1366x768, 16:9), 6 credits. job_id 14621962-b566-459d-935b-510583af4d6d. result_url https://d8j0ntlcm91z4.cloudfront.net/user_3Lv6l3331mNSDi71cETLHburDzr/hf_20261110_191517_14621962-b566-459d-935b-510583af4d6d.mp4 . Result: made, download blocked (CDN not on allowed domains yet). Free plan: seedance_2_0_mini and grok_video_v15_lite answer "Requires basic plan"; minimax-fast needs a start image.
