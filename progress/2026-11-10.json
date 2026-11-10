@@ -14,9 +14,9 @@
   "6_review_video": "todo after 12:00",
   "6_review_carousel": "todo after 18:00",
   "7_replies": "todo",
-  "8_analysis": "todo",
+  "8_analysis": "done 11:30 (short, Metricool only) analytics/log.md 2026-11-10",
   "9_report": "todo"
  },
  "all_done": false,
- "catchup_note": "catch-up run 11:20 Hebron: posts scheduled for 12:00/18:00; doing checks + step 8 now, review at 12:08/18:08"
+ "catchup_note": "catch-up run 11:20 Hebron: posts scheduled for 12:00/18:00; doing checks + step 8 now, review at 12:08/18:08 | 11:30: 8 done; send_later set for 12:08 and 18:08 reviews"
 }

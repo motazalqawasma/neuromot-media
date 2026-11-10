@@ -2,6 +2,20 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-10 (Tuesday 11:30 Hebron — catch-up run, Metricool only, before Rosemary Kennedy goes live at 12:00)
+
+| Post | Instagram | TikTok |
+|---|---|---|
+| H.M. (Brain Story #1) video, ~2 days | 616 views (was 455 on 9 Nov), 529 reach, 8 likes | 137 (no change) |
+| H.M. carousel | — | 152 (was 147) |
+| Tremor carousel (6 Nov) | — | 421 (was 273 on 8 Nov) |
+
+Findings:
+1. H.M. keeps growing on Instagram (+161 in ~18 h) — paper videos stopped after ~2 days at ~115-127. Brain Story is still the best format on Instagram.
+2. TikTok: H.M. video stopped at 137; carousels keep growing (Tremor carousel 421, best TikTok post of the month).
+3. Real comments still 0 (Metricool).
+No plan change today (Rosemary Kennedy follows the Brain Story plan). Full review after 12:08 and 18:08.
+
 ## 2026-11-09 (Monday 17:30 Hebron — quick check in Motaz's chat, Metricool numbers, ~29 h after H.M.)
 
 | Post | Instagram | Facebook | TikTok | Total (no YouTube) |
