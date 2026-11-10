@@ -9,7 +9,11 @@
 | Facebook 1805406764009693 | ✅ PUBLISHED | not checked (thumbnail sent) | ❌ not checked | auto first comment set | — | ✅ |
 | TikTok 7706482641280847125 | ✅ PUBLISHED | not checked | ❌ not checked | auto first comment set | — | ✅ |
 
-Browser items not done: the built-in browser and vidIQ were not reachable in this run (desktop link down). Claude in Chrome is not used (Motaz's rule). Try again at 18:08.
+Browser items not done at 12:10 (desktop link down). 18:15 update: YouTube cover set in Studio ✅, YouTube like ✅; YouTube question comment ❌ (comment box did not load, pane hidden); TikTok: no auto first comment on video or carousel ❌ (not posted — pane hidden, no safe check); IG/FB like not checked.
+
+## 2026-11-10 18:15 — Rosemary Kennedy carousel + FB slideshow reel
+
+Instagram DfkS8a7DTM1 ✅ PUBLISHED · TikTok 7706574802361928978 ✅ PUBLISHED · Facebook reel 1509217537738178 ✅ PUBLISHED. Slides/likes not checked in browser. Replies: YouTube Studio 0 unresponded, TikTok Studio 0 viewer comments.
 
 Newest first. One table per day (app × checklist items 1–7).
 
