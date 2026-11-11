@@ -2,6 +2,26 @@
 
 After every published video, the run compares ALL past videos and carousels, names the 3 biggest weak points (views, hook, retention, likes, comments, followers), the mistake behind each, 1–3 fixes for the next video, and judges whether earlier fixes worked. Newest at the top.
 
+## 2026-11-11 (interaction review in Motaz's chat; Rosemary Kennedy ~26 h old, Metricool + vidIQ)
+
+Numbers: analytics/log.md 2026-11-11.
+
+**Earlier fixes — verdict**
+- Opinion question instead of a quiz (11-10): TOO EARLY, first used Thu 11-12. Rosemary still used the quiz question and got 1 comment in total (IG) = our own auto comment pattern, so still 0 real.
+- TikTok carousel-first (11-08, 11-10): NOT RUN again on 11-10 (video went at 12:00). Must run Thu.
+- Keep Brain Story length/pace: MIXED. Instagram watch stays high (Rosemary 15.5 s on 8 views, H.M. 12.3 s), Facebook watch 7 s vs H.M. 2 s; but TikTok gives stories no lift (138 vs 137).
+- Facebook 16 s slideshow reel (11-09): 1st try 17 views, 3 s average. One more try, then decide.
+
+**3 biggest weak points**
+1. INSTAGRAM REACH COLLAPSE: Rosemary 8 views / 7 reach in ~26 h vs H.M. 616 and paper reels 110-160. Likely mistake (not proven): a graphic hook ("awake while they cut her brain") may have been marked sensitive and limited. Metricool can lag a day, so confirm in Instagram's Account status.
+2. INTERACTION: still 0 real viewer comments after 14 videos + 11 carousels; TikTok Rosemary 0 likes on 138 views. Mistakes: quiz question; the review left the YouTube and TikTok question comments unposted and IG/FB likes unchecked; nothing invites a second comment (no thread).
+3. TIKTOK STORIES: Brain Story videos 137-138 and carousels 146-152, vs paper carousels 250-470. Mistake: TikTok gets the video at noon and a story carousel whose slide 1 is a title, not a question.
+
+**Fixes for Thu 2026-11-12 — applied without asking (details in plans/2026-11-12.md "Interaction plan")**
+1. Non-graphic first 3 s (hook 2: "Doctors said he was no longer the same man."); rod path only after 3 s. Next analysis: if any reel has under 50 IG views at 24 h while the one before had 300+, check Account status read-only and log it.
+2. Interaction kit: opinion question at 0-2 s + spoken early + last line; one save line + one share line in the script; first comment "I'll post my own answer with the reason tonight", then Motaz's answer as a reply at 18:08; reply to every real comment the same day ending with a follow-up question; the review must finish like + question comment on all 4 apps (catch-ups finish it).
+3. TikTok: carousel at 12:00, video at 18:00; carousel slide 1 = the opinion question.
+
 ## 2026-11-10 (Rosemary Kennedy Brain Story #2 day — review of H.M. at ~2 days)
 
 **Earlier fixes — verdict**

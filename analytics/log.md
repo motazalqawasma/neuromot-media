@@ -2,6 +2,24 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-11 (Wednesday 13:40 Hebron — check in Motaz's chat; Metricool + vidIQ; Rosemary ~26 h old)
+
+| Post | Instagram | Facebook | TikTok | YouTube | Total |
+|---|---|---|---|---|---|
+| Rosemary Kennedy (Brain Story #2) video | 8 views, 7 reach, 15.5 s avg, 28.6% past 3 s, 1 like, 1 comment, 1 save | 179, 7 s avg, 2 likes | 138, 0 likes, 0 comments | 1 view, 1 like | 326 |
+| Rosemary carousel / FB slideshow reel | — | 17 (slideshow reel, 3 s avg) | 146, 5 likes | — | 163 |
+| H.M. (Brain Story #1) video, 3 days | 616 views, 12.3 s, 37.1% past 3 s, 8 likes, 6 saves | 260, 2 s avg | 137, 3 likes | 5 | 1,018 |
+| H.M. carousel | — | — | 152 | — | 152 |
+
+Findings:
+1. Instagram almost did not show the Rosemary reel (8 views vs 616 for H.M.); the other apps were normal. Cause unknown: check Instagram Account status; Metricool can lag a day.
+2. Facebook kept viewers longer on Rosemary (7 s vs 2 s for H.M.).
+3. TikTok gives Brain Stories no lift (138 vs paper videos 95-434) and story carousels get about a third of paper carousels.
+4. Comments: still 0 real. The 11-10 review missed the YouTube and TikTok question comments.
+5. YouTube: 0-10 views per Short, 75 views on the whole channel.
+
+Plan changes: Thursday interaction plan in plans/2026-11-12.md; PLAN item 17; lessons 2026-11-11. Re-check Rosemary on Fri 11-13 at the same age as H.M. (3 days).
+
 ## 2026-11-10 (Tuesday ~11:30 Hebron — Rosemary Kennedy Brain Story #2 scheduled 12:00, made 9 Nov; Metricool numbers)
 
 | Post | Instagram | Facebook | TikTok | Total (no YouTube) | Change vs 9 Nov |

@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-10 (H.M. Brain Story first past 1,000 views, IG 12.3 s watch; fixes for Thu: opinion 1/2 question, TikTok carousel-first); earlier 2026-11-08 (Tremor carousel 273 passed its video 210 on TikTok; next fix: 1/2 question on screen from second 0; TikTok carousel-first test Tue); earlier 2026-11-07 (daily analysis: Tremor best first day, 600 views, Facebook 296; IG 35.2% past 3 s but watch time still ~6 s → Sunday test unchanged); earlier 2026-11-06 ( EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
+Last updated: 2026-11-11 (interaction review: Rosemary IG only 8 views in a day, 0 real comments; item 17 = interaction kit for every video); earlier 2026-11-10 (H.M. Brain Story first past 1,000 views, IG 12.3 s watch; fixes for Thu: opinion 1/2 question, TikTok carousel-first); earlier 2026-11-08 (Tremor carousel 273 passed its video 210 on TikTok; next fix: 1/2 question on screen from second 0; TikTok carousel-first test Tue); earlier 2026-11-07 (daily analysis: Tremor best first day, 600 views, Facebook 296; IG 35.2% past 3 s but watch time still ~6 s → Sunday test unchanged); earlier 2026-11-06 ( EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
 
 ## Fixed rules (never change these)
 
@@ -52,6 +52,8 @@ PINNED Tue 2026-11-10 = BRAIN STORY #2: Rosemary Kennedy and the 1941 lobotomy (
 
 16. **Fixes from 2026-11-10 (see analytics/lessons.md):** (a) the 1/2 question is an OPINION choice with no wrong answer ("Would you have said yes? 1 = yes, 2 = no"), on screen at 0–2 s and at the end; (b) Thu 2026-11-12: TikTok carousel 12:00 + TikTok video 18:00 (IG/FB unchanged) — 15(b) was not run on 11-10; (c) keep Brain Story length/pace (H.M. IG 12.3 s).
 
+17. **Interaction kit, every video from Thu 2026-11-12 (see analytics/lessons.md 2026-11-11):** (a) first 3 s never graphic (no wound, blood or instrument inside a head before 3 s): a graphic hook may be why Rosemary got 8 Instagram views; (b) opinion 1/2 question with no wrong answer, on screen at 0-2 s, spoken once early and as the last line; (c) one save line + one share line in every script; (d) first comment = the question + "I'll post my own answer with the reason tonight", and at the 18:08 review Motaz's answer goes in as a reply (real account only); (e) the review must finish like + question comment on all 4 apps, catch-up runs finish what is missing; (f) reply to every real comment the same day and end with a short follow-up question; (g) TikTok: carousel 12:00, video 18:00, carousel slide 1 = the question; (h) if a reel has under 50 Instagram views at 24 h while the one before had 300+, check Instagram Account status read-only and log it.
+
 11. **Improve without asking (Motaz, 2026-11-03):** any suggestion from the analysis goes straight into the next video; report it, don't ask for permission. Fixed rules still hold.
 
 ## What the data has shown so far
@@ -75,12 +77,15 @@ PINNED Tue 2026-11-10 = BRAIN STORY #2: Rosemary Kennedy and the 1941 lobotomy (
 - 2026-11-07: Tremor (Fri 12:04, two-option + number in the first second + cover-first) 600 video views in ~25 h — best first day ever (EMMA 462, OSCIS 440); Facebook 296 (best ever), TikTok video 187 = carousel 185, IG 114. IG 35.2% past 3 s (2 of 2 first-second-number videos at 35%+) but watch time 6.2 s (still ~6 s). 0 real comments after 11 videos.
 
 - 2026-11-10: H.M. (Brain Story #1) 1,013 views in ~2 days without YouTube — first past 1,000 (IG 616, 12.3 s avg, 6 saves; FB 260; TikTok only 137). Still 0 real comments.
+- 2026-11-11: Rosemary Kennedy (Brain Story #2) ~26 h: 326 video views (FB 179, TikTok 138, IG only 8, YouTube 1) vs H.M. 1,018 at 3 days; IG 8 is far below every reel so far (cause unknown, check Account status). FB watch 7 s (H.M. 2 s). Still 0 real comments.
 
 ## Series counter
 
 - Next NEURO PAPER number: 12 (#10 = EMMA-Can Thu 11-05, #11 = tremor Fri 11-06; increase by 1 after every published paper video). #11 is already used by the Friday 2026-11-06 video (made early) — so after Thursday's #10, the next free number is 12.
 
 ## Ideas to test next
+
+- Interaction kit (item 17) from Thu 11-12: count real comments per 1,000 views per app and replies inside our own question thread; compare with H.M. and Rosemary (both 0).
 
 - Opinion question vs quiz question for comments (Thu 11-12 opinion; compare real comments per 1,000 views with H.M. and Rosemary Kennedy).
 

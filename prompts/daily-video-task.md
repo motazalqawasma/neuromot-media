@@ -34,6 +34,8 @@ VIDIQ (connected 2026-11-07, free plan: 150 credits a month, renews on the 7th; 
 - All four domains now reachable from the workspace (elevenlabsusercontent.com, upload.wikimedia.org, commons.wikimedia.org, en.wikipedia.org): download voice takes and photos with curl, no browser.
 
 
+INTERACTION KIT (2026-11-11, PLAN item 17, every video): first 3 s never graphic; opinion 1/2 question (no wrong answer) on screen at 0-2 s, spoken early and as the last line; one save line + one share line in the script; first comment = the question + "I'll post my own answer with the reason tonight" (Metricool firstCommentText on IG + FB; by hand on TikTok + YouTube at 12:08), then at 18:08 reply under it with Motaz's answer + one true fact from the plan; step 6 is not done until like + question comment are done on all 4 apps (catch-up runs finish missing items); step 7 replies end with a short follow-up question; TikTok carousel 12:00 + video 18:00 with slide 1 = the question. Step 8: if a reel has under 50 Instagram views at 24 h while the one before had 300+, open Instagram Account status read-only in the built-in browser and log what it says.
+
 FORMAT NOTE (Motaz, 2026-11-07): read PLAN.md item 14 first. On Brain Story days the video is a true neurology story, not a paper summary: skip the Neuro Papers summary requirement, verify every fact with WebSearch (original paper or reliable source), cite it, no real-patient photos, journal page screenshots only if the original paper is open access.
 
 0. SKIP CHECK
