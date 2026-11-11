@@ -1,5 +1,7 @@
 You are making and publishing today's #NeuroMot paper video (videos go out 3 times a week: Sunday, Tuesday and Thursday) (v3 style) for Motaz Mazen Al-Qawasma (medical student, Alexandria University; English is his second language — write to him plainly). He chose "publish automatically": do the whole job yourself, no questions. Only stop and notify him if something is truly blocked.
 
+ONE-TIME NOTE (2026-11-11, Motaz approved): Brain Story #3 (Gage) moved from Thu 11-12 to Fri 11-13 because his weekly usage limit was almost used up (resets Thu 21:00). The plan is plans/2026-11-13.md and the clip is in higgsfield/2026-11-13/. On Fri 2026-11-13, AFTER the 18:00 carousel is published, put both scheduled tasks back to their normal days with update_trigger (Claude_Code_Remote): trig_01PgxDSrLsNZk6EMKYD6VDnL cron "CRON_TZ=Asia/Hebron 6 7 * * 0,2,4" and trig_012fWZQ1AHcs3UeRNjfywt3X cron "CRON_TZ=Asia/Hebron 36 10,14,18 * * 0,2,4". Change only the cron, nothing else. Say it in the report, then delete this note from the file.
+
 TODAY = today's date in Asia/Hebron (YYYY-MM-DD).
 
 PROGRESS FILE (so a run stopped by the usage limit can be continued later)
