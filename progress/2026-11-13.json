@@ -1,0 +1,18 @@
+{
+ "date": "2026-11-13",
+ "run": "made early on Thu 2026-11-12 evening in Motaz's chat (Brain Story #3, Phineas Gage). Publish Fri 12:00 + 18:00. Friday's run: skip steps 1-5c, do 6 (reviews 12:08 + 18:08, with the interaction kit), 7, 8, 9, then the one-time cron restore note in prompts/daily-video-task.md.",
+ "format": "Brain Story #3",
+ "topic": "Phineas Gage, 1848 (left frontal lobe)",
+ "steps": {
+  "1_topic": "done (plans/2026-11-13.md; facts re-checked: Univ. Akron/Macmillan, Britannica)",
+  "2_script": "done progress/2026-11-13-GG-script.txt",
+  "3_voice": "done take 2 of 2 (curl), atempo 1.12, progress/2026-11-13-GG-voice.mp3; captions timed with ElevenLabs Scribe",
+  "4_cover": "done banners/2026-11-13-GG-cover-9x16.jpg (Remotion Cover.tsx, no Canva AI used)",
+  "5_video": "done videos/2026-11-13-GG.mp4 (56.5 s, 1080x1920, -14.7 LUFS, no black/freeze; Higgsfield shot A used with 'AI illustration' label; non-graphic first 3 s)",
+  "5c_carousel_made": "done banners/2026-11-13-GG-carousel/s1-6.jpg (slide 1 = the question) + videos/2026-11-13-GG-fb-slides.mp4",
+  "5_published": "done scheduled Fri 2026-11-13 Metricool: 12:00 426120115 YouTube Short; 426120176 IG+FB reel (firstCommentText); 426120283 TikTok CAROUSEL (carousel-first test); 18:00 426120367 TikTok video; 426120474 IG carousel; 426120564 FB slideshow reel (2nd and last try)"
+ },
+ "question": "Was he still the same man? 1 = yes, 2 = no",
+ "evening_answer_to_post_at_18_08": "My answer: 2, at first. Harlow said his friends found him 'no longer Gage'. But he later drove stagecoaches in Valparaiso, Chile, for about 7 years, a job that needs planning, so his brain seems to have partly adapted.",
+ "all_done": false
+}
