@@ -2,6 +2,22 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-13 (Friday 18:30 Hebron — main run; Metricool numbers from 09:15; Gage too new)
+
+| Post | Instagram | Facebook | TikTok | Total |
+|---|---|---|---|---|
+| Rosemary Kennedy (Brain Story #2) video, 3 days | 8 views, 7 reach, 14.0 s avg, 28.6% past 3 s | 185 | 142, 0 likes | 335 |
+| Rosemary carousel / FB slideshow reel | — | 20 (slideshow) | 149, 5 likes | 169 |
+| H.M. (Brain Story #1) video, 5 days | 616, 12.3 s, 37.1%, 6 saves | 260 | 137 | 1,013 |
+| Gage (Brain Story #3) | too new | too new | too new | — |
+
+Findings:
+1. Rosemary's Instagram reel is still 8 views at 3 days (H.M. 616 at the same age): the Instagram block is real, not Metricool lag. Instagram Account status not checked yet (to do next run, read-only).
+2. Facebook slideshow reel 2nd try is Gage (posted today); Rosemary's first try stayed at 20 views.
+3. Metricool refused every post today ("account limit"); publishing moved to vidIQ (Motaz's other chat). Metricool stays for analytics.
+
+Plan change: none from this run (daily week 14-19 Nov set by Motaz).
+
 ## 2026-11-11 (Wednesday 13:40 Hebron — check in Motaz's chat; Metricool + vidIQ; Rosemary ~26 h old)
 
 | Post | Instagram | Facebook | TikTok | YouTube | Total |
