@@ -14,5 +14,8 @@
  },
  "question": "Was he still the same man? 1 = yes, 2 = no",
  "evening_answer_to_post_at_18_08": "My answer: 2, at first. Harlow said his friends found him 'no longer Gage'. But he later drove stagecoaches in Valparaiso, Chile, for about 7 years, a job that needs planning, so his brain seems to have partly adapted.",
- "all_done": false
+ "all_done": false,
+ "reminders_set": true,
+ "reminders": "12:08 review trig_014Cj3UEQuvu5W1Nd5k6r6nc, 18:08 review trig_01PjJJ53xaQvayhwohgamiX8, keep-alive 10:28 + 14:28 (main run session cse_015n4N1kMeNTxqLAqowim6Qf is handling today)",
+ "active_run": "main run session cse_015n4N1kMeNTxqLAqowim6Qf, 09:15 Hebron: 6 posts confirmed PENDING in Metricool; waiting for 12:08 review"
 }
