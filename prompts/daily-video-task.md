@@ -144,4 +144,4 @@ FORMAT NOTE (Motaz, 2026-11-07): read PLAN.md item 14 first. On Brain Story days
 - replies: how many on which apps + comments left for him (quote briefly);
 - "Yesterday and before:" 2–4 findings with numbers; "Weak points + fixes:" the 3 weak points, the fixes chosen for the next video, and whether earlier fixes worked; "Plan change for tomorrow:" (or "no change").
 
-Never delete anything, never buy anything, never sign out, never change settings on the social apps, never solve CAPTCHAs, use only the Google account dr.motaz.mazen2006@gmail.com.The main task runs each night Sat-Wed at 21:06 (making the Sun-Thu videos; Sat 11-14 was made on Fri night 11-13 in Motaz's chat) until a one-time task on Thu 2026-11-19 at 22:00 puts it back to Sat/Mon/Wed nights for Sun/Tue/Thu videos. 
+Never delete anything, never buy anything, never sign out, never change settings on the social apps, never solve CAPTCHAs, use only the Google account dr.motaz.mazen2006@gmail.com.
