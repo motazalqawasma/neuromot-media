@@ -1,0 +1,26 @@
+{
+ "date": "2026-11-14",
+ "run": "made on Fri night 2026-11-13 in Motaz's chat (Brain Story #4, Tan / Louis Victor Leborgne). Posts are SCHEDULED in vidIQ for Sat 12:00 and 18:00. The 12:08 and 18:08 reviews are send_later reminders in that chat session (cse of session_015n4N1nutAGYRqHYxND17Yh). Catch-up runs on Sat: do NOT make or publish anything; only if it is after 13:30 and 6_review_video is still not done, do step 6 for the 12:00 posts (and after 19:30 for the 18:00 posts), then 7-9.",
+ "format": "Brain Story #4",
+ "topic": "Tan (Louis Victor Leborgne), Broca 1861, left inferior frontal gyrus",
+ "steps": {
+  "1_topic": "done plans/2026-11-14.md; facts re-checked 11-13 night: Broca 1861 (Green translation, yorku), Dronkers 2007 Brain (doi 10.1093/brain/awm042), Domanski 2013 J Hist Neurosci (doi 10.1080/0964704X.2012.667528), LiveScience, Smithsonian, BrainFacts, Sci Am",
+  "2_script": "done progress/2026-11-14-TAN-script.txt",
+  "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE), atempo 1.12 -> 58.1 s; raw take in progress/2026-11-14-TAN-voice.mp3; captions timed with ElevenLabs Scribe",
+  "4_cover": "done banners/2026-11-14-TAN-cover-9x16.jpg (Remotion Cover.tsx with the real brain photo; no Canva AI used)",
+  "5_video": "done videos/2026-11-14-TAN.mp4 (59.0 s, 1080x1920, -15.0 LUFS, no black/freeze; real photos: Broca portrait PD, Leborgne brain CC BY-SA 4.0; 3D brain with Broca's area spot; no AI clip)",
+  "5c_carousel_made": "done banners/2026-11-14-TAN-carousel/s1-6.jpg (1080x1350, slide 1 = the question) + videos/2026-11-14-TAN-fb-slides.mp4 (16 s)",
+  "5_published": "done scheduled via vidIQ. 12:00 post b39ce829-6bbb-4090-98b9-dad49ec63b6b: YouTube Short 220ae4ce (public at 12:00, thumbnail = cover), Instagram reel 00bd608b, Facebook reel 2fb75c7c, TikTok 6-photo carousel 457c86b3. 18:00 post 58d65705-d118-4571-b77f-8abcb40b2c27: Instagram carousel 61cc4e0a, Facebook slideshow reel 9a435daa, TikTok video 7faa2e94. Scheduled vidIQ posts cannot be changed.",
+  "6_review_video": "pending (12:08 reminder)",
+  "6_review_carousel": "pending (18:08 reminder)",
+  "7_replies": "pending",
+  "8_analysis": "pending",
+  "9_report": "pending"
+ },
+ "question": "Would you rather lose speech or lose movement? 1 = speech, 2 = movement",
+ "first_comment": "Lose speech or lose movement? 1 = speech, 2 = movement. I'll post my own answer with the reason tonight.",
+ "evening_answer_to_post_at_18_08": "My answer: 2, I'd rather lose movement. Tan understood people for 21 years but could only answer 'tan'. One true fact: Broca saw him in April 1861, and his real name was found only in 2013.",
+ "next_video": "Sun 2026-11-15 is made by the night task on Sat 2026-11-14 at 21:06 (NIGHT RUN rule). No plan file yet: that run picks and checks the story itself.",
+ "all_done": false,
+ "reminders_set": true
+}
