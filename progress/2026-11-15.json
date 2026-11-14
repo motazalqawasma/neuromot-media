@@ -8,7 +8,11 @@
  "evening_answer_to_post_at_18_08": "My answer: 1, yes. Awake, the team can check your speech and movement while they work. One true fact: brain tissue itself feels no pain, so only the scalp is numbed.",
  "steps": {
   "1_topic": "done plans/2026-11-15.md",
-  "2_script": "done progress/2026-11-15-PEN-script.txt"
+  "2_script": "done progress/2026-11-15-PEN-script.txt",
+  "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE), atempo 1.12 -> 52.5 s; raw take progress/2026-11-15-PEN-voice.mp3; captions timed with ElevenLabs Scribe",
+  "4_cover": "done banners/2026-11-15-PEN-cover-9x16.jpg (Remotion Cover.tsx, real NLM photo; no Canva AI)",
+  "5_video": "done videos/2026-11-15-PEN.mp4 (53.7 s, 1080x1920, -15.1 LUFS, no black/freeze; photos: Penfield NLM 1958 public domain, sensory homunculus OpenStax CC BY 3.0; 3D brain with motor/sensory strips and probe)",
+  "5c_carousel_made": "done banners/2026-11-15-PEN-carousel/s1-6.jpg + videos/2026-11-15-PEN-fb-slides.mp4"
  },
  "all_done": false
 }
