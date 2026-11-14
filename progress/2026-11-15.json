@@ -12,7 +12,11 @@
   "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE), atempo 1.12 -> 52.5 s; raw take progress/2026-11-15-PEN-voice.mp3; captions timed with ElevenLabs Scribe",
   "4_cover": "done banners/2026-11-15-PEN-cover-9x16.jpg (Remotion Cover.tsx, real NLM photo; no Canva AI)",
   "5_video": "done videos/2026-11-15-PEN.mp4 (53.7 s, 1080x1920, -15.1 LUFS, no black/freeze; photos: Penfield NLM 1958 public domain, sensory homunculus OpenStax CC BY 3.0; 3D brain with motor/sensory strips and probe)",
-  "5c_carousel_made": "done banners/2026-11-15-PEN-carousel/s1-6.jpg + videos/2026-11-15-PEN-fb-slides.mp4"
+  "5c_carousel_made": "done banners/2026-11-15-PEN-carousel/s1-6.jpg + videos/2026-11-15-PEN-fb-slides.mp4",
+  "5_published": "done scheduled via vidIQ. 12:00 post a5c55ade-3edb-4f76-90ea-4f34e2a5d5b8: YouTube Short 0f0e1882 (public at 12:00, thumbnail = cover), Instagram reel 9833dc76, Facebook reel 69962a04, TikTok 6-photo carousel e6096888. 18:00 post 13385c66-d9c9-432c-9bc4-56093e5837d2: Instagram carousel 9fa06b8c, Facebook slideshow reel 1391e4d6, TikTok video 95bdfcd3. Scheduled vidIQ posts cannot be changed.",
+  "6_review_video": "pending (12:08 reminder)",
+  "6_review_carousel": "pending (18:08 reminder)"
  },
- "all_done": false
+ "all_done": false,
+ "reminders_set": true
 }
