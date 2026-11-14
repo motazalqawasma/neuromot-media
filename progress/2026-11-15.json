@@ -1,0 +1,14 @@
+{
+ "date": "2026-11-15",
+ "run": "made Sat night 2026-11-14 in Motaz's chat (main 21:06 run could not start, PC offline; fired run had no push access). Posts SCHEDULED in vidIQ for Sun 12:00 and 18:00. Reviews = send_later reminders in that chat. Catch-up runs on Sun: do NOT make or publish anything if 5_published is done; only if after 13:30 and 6_review_video not done, do step 6, then 7-9.",
+ "format": "Brain Story #5",
+ "topic": "Wilder Penfield, awake brain surgery (Montreal procedure), homunculus 1937",
+ "question": "Would you stay awake for your own brain surgery? 1 = yes, 2 = no",
+ "first_comment": "Would you stay awake for your own brain surgery? 1 = yes, 2 = no. I'll post my own answer with the reason tonight.",
+ "evening_answer_to_post_at_18_08": "My answer: 1, yes. Awake, the team can check your speech and movement while they work. One true fact: brain tissue itself feels no pain, so only the scalp is numbed.",
+ "steps": {
+  "1_topic": "done plans/2026-11-15.md",
+  "2_script": "done progress/2026-11-15-PEN-script.txt"
+ },
+ "all_done": false
+}
