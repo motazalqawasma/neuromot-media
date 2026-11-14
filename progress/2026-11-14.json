@@ -12,21 +12,24 @@
   "5c_carousel_made": "done banners/2026-11-14-TAN-carousel/s1-6.jpg (1080x1350, slide 1 = the question) + videos/2026-11-14-TAN-fb-slides.mp4 (16 s)",
   "5_published": "done scheduled via vidIQ. 12:00 post b39ce829-6bbb-4090-98b9-dad49ec63b6b: YouTube Short 220ae4ce (public at 12:00, thumbnail = cover), Instagram reel 00bd608b, Facebook reel 2fb75c7c, TikTok 6-photo carousel 457c86b3. 18:00 post 58d65705-d118-4571-b77f-8abcb40b2c27: Instagram carousel 61cc4e0a, Facebook slideshow reel 9a435daa, TikTok video 7faa2e94. Scheduled vidIQ posts cannot be changed.",
   "6_review_video": "done 12:50 (late, browser was offline at 12:08): all 4 live with cover; liked + question comment on YouTube, Instagram reel, Facebook reel, TikTok carousel (TikTok public, 6 slides). Pin NOT done: YouTube asks for phone/ID verification to pin (Motaz's choice); Instagram/Facebook web views showed no pin option. YouTube playlist not added yet. 13:50: Tan, Gage and Rosemary Kennedy added to Brain Stories (now 4 videos).",
-  "6_review_carousel": "pending (18:08 reminder)",
-  "7_replies": "pending",
-  "8_analysis": "pending",
-  "9_report": "pending"
+  "6_review_carousel": "done 18:15: vidIQ all 3 live (Instagram carousel DfuldIzlCdg 6 slides in order, Facebook slideshow reel 1031619439338466, TikTok video 7708057586129538325). Liked + question comment on each.",
+  "7_replies": "done 18:20: no viewer comments yet on any post. Evening answer posted as a reply under the question comment on YouTube, Instagram reel, Facebook reel, TikTok carousel.",
+  "8_analysis": "first look at 18:20: Tan Short 1 view on YouTube; 2 likes on Facebook reel and TikTok carousel (1 is Motaz's own); 0 viewer comments anywhere after 6 h. Same pattern as before: the comment question is not pulling replies. Idea for Sun video: ask a yes/no question that needs no thinking in the first 3 s.",
+  "9_report": "sent 18:20"
  },
  "question": "Would you rather lose speech or lose movement? 1 = speech, 2 = movement",
  "first_comment": "Lose speech or lose movement? 1 = speech, 2 = movement. I'll post my own answer with the reason tonight.",
  "evening_answer_to_post_at_18_08": "My answer: 2, I'd rather lose movement. Tan understood people for 21 years but could only answer 'tan'. One true fact: Broca saw him in April 1861, and his real name was found only in 2013.",
  "next_video": "Sun 2026-11-15 is made by the night task on Sat 2026-11-14 at 21:06 (NIGHT RUN rule). No plan file yet: that run picks and checks the story itself.",
- "all_done": false,
+ "all_done": true,
  "reminders_set": true,
  "links": {
   "youtube": "https://www.youtube.com/watch?v=xqGcYzISm7Q",
   "instagram": "https://www.instagram.com/reel/Dft8RatCSB6/",
   "facebook": "https://www.facebook.com/reel/1002401116252608",
-  "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/photo/7707964797807021333"
+  "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/photo/7707964797807021333",
+  "instagram_carousel": "https://www.instagram.com/p/DfuldIzlCdg/",
+  "facebook_slides": "https://www.facebook.com/reel/1031619439338466",
+  "tiktok_video": "https://www.tiktok.com/@motaz.alqawasma/video/7708057586129538325"
  }
 }
