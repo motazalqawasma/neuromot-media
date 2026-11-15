@@ -1,5 +1,16 @@
 # Post-publish checks
 
+## 2026-11-15 — Penfield (Brain Story #5) video, 12:08 review + 14:36 catch-up
+
+| App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption |
+|---|---|---|---|---|---|---|
+| YouTube QS0dxwS5rZw | ✅ | ✅ cover set by vidIQ | ✅ (12:08) | ✅ posted 12:12 (vidIQ confirms, once) | ❓ clicked at 12:2x, not confirmed; YouTube page does not load in the hidden browser pane at 14:40 | ✅ |
+| Instagram Dfwi3AnnPN8 | ✅ (re-posted 12:16 after IG refused the first file) | not checked | ✅ liked 14:42 (shows "Unlike" after reload) | ✅ posted 14:44, once | no pin on web | ✅ DOI present |
+| Facebook reel 2618067115308571 | ✅ | not checked | ✅ (12:08) | ✅ (as Motaz, no Page switcher) | no pin on web | ✅ |
+| TikTok carousel 7708335857245162753 | ✅ | — | ✅ liked 14:41 (aria-pressed true after reload) | ✅ (12:08) | no pin on web | ✅ |
+
+Replies 14:45: 0 real viewer comments on all 4 apps (YouTube channel comments via vidIQ, TikTok Studio, IG post, FB reel = only Motaz's own).
+
 ## 2026-11-10 12:10 — Rosemary Kennedy (Brain Story #2) video, catch-up run
 
 | App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption |
