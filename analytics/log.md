@@ -2,6 +2,39 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-15 (Sunday 18:45 Hebron - FULL REVIEW of all published videos, asked by Motaz; Metricool, 10 Oct-15 Nov)
+
+Totals = Instagram + Facebook + TikTok video (YouTube left out: 0-10 views per Short). TikTok carousel in brackets.
+
+| Video (date) | Format | IG views | IG avg watch / past 3 s | FB | TikTok video (carousel) | Total |
+|---|---|---|---|---|---|---|
+| H.M. (11-08) | Brain Story | 621 | 12.3 s / 37% | 260 | 137 (156) | 1,018 |
+| SELECT2 (10-20) | paper, "too late?" | 150 | 5.3 s / 28% | 220 | 435 | 805 |
+| Tremor DBS vs ultrasound (11-06) | paper, surgeon choice | 120 | 6.9 s / 37% | 286 | 247 (476) | 653 |
+| Spinal cord now or wait (11-01) | paper, surgeon choice | 128 | 7.6 s / 28% | 177 | 247 (245) | 552 |
+| EMMA-Can (11-05) | paper, surgeon choice | 121 | 6.0 s / 39% | 155 | 252 (452) | 528 |
+| AneurysmAI (10-25) | paper, "Can X?" | 161 | 8.4 s / 23% | 189 | 174 (474) | 524 |
+| ENRICH (11-03) | paper, surgeon choice | 130 | 6.2 s / 28% | 215 | 111 (386) | 456 |
+| Tan (11-14, 1 day) | Brain Story | 126 | 9.3 s / 29% | 194 | 107 (150) | 427 |
+| Boston v2.0 (10-19) | paper | 143 | 5.7 s / 22% | 162 | 96 | 401 |
+| Rosemary Kennedy (11-10) | Brain Story | 11 | 14.0 s / 50% | 186 | 145 (151) | 342 |
+| Eptinezumab (10-29) | paper, "Can X?" | 115 | 6.1 s / 26% | 37 | 173 (388) | 325 |
+| Donanemab (10-27) | paper, "Can X?" | 139 | 7.3 s / 23% | 38 | 132 (257) | 309 |
+| Gage (11-13) | Brain Story | 124 | 15.7 s / 46% | 3 | 139 (151) | 266 |
+| ASDH (10-17) | paper, old style | 227 | 6.9 s / 31% | 10 | 0 | 237 |
+| INTERACT3 (10-18) | paper, old style | 112 | 3.1 s / 23% | 49 | 0 | 161 |
+| Penfield (11-15) | Brain Story | too new | | | | |
+
+Median total about 430. Outliers: H.M. (2.4x), SELECT2 (1.9x). About 7,300 views in total and 0 real viewer comments.
+
+Findings:
+1. Instagram watch time: Brain Stories 9-16 s vs paper videos 5-8 s. Gage held 46% past 3 s, the best ever. People stay longer for a true story about one person.
+2. But Brain Stories do not get more views on TikTok (video 107-145, carousel 150-156), while paper carousels reach 386-476. TikTok rewards the paper carousel, not the story.
+3. Comments: 0 real comments after about 7,300 views. Earlier claim "0-10 views" was wrong (true only for YouTube). With 300-1,000 views per video, some comments should come; the questions are the main suspect: they ask for medical knowledge (H.M., Rosemary quiz) or a doctor's decision (thrombectomy, DBS) that most viewers cannot judge, or have one obvious answer (awake surgery).
+4. Facebook can drop to near zero for no clear reason (Donanemab 38, Eptinezumab 37, Gage 3). Gage was the first video posted through vidIQ; Tan (vidIQ too) got 194, so not a vidIQ rule. Watch it.
+5. Instagram nearly hid Rosemary (11 views) while other apps were normal; graphic hook ("awake while they cut her brain") is the main suspect.
+6. YouTube Shorts: still near 0. Costs little (same file), so keep, but do not judge anything by it.
+
 ## 2026-11-13 (Friday 18:30 Hebron — main run; Metricool numbers from 09:15; Gage too new)
 
 | Post | Instagram | Facebook | TikTok | Total |
