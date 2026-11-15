@@ -4,7 +4,7 @@
 
 | App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption |
 |---|---|---|---|---|---|---|
-| YouTube QS0dxwS5rZw | ✅ | ✅ cover set by vidIQ | ✅ (12:08) | ✅ posted 12:12 (vidIQ confirms, once) | ❓ clicked at 12:2x, not confirmed; YouTube page does not load in the hidden browser pane at 14:40 | ✅ |
+| YouTube QS0dxwS5rZw | ✅ | ✅ cover set by vidIQ | ✅ (12:08) | ✅ posted 12:12 (vidIQ confirms, once) | ❌ blocked: Pin opens "Help us keep YouTube safe" (channel needs video/ID verification) — needs Motaz | ✅ |
 | Instagram Dfwi3AnnPN8 | ✅ (re-posted 12:16 after IG refused the first file) | not checked | ✅ liked 14:42 (shows "Unlike" after reload) | ✅ posted 14:44, once | no pin on web | ✅ DOI present |
 | Facebook reel 2618067115308571 | ✅ | not checked | ✅ (12:08) | ✅ (as Motaz, no Page switcher) | no pin on web | ✅ |
 | TikTok carousel 7708335857245162753 | ✅ | — | ✅ liked 14:41 (aria-pressed true after reload) | ✅ (12:08) | no pin on web | ✅ |
