@@ -7,7 +7,8 @@
   "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE, 1,926 credits for 2 takes), lead silence trimmed, atempo 1.12 -> 51.5 s; raw take progress/2026-11-16-SB-voice.mp3, final progress/2026-11-16-SB-voice-final.mp3",
   "4_cover": "done banners/2026-11-16-SB-cover-9x16.jpg (Remotion Cover.tsx, 3D split brain; no Canva AI, no free photo reachable: Wikimedia API answered 429 all night)",
   "5_video": "done videos/2026-11-16-SB.mp4 (52.4 s, 1080x1920, -14.9 LUFS, TP -1.4, no black/freeze; 3D split brain Split3D.tsx, drawn test screen, no photos, no AI clip)",
-  "5c_carousel_made": "done banners/2026-11-16-SB-carousel/s1-6.jpg (1080x1350, slide 1 = the question) + videos/2026-11-16-SB-fb-slides.mp4 (16 s)"
+  "5c_carousel_made": "done banners/2026-11-16-SB-carousel/s1-6.jpg (1080x1350, slide 1 = the question) + videos/2026-11-16-SB-fb-slides.mp4 (16 s)",
+  "5_published": "done scheduled via vidIQ. 12:00 post 8f8c81de-526c-40b9-8556-770bfe14a524: YouTube Short 42b04f49 (uploaded, https://www.youtube.com/watch?v=jBrTzeLKZ6w, private until 12:00, thumbnail = cover), Instagram reel cc232b3b, Facebook reel 4a5e082d, TikTok 6-photo carousel b0352810. 18:00 post 67c5c1e8-9792-4fb8-9d8a-2a0473c123cf: Instagram carousel 4db5b021, Facebook slideshow reel 3dc200be, TikTok video d71f4f99. Scheduled vidIQ posts cannot be changed."
  },
  "all_done": false,
  "format": "Brain Story #6",
@@ -24,5 +25,8 @@
   "One man. Two brain halves. Neither knew what the other saw."
  ],
  "first_comment": "Which hand is holding your phone right now? 1 = left, 2 = right. I'll post my own answer with the reason tonight.",
- "evening_answer_to_post_at_18_08": "My answer: 2, right hand. That hand is run by my LEFT brain half, the side where speech usually lives. One true fact: the bridge they cut, the corpus callosum, has about 200 million nerve fibers."
+ "evening_answer_to_post_at_18_08": "My answer: 2, right hand. That hand is run by my LEFT brain half, the side where speech usually lives. One true fact: the bridge they cut, the corpus callosum, has about 200 million nerve fibers.",
+ "links": {
+  "youtube": "https://www.youtube.com/watch?v=jBrTzeLKZ6w"
+ }
 }
