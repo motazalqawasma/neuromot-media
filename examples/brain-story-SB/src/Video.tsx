@@ -166,9 +166,10 @@ const LA = () => {
         <Title size={90} delay={sw}>the bridge between</Title>
         <Title size={110} color={C.orange} delay={sw+4}>the two halves</Title>
       </AbsoluteFill>
-      <Abs x={40} y={430}><Split3D width={1000} height={720} bridge={ease(f,sw,sw+20)} cut={cutP} pulse={f/30} dist={dist}/></Abs>
+      <Abs x={40} y={430} show={1-win(f,T(13.8,st),T(16.0,st),6)}><Split3D width={1000} height={720} bridge={ease(f,sw,sw+20)} cut={cutP} pulse={f/30} dist={dist}/></Abs>
+      {f>=T(13.7,st) && f<T(16.0,st) && <Abs x={150} y={420} show={win(f,T(13.8,st),T(16.0,st),6)}><Photo src="gray_sagittal.jpg" w={780} h={600} at={T(13.8,st)} rot={-1.5} label="the real corpus callosum" credit="Gray’s Anatomy, 1918 · public domain" pos="50% 40%"/></Abs>}
       <Abs x={0} y={500} w={1080} style={{display:'flex',justifyContent:'space-between',padding:'0 70px',boxSizing:'border-box'}}>
-        <Label size={44} delay={sw+8} color={C.text}>LEFT half</Label><Label size={44} delay={sw+8} color={C.text}>RIGHT half</Label>
+        <div style={{opacity:1-win(f,T(13.8,st),T(16.0,st),6)}}><Label size={44} delay={sw+8} color={C.text}>LEFT half</Label></div><div style={{opacity:1-win(f,T(13.8,st),T(16.0,st),6)}}><Label size={44} delay={sw+8} color={C.text}>RIGHT half</Label></div>
       </Abs>
       <AbsoluteFill style={{alignItems:'center',paddingTop:1110}}>
         {f<T(16.0,st) ? <div style={{display:'flex',flexDirection:'column',alignItems:'center',gap:18}}>
@@ -189,8 +190,11 @@ const Normal = () => {
         <Row at={T(17.5,st)} c={C.green}>seizures: calmed down</Row>
         <Row at={T(19.1,st)} c={C.blue}>everyday life: talking, walking</Row>
       </div>
-      <div style={{marginTop:20}}><Stamp at={T(20.45,st)} size={150} c={C.yellow}>TOTALLY NORMAL?</Stamp></div>
-      <StickDoc pose="shrug" mood="smile" size={300} delay={T(17.6,st)}/>
+      <Stamp at={T(20.45,st)} size={120} c={C.yellow}>TOTALLY NORMAL?</Stamp>
+      <div style={{display:'flex',alignItems:'flex-end',gap:20}}>
+        <Photo src="gray_above.jpg" w={360} h={360} at={T(17.7,st)} rot={-3} label="seen from above" credit="Gray’s Anatomy, 1918 · public domain" pos="50% 45%"/>
+        <StickDoc pose="shrug" mood="smile" size={240} delay={T(17.6,st)}/>
+      </div>
     </AbsoluteFill>
   </Cam>);
 };
@@ -204,6 +208,9 @@ const Test = () => {
       <Pill at={T(22.8,st)} bg={C.orange} color="#fff" size={62}>Michael Gazzaniga</Pill>
       <Label size={38} delay={T(22.9,st)} color={C.text}>young scientist in Roger Sperry’s lab · Caltech</Label>
     </AbsoluteFill>
+    {f<T(24.0,st) && <AbsoluteFill style={{alignItems:'center',paddingTop:400,opacity:1-ease(f,T(23.5,st),T(23.9,st))}}>
+      <Photo src="gazzaniga.jpg" w={560} h={640} at={T(21.55,st)} rot={2} label="Michael Gazzaniga, today" credit="photo via Wikipedia · used for education" pos="50% 30%"/>
+    </AbsoluteFill>}
     {/* the screen: look at the dot, picture flashed on the LEFT side only */}
     <Abs x={160} y={380} w={760} show={ease(f,T(23.8,st),T(24.1,st))}>
       <div style={{height:340,background:'#0C0D11',border:`8px solid ${C.line}`,borderRadius:22,position:'relative',boxShadow:'0 14px 0 #0B0B0E'}}>
@@ -212,7 +219,7 @@ const Test = () => {
         <div style={{position:'absolute',left:60,top:70,width:200,height:170,borderRadius:14,background:C.yellow,opacity:flash,display:'flex',alignItems:'center',justifyContent:'center',fontFamily:HEAD,fontWeight:900,fontSize:44,color:C.bg}}>PICTURE</div>
       </div>
     </Abs>
-    <Abs x={190} y={760}><Split3D width={700} height={500} bridge={1} cut={1} right={ease(f,T(26.04,st),T(26.5,st))} dist={9}/></Abs>
+    <Abs x={190} y={760} show={ease(f,T(23.8,st),T(24.1,st))}><Split3D width={700} height={500} bridge={1} cut={1} right={ease(f,T(26.04,st),T(26.5,st))} dist={9}/></Abs>
     <svg style={{position:'absolute',left:0,top:0,opacity:arrow}} width={1080} height={1920}>
       <path d="M 320 640 C 420 760, 600 800, 700 940" stroke={C.yellow} strokeWidth={10} fill="none" strokeDasharray="1400" strokeDashoffset={1400*(1-arrow)} strokeLinecap="round"/>
     </svg>
@@ -263,11 +270,9 @@ const End = () => {
       <Abs x={100} y={330}><Pill at={T(39.66,st)} bg={C.yellow} size={56} rot={-4}>SPEECH: usually LEFT</Pill></Abs>
     </AbsoluteFill>}
     {b>0 && <AbsoluteFill style={{alignItems:'center',padding:'260px 60px 0',gap:30,opacity:b}}>
-      <Title size={200} color={C.orange} delay={t1-2}>1981</Title>
-      <Chip at={T(41.6,st)} c={C.red} size={110}>NOBEL PRIZE</Chip>
-      <Title size={90} delay={T(42.0,st)}>Roger Sperry</Title>
-      <Label size={38} delay={T(42.6,st)} color={C.text}>“for his discoveries concerning the functional<br/>specialization of the cerebral hemispheres”</Label>
-      <StickDoc pose="cheer" mood="smile" size={260} delay={T(42.8,st)}/>
+      <div style={{display:'flex',alignItems:'center',gap:30}}><Title size={170} color={C.orange} delay={t1-2}>1981</Title><Chip at={T(41.6,st)} c={C.red} size={90}>NOBEL PRIZE</Chip></div>
+      <Photo src="sperry.jpg" w={480} h={540} at={T(41.9,st)} rot={-2} label="Roger Sperry" credit="photo via Wikipedia · used for education" pos="50% 25%"/>
+      <Label size={36} delay={T(42.6,st)} color={C.text}>“for his discoveries concerning the functional<br/>specialization of the cerebral hemispheres”</Label>
     </AbsoluteFill>}
     {c>0 && <AbsoluteFill style={{alignItems:'center',padding:'240px 60px 0',gap:30,opacity:c}}>
       <Pill at={t2-4} bg={C.orange} color="#fff" size={54}>BRAIN STORY #6</Pill>
@@ -283,7 +288,7 @@ const End = () => {
       <Chip at={T(48.0,st)} c={C.red} size={96}>LEFT-HANDED FRIEND</Chip>
       <div style={{textAlign:'center',marginTop:40}}>
         <div style={{fontFamily:BODY,fontWeight:600,fontSize:26,color:C.text}}>Source: Gazzaniga MS, Bogen JE, Sperry RW. Some functional effects of sectioning the cerebral commissures in man. PNAS 1962;48(10):1765–1769, doi:10.1073/pnas.48.10.1765</div>
-        <div style={{fontFamily:BODY,fontWeight:600,fontSize:22,color:C.mute,marginTop:8}}>Wolman, Nature 2012 · Shen, PNAS 2014 · nobelprize.org · drawings and 3D: NeuroMot</div>
+        <div style={{fontFamily:BODY,fontWeight:600,fontSize:22,color:C.mute,marginTop:8}}>Wolman, Nature 2012 · Shen, PNAS 2014 · nobelprize.org · Photos: Gray’s Anatomy 1918 (public domain); Gazzaniga and Sperry via Wikipedia, used for education</div>
         <div style={{fontFamily:BODY,fontWeight:600,fontSize:22,color:C.yellow,marginTop:8}}>For education, not medical advice</div>
       </div>
     </AbsoluteFill>}

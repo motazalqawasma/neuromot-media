@@ -28,19 +28,21 @@ export const Slides: React.FC = () => {
   if(f===0) return (<Frame n={1}>
     <T s={130}>Your phone is in<br/><span style={{color:C.orange}}>which hand?</span></T>
     <div style={{display:'flex',gap:30,alignItems:'center'}}>
-      <div style={{width:520,height:420,position:'relative'}}><div style={{position:'absolute',left:-40,top:-40}}><Split3D width={600} height={500} bridge={1} cut={0.6} left={0.9} right={0.9} dist={8.6}/></div></div>
+      <Ph src="gray_above.jpg" w={420} h={460} cap="corpus callosum from above · Gray’s Anatomy 1918, public domain"/>
       <div style={{display:'flex',flexDirection:'column',gap:22}}><Hand n="1" l="LEFT" c="#4FA3FF"/><Hand n="2" l="RIGHT" c={C.red}/><P s={38} c={C.mute}>no wrong answer</P></div></div>
     <T s={66} c={C.orange}>swipe: why it matters →</T>
   </Frame>);
   if(f===1) return (<Frame n={2}>
     <T s={120}>Los Angeles,<br/><span style={{color:C.orange}}>1962</span></T>
     <Box bg={C.card}><P>A WWII veteran known as W.J. had seizures that nothing could stop.</P></Box>
-    <Box bg={C.card}><P>Surgeons Philip Vogel and Joseph Bogen cut the bridge between his two brain halves: the corpus callosum, about 200 million nerve fibers.</P></Box>
+    <Ph src="gray_sagittal.jpg" w={520} h={300} cap="the corpus callosum · Gray’s Anatomy 1918, public domain" pos="50% 35%"/>
+    <Box bg={C.card}><P s={42}>Surgeons Philip Vogel and Joseph Bogen cut the bridge between his two brain halves: the corpus callosum, about 200 million nerve fibers.</P></Box>
   </Frame>);
   if(f===2) return (<Frame n={3}>
     <T s={120}>He seemed normal</T>
     <Box bg={C.card}><P>The seizures calmed down. In everyday life he looked completely normal.</P></Box>
-    <Box bg={C.orange}><P c="#fff">Then Michael Gazzaniga, a young scientist in Roger Sperry’s lab at Caltech, flashed pictures to one brain half at a time.</P></Box>
+    <div style={{display:'flex',gap:26,alignItems:'center'}}><Ph src="gazzaniga.jpg" w={300} h={340} cap="Michael Gazzaniga · via Wikipedia" pos="50% 30%"/>
+    <Box bg={C.orange} w={560}><P s={42} c="#fff">Then Michael Gazzaniga, a young scientist in Roger Sperry’s lab at Caltech, flashed pictures to one brain half at a time.</P></Box></div>
   </Frame>);
   if(f===3) return (<Frame n={4}>
     <T s={110}>“I saw nothing”</T>
@@ -52,13 +54,14 @@ export const Slides: React.FC = () => {
     <T s={110}>Exam classic</T>
     <Box bg={C.card}><P s={48}>Each hand is run by the <b style={{color:C.orange}}>OPPOSITE</b> brain half.</P></Box>
     <Box bg={C.card}><P s={48}>Speech usually lives in the <b style={{color:'#4FA3FF'}}>LEFT</b> half, so the right half “saw” but could not say it.</P></Box>
-    <Box bg={C.red}><P s={42} c="#fff">1981: Roger Sperry won the Nobel Prize for this work on the two brain halves.</P></Box>
+    <div style={{display:'flex',gap:24,alignItems:'center'}}><Ph src="sperry.jpg" w={220} h={250} cap="Roger Sperry · via Wikipedia" pos="50% 25%"/>
+    <Box bg={C.red} w={640}><P s={42} c="#fff">1981: Roger Sperry won the Nobel Prize for this work on the two brain halves.</P></Box></div>
     <P s={40} c={C.yellow}>Save this for your neuro exam.</P>
   </Frame>);
   return (<Frame n={6}>
     <T s={110}>Your turn</T>
     <Box bg={C.card}><P s={52}>Which hand is holding your phone right now?<br/><b style={{color:C.yellow}}>1 = left · 2 = right</b></P></Box>
     <P s={40} c={C.text}>Send this to your left-handed friend.</P>
-    <P s={24} c={C.mute}>Source: Gazzaniga MS, Bogen JE, Sperry RW. Some functional effects of sectioning the cerebral commissures in man. PNAS 1962;48(10):1765–1769, doi:10.1073/pnas.48.10.1765. Wolman, Nature 2012; nobelprize.org. For education, not medical advice.</P>
+    <P s={24} c={C.mute}>Source: Gazzaniga MS, Bogen JE, Sperry RW. Some functional effects of sectioning the cerebral commissures in man. PNAS 1962;48(10):1765–1769, doi:10.1073/pnas.48.10.1765. Wolman, Nature 2012; nobelprize.org. Photos: Gray’s Anatomy 1918 (public domain); Gazzaniga and Sperry via Wikipedia, used for education. For education, not medical advice.</P>
   </Frame>);
 };

@@ -1,17 +1,20 @@
 import React from 'react';
-import {AbsoluteFill} from 'remotion';
+import {AbsoluteFill, Img, staticFile} from 'remotion';
 import '@fontsource/barlow-condensed/800.css';
 import '@fontsource/barlow-condensed/900.css';
 import '@fontsource/barlow/600.css';
-import {Split3D} from './Split3D';
 const C={bg:'#1A1B20',red:'#E0263A',orange:'#F28C28',yellow:'#FFD23F',green:'#2DBE6C',blue:'#4FA3FF',text:'#F2F2F4'};
 const H="'Barlow Condensed', sans-serif", B="'Barlow', sans-serif";
 // Brain Story #6 cover: split brain 3D + "two minds in one head?"
 export const Cover: React.FC = () => (
   <AbsoluteFill style={{background:`radial-gradient(circle at 50% 58%, #3a1d14 0%, ${C.bg} 62%)`,fontFamily:H,color:C.text}}>
-    <div style={{position:'absolute',left:40,top:640}}><Split3D width={1000} height={720} bridge={1} cut={0.6} left={0.9} right={0.9} dist={8.6}/></div>
-    <div style={{position:'absolute',left:70,top:1300,fontWeight:900,fontSize:56,color:C.blue}}>LEFT HALF</div>
-    <div style={{position:'absolute',right:70,top:1300,fontWeight:900,fontSize:56,color:C.orange}}>RIGHT HALF</div>
+    <div style={{position:'absolute',left:290,top:640,width:500,background:'#f4f1ea',padding:'14px 14px 0',borderRadius:8,transform:'rotate(-2deg)',boxShadow:'0 30px 70px rgba(0,0,0,.65)'}}>
+      <div style={{width:'100%',height:600,overflow:'hidden'}}><Img src={staticFile('gray_above.jpg')} style={{width:'100%',height:'100%',objectFit:'cover',display:'block'}}/></div>
+      <div style={{fontWeight:900,fontSize:40,color:C.bg,textAlign:'center',padding:'6px 0 2px'}}>the bridge they cut</div>
+      <div style={{fontFamily:B,fontWeight:600,fontSize:16,color:'#666',textAlign:'center',paddingBottom:8}}>Gray’s Anatomy, 1918 · public domain</div>
+    </div>
+    <div style={{position:'absolute',left:60,top:900,fontWeight:900,fontSize:56,color:C.blue,transform:'rotate(-4deg)'}}>LEFT<br/>HALF</div>
+    <div style={{position:'absolute',right:60,top:900,fontWeight:900,fontSize:56,color:C.orange,textAlign:'right',transform:'rotate(4deg)'}}>RIGHT<br/>HALF</div>
     <div style={{position:'absolute',top:70,left:70,fontWeight:800,fontSize:46}}>#NeuroMot</div>
     <div style={{position:'absolute',top:134,left:66,border:`4px solid ${C.orange}`,fontWeight:900,fontSize:46,padding:'2px 18px'}}>BRAIN STORY #6</div>
     <div style={{position:'absolute',top:70,right:60,background:C.red,fontWeight:900,fontSize:40,padding:'6px 20px',borderRadius:30}}>TRUE STORY · 1962</div>
