@@ -15,16 +15,23 @@
   "5c_carousel_made": "done banners/2026-11-15-PEN-carousel/s1-6.jpg + videos/2026-11-15-PEN-fb-slides.mp4",
   "5_published": "done scheduled via vidIQ. 12:00 post a5c55ade-3edb-4f76-90ea-4f34e2a5d5b8: YouTube Short 0f0e1882 (public at 12:00, thumbnail = cover), Instagram reel 9833dc76, Facebook reel 69962a04, TikTok 6-photo carousel e6096888. 18:00 post 13385c66-d9c9-432c-9bc4-56093e5837d2: Instagram carousel 9fa06b8c, Facebook slideshow reel 1391e4d6, TikTok video 95bdfcd3. Scheduled vidIQ posts cannot be changed.",
   "6_review_video": "done (14:36 catch-up finished it): Instagram like + question comment done 14:42-14:44; TikTok carousel like confirmed (aria-pressed true after reload). Only gap: YouTube pin not confirmed (YouTube page does not render in the hidden browser pane); 18:08 run can check it. Table in analytics/checks.md. UPDATE ~14:55: YouTube pin tried again, blocked by 'Help us keep YouTube safe' channel verification (same as 11-08). Not done; Motaz must verify the channel himself. Do not retry the pin.",
-  "6_review_carousel": "pending (18:08 reminder)",
-  "7_replies_1436": "checked 14:45: 0 real viewer comments on all 4 apps, nothing to reply"
+  "6_review_carousel": "done 18:08-18:30: all 3 posted (vidIQ completed). Like + question comment done on Instagram carousel (6 images), Facebook slideshow reel, TikTok video. Note: TikTok video caption starts 'Swipe' (shared carousel text) - harmless.",
+  "7_replies_1436": "checked 14:45: 0 real viewer comments on all 4 apps, nothing to reply",
+  "6b_evening_answer": "done on Facebook reel (reply), Instagram reel (reply), TikTok carousel + TikTok video (top-level comment; TikTok reply box posted as a new comment). YouTube: NOT posted - vidIQ reply needs Motaz to allow comment replies once (YouTube authorization link), and the YouTube page does not render in the hidden browser pane.",
+  "7_replies_1808": "0 real viewer comments on all 4 apps at 18:30; nothing to reply.",
+  "8_analysis": "skipped tonight: posts are 6 h old (too new). Next night run does the full analysis.",
+  "9_plan_next": "plans/2026-11-16.md not written; the Sun 21:06 night run (trig_01Gg83LiWxEa8vfCzzBT3T7J) picks Monday's story or paper and checks the facts. Suggest a NEURO PAPER after two Brain Stories."
  },
- "all_done": false,
+ "all_done": true,
  "reminders_set": true,
  "links": {
   "youtube": "https://www.youtube.com/watch?v=QS0dxwS5rZw",
   "facebook_reel": "https://www.facebook.com/reel/2618067115308571",
   "instagram_reel": "https://www.instagram.com/reel/Dfwi3AnnPN8/",
-  "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/photo/7708335857245162753"
+  "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/photo/7708335857245162753",
+  "instagram_carousel": "https://www.instagram.com/p/DfxKQe4CR0G/",
+  "facebook_slideshow": "https://www.facebook.com/reel/1115388031198110",
+  "tiktok_video": "https://www.tiktok.com/@motaz.alqawasma/video/7708428660901973268"
  },
  "catchup_1436": "done 14:46: finished step 6 items, step 7 check. Step 8 full analysis + 6_review_carousel + 18:08 answer reply left for the 18:08 review (posts only 2.5 h old)."
 }
