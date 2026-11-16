@@ -8,7 +8,9 @@
   "4_cover": "done banners/2026-11-17-TIB-cover-9x16.jpg (Remotion Cover.tsx, first Gemini zoom frame)",
   "5_video": "done videos/2026-11-17-TIB.mp4 (48.8 s, 1080x1920, -15.5 LUFS; 3 Gemini clips skull->cortex->neuron->synapse, paper card, Commons CT+MRI, FDA FAST, Dr. Mot)",
   "5c_carousel": "skipped by choice: no carousel for this video (Motaz asked only for the video)",
-  "5_published": "done scheduled via vidIQ, post ec13d045-c395-4104-bfd4-e9ac0ccb7cab for 12:00: YouTube bfd627f2 (title 'A stroke costs 1.9 million neurons every minute #Shorts', thumbnail = cover), Instagram 8a9c50e9, Facebook 95f76c14, TikTok video 19db435f (12:00, no carousel). Cannot be changed."
+  "5_published": "done scheduled via vidIQ, post ec13d045-c395-4104-bfd4-e9ac0ccb7cab for 12:00: YouTube bfd627f2 (title 'A stroke costs 1.9 million neurons every minute #Shorts', thumbnail = cover), Instagram 8a9c50e9, Facebook 95f76c14, TikTok video 19db435f (12:00, no carousel). Cannot be changed.",
+  "5_published_check_night": "21:07 Mon: vidIQ status OK. YouTube X9wnWN68GHk uploaded (private until 12:00); IG/FB/TikTok scheduled 10:00Z = 12:00 Hebron",
+  "9_report_night": "sent 21:08 Mon (ready, posts at 12:00 Tue)"
  },
  "all_done": false,
  "format": "NEURO PAPER (v4 standard, first one)",
@@ -16,5 +18,10 @@
  "question": "Would you know the signs? 1 = yes, 2 = not sure",
  "first_comment": "Would you know the signs of a stroke? 1 = yes, 2 = not sure. I'll post my own answer with the reason tonight.",
  "evening_answer_to_post_at_18_08": "My answer: 1, yes. F.A.S.T. = Face drooping, Arm weakness, Speech difficulty, Time to call for help. One true fact: in a typical untreated big-artery stroke, the brain loses about 1.9 million neurons every minute (Saver, Stroke 2006).",
- "notes": "Gemini AI Pro used for the zoom: 6 images + 3 videos. Gemini's video limit is a rolling window (out of videos at 14:3x, back at 15:08 the same day)."
+ "notes": "Gemini AI Pro used for the zoom: 6 images + 3 videos. Gemini's video limit is a rolling window (out of videos at 14:3x, back at 15:08 the same day).",
+ "links": {
+  "youtube": "https://www.youtube.com/watch?v=X9wnWN68GHk"
+ },
+ "reminders_set": true,
+ "reminders": "send_later in session cse_015n4N1kSAUchcBeY33VGbMx: 12:08 trig_01SuchsMqcnKh9mxAAKEweVN, 18:08 trig_01TKYHLoNxrs4ai6vLYp5KHd"
 }
