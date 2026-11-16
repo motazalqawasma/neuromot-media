@@ -1,0 +1,20 @@
+{
+ "date": "2026-11-17",
+ "run": "Made by hand with Motaz in chat on Mon 2026-11-16 (new v4 standard: Gemini 3D zoom + v3 old style). Night task: steps 1-5 are DONE, do NOT make another video; only do steps 6-9.",
+ "steps": {
+  "1_topic": "done: Time is brain (Saver JL, Stroke 2006;37(1):263-266, doi:10.1161/01.STR.0000196957.55928.ab), verified on PubMed 16339467",
+  "2_script": "done (examples/neuro-paper-TIB/src/Video.tsx CAPS list = exact script)",
+  "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE, ~1,566 credits for 2 takes), 47.96 s, progress/2026-11-17-TIB-voice.mp3",
+  "4_cover": "done banners/2026-11-17-TIB-cover-9x16.jpg (Remotion Cover.tsx, first Gemini zoom frame)",
+  "5_video": "done videos/2026-11-17-TIB.mp4 (48.8 s, 1080x1920, -15.5 LUFS; 3 Gemini clips skull->cortex->neuron->synapse, paper card, Commons CT+MRI, FDA FAST, Dr. Mot)",
+  "5c_carousel": "skipped by choice: no carousel for this video (Motaz asked only for the video)",
+  "5_published": "done scheduled via vidIQ, post ec13d045-c395-4104-bfd4-e9ac0ccb7cab for 12:00: YouTube bfd627f2 (title 'A stroke costs 1.9 million neurons every minute #Shorts', thumbnail = cover), Instagram 8a9c50e9, Facebook 95f76c14, TikTok video 19db435f (12:00, no carousel). Cannot be changed."
+ },
+ "all_done": false,
+ "format": "NEURO PAPER (v4 standard, first one)",
+ "topic": "Time is brain: 1.9 million neurons and 14 billion synapses lost per minute of untreated large-vessel ischemic stroke; brain ages 3.6 years per hour",
+ "question": "Would you know the signs? 1 = yes, 2 = not sure",
+ "first_comment": "Would you know the signs of a stroke? 1 = yes, 2 = not sure. I'll post my own answer with the reason tonight.",
+ "evening_answer_to_post_at_18_08": "My answer: 1, yes. F.A.S.T. = Face drooping, Arm weakness, Speech difficulty, Time to call for help. One true fact: in a typical untreated big-artery stroke, the brain loses about 1.9 million neurons every minute (Saver, Stroke 2006).",
+ "notes": "Gemini AI Pro used for the zoom: 6 images + 3 videos. Gemini's video limit is a rolling window (out of videos at 14:3x, back at 15:08 the same day)."
+}
