@@ -40,5 +40,11 @@
  "reminders": "send_later in session cse_015n4N1o9buuXuzuTHseEcjk: 12:08 trig_01M8miGpAkCa1WkRKRMnBHdv, 18:08 trig_01WRz9E7dQWxzfXaM4EDPC5Y",
  "notes": "No real photos: Wikimedia API/upload answered HTTP 429 the whole run; video uses 3D + drawings only. No Canva AI used. remocn test (skill section 11) not run yet (no video has used it). Higgsfield credits 4 (no change). vidIQ credits 119/150.",
  "v2": "Motaz (21:35 Sun, live): no video without a real photo; asked to delete the schedule and make a new one. Old YouTube Short jBrTzeLKZ6w set to private, no publish time. Old Instagram/Facebook/TikTok scheduled posts cannot be cancelled in vidIQ. v2 with his 4 photos (Gazzaniga, Sperry via Wikipedia; Gray's Anatomy x2, public domain): videos/2026-11-16-SB-v2.mp4, banners/2026-11-16-SB-cover-9x16-v2.jpg, banners/2026-11-16-SB-carousel-v2/, videos/2026-11-16-SB-fb-slides-v2.mp4.",
- "v2_published": "Motaz (live): v2 at 11:30. YouTube Short Z3Goabuvgsk (vidIQ post 0bac5516, public 11:30 via update_video publishAt). vidIQ post c2f0d22b-59e8-49cd-9433-37db87a764c7 at 11:30: Instagram reel 002d0ae7, Facebook reel a0525e80, TikTok carousel v2 8bd25053. Draft a9e9ea2b-3761-40e1-a3df-27880e059e63 (v2 carousel at 17:30: IG carousel, FB slideshow, TikTok video) PUBLISHED (scheduled 17:30) after Motaz said OK. Old 12:00/18:00 posts (8f8c81de, 67c5c1e8) still go out; Motaz may delete them. Reviews moved to 11:38 and 17:38. Motaz will delete the old no-photo posts himself."
+ "v2_published": "Motaz (live): v2 at 11:30. YouTube Short Z3Goabuvgsk (vidIQ post 0bac5516, public 11:30 via update_video publishAt). vidIQ post c2f0d22b-59e8-49cd-9433-37db87a764c7 at 11:30: Instagram reel 002d0ae7, Facebook reel a0525e80, TikTok carousel v2 8bd25053. Draft a9e9ea2b-3761-40e1-a3df-27880e059e63 (v2 carousel at 17:30: IG carousel, FB slideshow, TikTok video) PUBLISHED (scheduled 17:30) after Motaz said OK. Old 12:00/18:00 posts (8f8c81de, 67c5c1e8) still go out; Motaz may delete them. Reviews moved to 11:38 and 17:38. Motaz will delete the old no-photo posts himself.",
+ "old_posts_to_delete_1200": {
+  "instagram": "https://www.instagram.com/reel/DfzF2HkFJWg/",
+  "facebook": "https://www.facebook.com/reel/898781553249827",
+  "tiktok": "no link from vidIQ (newest carousel on profile, 12:00)",
+  "sent_to_motaz": "12:04 push"
+ }
 }
