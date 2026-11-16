@@ -2,6 +2,13 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+
+## 2026-11-16 (Monday 17:55 Hebron - split brain v2 day; Metricool)
+
+- Penfield (Brain Story #5) Instagram 115 views at ~30 h (Tan 133 at the same age). Other apps not in Metricool yet.
+- Split brain (Brain Story #6) posted at 11:30 (photo version, Motaz moved it from 12:00). TikTok carousel 4 likes at 6 h (3 not ours). 0 real comments on all 7 posts so far.
+- Process lesson: the first version had no real photos (Wikimedia blocked with HTTP 429). Motaz rejected it; the old IG/FB/TikTok posts could not be cancelled in vidIQ and he deleted them by hand.
+
 ## 2026-11-15 (Sunday 18:45 Hebron - FULL REVIEW of all published videos, asked by Motaz; Metricool, 10 Oct-15 Nov)
 
 Totals = Instagram + Facebook + TikTok video (YouTube left out: 0-10 views per Short). TikTok carousel in brackets.

@@ -12,9 +12,14 @@
   "9_report_night": "sent 21:30 Sun (ready, posts at 12:00 / 18:00 Mon)",
   "6_review_video": "done 11:40-11:50 on v2 posts: all 4 live (YouTube Z3Goabuvgsk public, Instagram reel DfzCY8xAbpJ, Facebook reel 1645291490678906, TikTok carousel 7708699200271174932). Like + question comment once on all 4. YouTube added to Brain Stories playlist. Pin not tried (YouTube verification blocks it). Old no-photo posts not touched.",
   "7_replies_1138": "0 viewer comments yet (posts 10-20 min old).",
-  "7_replies_1445": "catch-up 14:45: 0 viewer comments on all 4 v2 posts (YouTube via vidIQ, IG/FB/TikTok in browser; only Motaz's own question comments). No replies needed. Steps 6 carousel (17:30 post), evening answer, 8, 9 still open for the 17:38 reminder / 18:36 catch-up."
+  "7_replies_1445": "catch-up 14:45: 0 viewer comments on all 4 v2 posts (YouTube via vidIQ, IG/FB/TikTok in browser; only Motaz's own question comments). No replies needed. Steps 6 carousel (17:30 post), evening answer, 8, 9 still open for the 17:38 reminder / 18:36 catch-up.",
+  "6_review_carousel": "done 17:40-18:00: v2 carousel post a9e9ea2b live (Instagram carousel DfzroeFFqv7, Facebook slideshow reel 1871120470742044, TikTok video 7708792023582575892). Like + question comment on all 3.",
+  "6b_evening_answer": "done on all 7 v2 posts: Instagram reel + carousel (reply), Facebook reel + slideshow (reply), TikTok carousel + video (top-level comment), YouTube (vidiq_reply_to_comment).",
+  "7_replies_1738": "0 real viewer comments on all v2 posts. TikTok carousel 4 likes (3 not ours) at 6 h.",
+  "8_analysis": "done short (posts too new): Penfield IG 115 views at ~30 h vs Tan 133; split brain too new. analytics/log.md + lessons.md updated.",
+  "9_report": "sent 17:58"
  },
- "all_done": false,
+ "all_done": true,
  "format": "Brain Story #6",
  "topic": "Split brain: W.J., 1962 corpus callosotomy (Vogel & Bogen), tests by Gazzaniga in Sperry's lab; Sperry Nobel 1981",
  "question": "Which hand is holding your phone right now? 1 = left, 2 = right",
@@ -35,7 +40,10 @@
   "youtube_old_private": "https://www.youtube.com/watch?v=jBrTzeLKZ6w",
   "instagram_reel": "https://www.instagram.com/reel/DfzCY8xAbpJ/",
   "facebook_reel": "https://www.facebook.com/reel/1645291490678906",
-  "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/photo/7708699200271174932"
+  "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/photo/7708699200271174932",
+  "instagram_carousel": "https://www.instagram.com/p/DfzroeFFqv7/",
+  "facebook_slideshow": "https://www.facebook.com/reel/1871120470742044",
+  "tiktok_video": "https://www.tiktok.com/@motaz.alqawasma/video/7708792023582575892"
  },
  "reminders_set": true,
  "reminders": "send_later in session cse_015n4N1o9buuXuzuTHseEcjk: 12:08 trig_01M8miGpAkCa1WkRKRMnBHdv, 18:08 trig_01WRz9E7dQWxzfXaM4EDPC5Y",

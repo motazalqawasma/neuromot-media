@@ -2,6 +2,13 @@
 
 After every published video, the run compares ALL past videos and carousels, names the 3 biggest weak points (views, hook, retention, likes, comments, followers), the mistake behind each, 1–3 fixes for the next video, and judges whether earlier fixes worked. Newest at the top.
 
+
+## 2026-11-16 (split brain day)
+
+**Weak point (process):** a Brain Story went out scheduled without a real photo. Motaz: "I don't need a video without a real photo." vidIQ cannot cancel a scheduled post, so the mistake cost him manual deletes.
+**Fix (standing, from now):** never schedule a Brain Story without at least one real photo of the person or place (or a classic anatomy plate like Gray's). If Wikimedia answers 429 all night, stop before publishing and ask Motaz for the photos (he can send them in the chat), or try again later in the run; do not publish a graphics-only version.
+**Earlier fixes:** phone-hand question (passes the 50/50 test): TOO EARLY (0 real comments after 6 h).
+
 ## 2026-11-11 (interaction review in Motaz's chat; Rosemary Kennedy ~26 h old, Metricool + vidIQ)
 
 Numbers: analytics/log.md 2026-11-11.
