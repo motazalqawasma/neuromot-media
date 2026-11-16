@@ -1,5 +1,17 @@
 # Post-publish checks
 
+
+## 2026-11-16 11:45 - Split brain v2 (Brain Story #6, real photos), 11:30 posts
+
+| App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption | 
+|---|---|---|---|---|---|---|
+| YouTube Z3Goabuvgsk | ✅ | ✅ cover set at upload | ✅ | ✅ | ❌ channel verification | ✅ + Brain Stories playlist |
+| Instagram reel | ✅ | ✅ frame 0 = cover | ✅ | ✅ | no pin on web | ✅ |
+| Facebook reel | ✅ | ✅ | ✅ | ✅ (as Motaz) | no pin on web | ✅ |
+| TikTok carousel | ✅ | slide 1 = question | ✅ | ✅ | no pin on web | ✅ |
+
+Old no-photo posts (12:00 / 18:00) could not be cancelled in vidIQ; Motaz deletes them himself.
+
 ## 2026-11-15 — Penfield (Brain Story #5) video, 12:08 review + 14:36 catch-up
 
 | App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption |
