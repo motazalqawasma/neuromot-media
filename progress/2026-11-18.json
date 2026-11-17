@@ -8,7 +8,19 @@
   "2_script": "done progress/2026-11-18-EIN-script.txt",
   "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE, 2x1015 credits), 64.9 s, progress/2026-11-18-EIN-voice.mp3; word timings from ElevenLabs Scribe (work/ein/words.json)",
   "photos": "done photos/2026-11-18-EIN (Einstein 1921 PD, Falk 2009 map CC BY 3.0, Gray728 PD) via built-in browser canvas (curl got 429)",
-  "gemini_keyframes": "done 4 keyframes jar->brain->parietal glow->neuron+glia in Gemini chat a6ba37549ed523c4"
+  "gemini_keyframes": "done 4 keyframes jar->brain->parietal glow->neuron+glia in Gemini chat a6ba37549ed523c4",
+  "gemini_clips": "done 3 clips (jar->brain, brain->parietal glow, glow->neuron+glia) recorded from the Gemini page with MediaRecorder (no Downloads folder access), 720x1280",
+  "4_cover": "done banners/2026-11-18-EIN-cover-9x16.jpg (Remotion Cover.tsx, first zoom frame)",
+  "5_video": "done videos/2026-11-18-EIN.mp4 (65.9 s, 1080x1920, -14.7 LUFS, no black/freeze)",
+  "5c_carousel": "done banners/2026-11-18-EIN-carousel/s1-6.jpg (1-3 Gemini backgrounds) + videos/2026-11-18-EIN-fb-slides.mp4 (16 s)"
  },
- "all_done": false
+ "all_done": false,
+ "question": "What makes a genius? 1 = the brain you're born with, 2 = the hours you practice",
+ "first_comment": "What makes a genius? 1 = the brain you're born with, 2 = the hours you practice. I'll post my own answer with the reason tonight.",
+ "evening_answer_to_post_at_18_08": "My answer: 2, practice. Einstein's brain weight was normal, and the differences scientists found were small, in one brain only. One true fact: his parietal lobes were about 15% wider than average (Witelson, Lancet 1999).",
+ "question_candidates": [
+  "What makes a genius? 1 = born with, 2 = practice (picked)",
+  "Genius at 1 = maths or 2 = music?",
+  "Study a famous brain without permission? 1 yes 2 no (one-sided, rejected)"
+ ]
 }
