@@ -12,7 +12,9 @@
   "5_published_check_night": "21:07 Mon: vidIQ status OK. YouTube X9wnWN68GHk uploaded (private until 12:00); IG/FB/TikTok scheduled 10:00Z = 12:00 Hebron",
   "9_report_night": "sent 21:08 Mon (ready, posts at 12:00 Tue)",
   "5c_published": "done scheduled via vidIQ, post 91bdae4a-d83c-433b-9cdf-61bd9f0b0a41 for 18:00: Instagram carousel a99b1980, TikTok 6-photo post 21ac5840, Facebook slideshow reel 2a0f2e33. Cannot be changed. Review at 18:08 as usual.",
-  "6_review_video": "PARTIAL 12:10-12:15: vidIQ shows all 4 completed. YouTube public (0 views at 8 min), cover OK, LIKED (aria-pressed true). YouTube question comment typed and Comment clicked, but the computer disconnected at that moment; vidIQ comments list at 12:16 showed 0 comments, so CHECK the page before posting again (never post twice). IG/FB/TikTok like+comment, pin, playlist (Neuro Papers in 60 Seconds) NOT done: built-in browser gone (computer offline). Catch-up 14:36 must finish."
+  "6_review_video": "PARTIAL 12:10-12:15: vidIQ shows all 4 completed. YouTube public (0 views at 8 min), cover OK, LIKED (aria-pressed true). YouTube question comment typed and Comment clicked, but the computer disconnected at that moment; CONFIRMED NOT POSTED: vidIQ channel comments at 12:25 show no comment on X9wnWN68GHk, so post it once at the catch-up. IG/FB/TikTok like+comment, pin, playlist (Neuro Papers in 60 Seconds) NOT done: built-in browser gone (computer offline). Catch-up 14:36 must finish.",
+  "7_replies_1225": "YouTube via vidIQ channel comments: 0 viewer comments on any Short (only Motaz's own). IG/FB/TikTok not checked (browser offline).",
+  "next_plan": "done plans/2026-11-18.md: Brain Story #7 Einstein's brain (Harvey 1955, 240 blocks, 43 years; Witelson 1999 parietal 15% wider). Photos: Wikimedia 429 at 12:15, URLs in the plan for the night run."
  },
  "all_done": false,
  "format": "NEURO PAPER (v4 standard, first one)",
@@ -28,5 +30,6 @@
   "tiktok_video": "https://www.tiktok.com/@motaz.alqawasma/video/7709078077841853748"
  },
  "reminders_set": true,
- "reminders": "send_later in session cse_015n4N1kSAUchcBeY33VGbMx: 12:08 trig_01SuchsMqcnKh9mxAAKEweVN, 18:08 trig_01TKYHLoNxrs4ai6vLYp5KHd"
+ "reminders": "send_later in session cse_015n4N1kSAUchcBeY33VGbMx: 12:08 trig_01SuchsMqcnKh9mxAAKEweVN, 18:08 trig_01TKYHLoNxrs4ai6vLYp5KHd",
+ "vidiq_credits_used_today": 10
 }
