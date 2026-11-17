@@ -19,7 +19,7 @@ const AiTag = () => <div style={{position:'absolute',left:70,bottom:56,fontFamil
 const Frame: React.FC<{n:number;bg?:string;children:React.ReactNode}> = ({n,bg,children}) => (
   <AbsoluteFill style={{background:`radial-gradient(circle at 50% 70%, #25262E 0%, ${C.bg} 70%)`,color:C.text}}>
     {bg && <><Img src={staticFile(bg)} style={{position:'absolute',inset:0,width:1080,height:1350,objectFit:'cover'}}/>
-      <AbsoluteFill style={{background:'linear-gradient(180deg, rgba(26,27,32,.85) 0%, rgba(26,27,32,.25) 40%, rgba(26,27,32,.1) 60%, rgba(26,27,32,.85) 100%)'}}/><AiTag/></>}
+      <AbsoluteFill style={{background:'linear-gradient(180deg, rgba(26,27,32,.85) 0%, rgba(26,27,32,.25) 40%, rgba(26,27,32,.1) 60%, rgba(26,27,32,.85) 100%)'}}/></>}
     <AbsoluteFill style={{padding:'60px 70px 90px',display:'flex',flexDirection:'column'}}>
       <div style={{display:'flex',justifyContent:'space-between',alignItems:'center'}}>
         <div style={{fontFamily:H,fontWeight:800,fontSize:40}}>#NeuroMot</div>

@@ -90,7 +90,6 @@ const Zoom = () => {
     <Sequence from={t2} durationInFrames={t3-t2}><Clip src="c3.mp4" dur={19.26-13.79}/></Sequence>
     {f>=t3 && <AbsoluteFill><Img src={staticFile('c3_last.jpg')} style={{width:1080,height:1920,objectFit:'cover',filter:`brightness(${1-0.92*dark}) saturate(${1-dark})`,transform:`scale(${1+0.05*ease(f,t3,t3+70)})`}}/></AbsoluteFill>}
     <AbsoluteFill style={{background:'linear-gradient(180deg, rgba(0,0,0,.55) 0%, rgba(0,0,0,0) 22%, rgba(0,0,0,0) 62%, rgba(0,0,0,.6) 100%)'}}/>
-    <AiTag/>
     {/* hook */}
     {f<at(Z,7.1) && <AbsoluteFill style={{alignItems:'center',paddingTop:230,gap:22,opacity:1-ease(f,at(Z,6.9),at(Z,7.2))}}>
       <Pill at={6} bg={C.green} color="#fff" size={64}>HEALTHY BRAIN</Pill>
