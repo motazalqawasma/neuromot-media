@@ -11,7 +11,8 @@
   "5_published": "done scheduled via vidIQ, post ec13d045-c395-4104-bfd4-e9ac0ccb7cab for 12:00: YouTube bfd627f2 (title 'A stroke costs 1.9 million neurons every minute #Shorts', thumbnail = cover), Instagram 8a9c50e9, Facebook 95f76c14, TikTok video 19db435f (12:00, no carousel). Cannot be changed.",
   "5_published_check_night": "21:07 Mon: vidIQ status OK. YouTube X9wnWN68GHk uploaded (private until 12:00); IG/FB/TikTok scheduled 10:00Z = 12:00 Hebron",
   "9_report_night": "sent 21:08 Mon (ready, posts at 12:00 Tue)",
-  "5c_published": "done scheduled via vidIQ, post 91bdae4a-d83c-433b-9cdf-61bd9f0b0a41 for 18:00: Instagram carousel a99b1980, TikTok 6-photo post 21ac5840, Facebook slideshow reel 2a0f2e33. Cannot be changed. Review at 18:08 as usual."
+  "5c_published": "done scheduled via vidIQ, post 91bdae4a-d83c-433b-9cdf-61bd9f0b0a41 for 18:00: Instagram carousel a99b1980, TikTok 6-photo post 21ac5840, Facebook slideshow reel 2a0f2e33. Cannot be changed. Review at 18:08 as usual.",
+  "6_review_video": "PARTIAL 12:10-12:15: vidIQ shows all 4 completed. YouTube public (0 views at 8 min), cover OK, LIKED (aria-pressed true). YouTube question comment typed and Comment clicked, but the computer disconnected at that moment; vidIQ comments list at 12:16 showed 0 comments, so CHECK the page before posting again (never post twice). IG/FB/TikTok like+comment, pin, playlist (Neuro Papers in 60 Seconds) NOT done: built-in browser gone (computer offline). Catch-up 14:36 must finish."
  },
  "all_done": false,
  "format": "NEURO PAPER (v4 standard, first one)",
@@ -21,7 +22,10 @@
  "evening_answer_to_post_at_18_08": "My answer: 1, yes. F.A.S.T. = Face drooping, Arm weakness, Speech difficulty, Time to call for help. One true fact: in a typical untreated big-artery stroke, the brain loses about 1.9 million neurons every minute (Saver, Stroke 2006).",
  "notes": "Gemini AI Pro used for the zoom: 6 images + 3 videos. Gemini's video limit is a rolling window (out of videos at 14:3x, back at 15:08 the same day).",
  "links": {
-  "youtube": "https://www.youtube.com/watch?v=X9wnWN68GHk"
+  "youtube": "https://www.youtube.com/watch?v=X9wnWN68GHk",
+  "instagram_reel": "https://www.instagram.com/reel/Df1qntACtFY/",
+  "facebook_reel": "https://www.facebook.com/reel/2599991403838143",
+  "tiktok_video": "https://www.tiktok.com/@motaz.alqawasma/video/7709078077841853748"
  },
  "reminders_set": true,
  "reminders": "send_later in session cse_015n4N1kSAUchcBeY33VGbMx: 12:08 trig_01SuchsMqcnKh9mxAAKEweVN, 18:08 trig_01TKYHLoNxrs4ai6vLYp5KHd"
