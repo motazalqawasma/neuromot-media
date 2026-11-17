@@ -3,6 +3,12 @@
  "run": "Main task started early Tue 2026-11-17 17:40 Hebron (night run moved earlier; 21:06 run disabled for tonight). TODAY = 2026-11-18 (Wed video).",
  "format": "BRAIN STORY #7 (v4 standard)",
  "topic": "Einstein's brain (Harvey 1955, kept 43 years; Witelson 1999)",
- "steps": {},
+ "steps": {
+  "1_topic": "done: plan plans/2026-11-18.md re-checked (Live Science, PsyPost, Witelson Lancet 1999, Diamond 1985)",
+  "2_script": "done progress/2026-11-18-EIN-script.txt",
+  "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE, 2x1015 credits), 64.9 s, progress/2026-11-18-EIN-voice.mp3; word timings from ElevenLabs Scribe (work/ein/words.json)",
+  "photos": "done photos/2026-11-18-EIN (Einstein 1921 PD, Falk 2009 map CC BY 3.0, Gray728 PD) via built-in browser canvas (curl got 429)",
+  "gemini_keyframes": "done 4 keyframes jar->brain->parietal glow->neuron+glia in Gemini chat a6ba37549ed523c4"
+ },
  "all_done": false
 }
