@@ -7,10 +7,11 @@
   "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE, ~1,566 credits for 2 takes), 47.96 s, progress/2026-11-17-TIB-voice.mp3",
   "4_cover": "done banners/2026-11-17-TIB-cover-9x16.jpg (Remotion Cover.tsx, first Gemini zoom frame)",
   "5_video": "done videos/2026-11-17-TIB.mp4 (48.8 s, 1080x1920, -15.5 LUFS; 3 Gemini clips skull->cortex->neuron->synapse, paper card, Commons CT+MRI, FDA FAST, Dr. Mot)",
-  "5c_carousel": "skipped by choice: no carousel for this video (Motaz asked only for the video)",
+  "5c_carousel": "done (made 11:30 Tue with Motaz): banners/2026-11-17-TIB-carousel/s1-6.jpg (slides 1-3 Gemini Nano Banana backgrounds, 4-6 standard: paper card, Commons CT+MRI, FDA FAST) + videos/2026-11-17-TIB-fb-slides.mp4 (16 s)",
   "5_published": "done scheduled via vidIQ, post ec13d045-c395-4104-bfd4-e9ac0ccb7cab for 12:00: YouTube bfd627f2 (title 'A stroke costs 1.9 million neurons every minute #Shorts', thumbnail = cover), Instagram 8a9c50e9, Facebook 95f76c14, TikTok video 19db435f (12:00, no carousel). Cannot be changed.",
   "5_published_check_night": "21:07 Mon: vidIQ status OK. YouTube X9wnWN68GHk uploaded (private until 12:00); IG/FB/TikTok scheduled 10:00Z = 12:00 Hebron",
-  "9_report_night": "sent 21:08 Mon (ready, posts at 12:00 Tue)"
+  "9_report_night": "sent 21:08 Mon (ready, posts at 12:00 Tue)",
+  "5c_published": "done scheduled via vidIQ, post 91bdae4a-d83c-433b-9cdf-61bd9f0b0a41 for 18:00: Instagram carousel a99b1980, TikTok 6-photo post 21ac5840, Facebook slideshow reel 2a0f2e33. Cannot be changed. Review at 18:08 as usual."
  },
  "all_done": false,
  "format": "NEURO PAPER (v4 standard, first one)",
