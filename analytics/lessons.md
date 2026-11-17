@@ -2,6 +2,20 @@
 
 After every published video, the run compares ALL past videos and carousels, names the 3 biggest weak points (views, hook, retention, likes, comments, followers), the mistake behind each, 1–3 fixes for the next video, and judges whether earlier fixes worked. Newest at the top.
 
+## 2026-11-17 (Time is brain, first v4 NEURO PAPER)
+
+**Weak points**
+1. COMMENTS: 0 real viewer comments after ~8,000 views in total, including 6 videos with the 1/2 question kit. Likely mistake: the question sits in the caption and our own comment, but nothing on screen asks for a comment in the last seconds of the loop, when people decide.
+2. TIKTOK REACH: every TikTok post stops at ~120-165 views; Time is brain 85 at 6.5 h. Likely mistake: low likes/saves in the first hour (1-4 likes), so TikTok does not push it further.
+3. LIKES: about 1-2 real likes per 100 views on IG and TikTok.
+
+**Fixes for Thu 2026-11-19 (Wed 11-18 is already scheduled)**
+1. End card for the last 3 s: big "1 or 2? Comment" with both options, and Dr. Mot pointing to it (not only spoken).
+2. Caption line 1 = the question only (no story first), so it shows in the TikTok/IG preview.
+3. Keep the v4 opening (3D zoom + big number at 0 s): it gave the best IG start this week.
+
+**Earlier fixes:** phone-hand question (50/50 test): DID NOT WORK yet (0 real comments at ~31 h, 131 IG + 325 TikTok views). v4 big-number opening: TOO EARLY, good IG start (133 in 6.5 h).
+
 
 ## 2026-11-16 (split brain day)
 

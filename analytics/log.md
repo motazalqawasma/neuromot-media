@@ -2,6 +2,21 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-17 (Tuesday 18:40 Hebron - Time is brain day; vidIQ public counts, Metricool returned no rows)
+
+| Post (age) | Instagram | TikTok | Facebook | YouTube |
+|---|---|---|---|---|
+| Time is brain video (6.5 h) | 133 plays, 3 likes (1 ours) | 85 views, 2 likes (1 ours) | 3 likes (1 ours), views not read | ~4 views at 12:45 |
+| Time is brain carousel (40 min) | too new | 9 views | too new | - |
+| Split brain video (~31 h) | 131 plays | 160 views, 2 saves | - | - |
+| Split brain TikTok carousel (~31 h) | - | 165 views, 1 save | - | - |
+
+Findings:
+1. Instagram: 133 plays in 6.5 h is already more than any final count since H.M. (Tan 133, split brain 131, Gage 124, Penfield 116). The first NEURO PAPER in the v4 style (3D zoom + big number at 0 s) started best of the week on Instagram. Early sign only.
+2. TikTok: 85 views at 6.5 h, below the usual 124-165. TikTok still caps every post near 150 (story or paper, video or carousel).
+3. Comments: 0 real viewer comments again, on all 4 apps (only ours). The 1/2 question did not change this yet.
+4. Process: vidIQ did not post the Instagram first comment; it had to be posted by hand at 12:45.
+
 
 ## 2026-11-16 (Monday 17:55 Hebron - split brain v2 day; Metricool)
 
