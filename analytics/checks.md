@@ -1,5 +1,16 @@
 # Post-publish checks
 
+## 2026-11-17 12:10-12:50 - Time is brain (NEURO PAPER, v4), 12:00 posts
+
+| App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption |
+|---|---|---|---|---|---|---|
+| YouTube X9wnWN68GHk | ✅ | ✅ cover set at upload | ✅ | ✅ | ❌ channel verification | ✅ + Neuro Papers in 60 Seconds playlist |
+| Instagram Df1qntACtFY | ✅ | ✅ | ✅ | ✅ (vidIQ first comment was missing; posted by hand) | no pin on web | ✅ DOI present |
+| Facebook reel 2599991403838143 | ✅ | ✅ | ✅ | ✅ (as Motaz) | no pin on web | ✅ |
+| TikTok 7709078077841853748 | ✅ | ✅ | ✅ | ✅ | no pin on web | ✅ |
+
+Computer went offline 12:15-12:45; finished after it came back.
+
 
 ## 2026-11-16 11:45 - Split brain v2 (Brain Story #6, real photos), 11:30 posts
 
