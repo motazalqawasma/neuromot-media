@@ -11,7 +11,8 @@
   "gemini_clips": "done 3 clips (Gemini chats 7653c164fa42ec46, d975057a4fcdcdcb, a8b90dd1928e674c; one extra try in 7653 gave an error, no clip) recorded in-page with MediaRecorder and moved as base64 chunks through the JS tool (240k chars per call); examples/brain-story-WOOD/ai/c1-3.mp4",
   "photos": "done photos/2026-11-19-WOOD (Wood PD, Cushing 1908 Tarbell PD, Cushing 1938 Wellcome CC BY 4.0, Gray769 PD) via curl upload.wikimedia.org",
   "4_cover": "done banners/2026-11-19-WOOD-cover-9x16.jpg (Remotion Cover.tsx: K3 exploded head + numbered layers + parts list + hook)",
-  "5_video": "done videos/2026-11-19-WOOD.mp4 (60.1 s, 1080x1920, -14.3 LUFS, no black/freeze, frame 0 = cover)"
+  "5_video": "done videos/2026-11-19-WOOD.mp4 (60.1 s, 1080x1920, -14.3 LUFS, no black/freeze, frame 0 = cover)",
+  "5c_carousel": "done banners/2026-11-19-WOOD-carousel/s1-6.jpg (1-3 = Gemini exploded-view keyframes K3/K4, slide 3 = numbered parts-list save slide) + videos/2026-11-19-WOOD-fb-slides.mp4 (16 s). No separate Nano Banana carousel images: the exploded-view keyframes were used, as the override file asks."
  },
  "all_done": false,
  "question": "Ever hit your head really hard? 1 = yes, 2 = never",
