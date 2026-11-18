@@ -1,5 +1,16 @@
 # Post-publish checks
 
+## 2026-11-18 12:30-12:50 - Einstein's brain (BRAIN STORY #7, v4), 12:00 posts (12:08 reminder was off; done late from a chat on Motaz's OK)
+
+| App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption |
+|---|---|---|---|---|---|---|
+| YouTube J_IG6D-q0dg | ✅ public | ✅ set at upload | ✅ | ✅ | ✅ pinned | ✅ + Brain Stories playlist |
+| Instagram Df4PahoEbC0 | ✅ | ✅ | ✅ | ✅ (vidIQ first comment missing again; posted by hand) | no pin on web | ✅ DOI present |
+| Facebook reel 1077868701979505 | ✅ | ✅ | ✅ | ✅ (as Motaz) | no pin on web | ✅ |
+| TikTok 7709449146293374229 | ✅ public | ✅ | ✅ | ✅ | no pin on web | ✅ |
+
+PLAYLIST CHECK: Penfield Short QS0dxwS5rZw was missing from Brain Stories -> added. A mis-click had put it in Watch later; removed again at once. All other Shorts are in their playlists.
+
 ## 2026-11-17 12:10-12:50 - Time is brain (NEURO PAPER, v4), 12:00 posts
 
 | App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption |

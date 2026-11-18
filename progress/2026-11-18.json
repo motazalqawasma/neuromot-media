@@ -16,7 +16,9 @@
   "5_published": "done scheduled via vidIQ, post ebaac04e-f510-46ca-b778-3d1e2eef1735 for 12:00 Wed: YouTube f546344c (J_IG6D-q0dg, YouTube Studio shows visibility Scheduled, checked 18:2x Tue), Instagram 797cbe08, Facebook eb8c15c2, TikTok video ef6e1a6c. Cannot be changed.",
   "5c_published": "done scheduled via vidIQ, post f0159c33-07d1-4ed4-9dc1-ff567f540571 for 18:00 Wed: Instagram carousel 1fa9a296, TikTok 6-photo 8e087085, Facebook slideshow reel a485f71f.",
   "9_report_night": "sent ~18:07 Tue (ready, posts at 12:00 Wed)",
-  "6_review_video": "in progress 12:30-12:45: YouTube liked + question comment + PINNED + Brain Stories playlist; PLAYLIST CHECK: Penfield QS0dxwS5rZw was missing from Brain Stories, added (a mis-click put it in Watch later, removed again). Instagram liked + comment once. Facebook liked + comment once (as Motaz). TikTok next."
+  "6_review_video": "done 12:30-12:50 (12:08 reminder was disabled; done in catch-up chat on Motaz's OK): all 4 live; like + question comment once on all 4; YouTube comment PINNED; Einstein added to Brain Stories; PLAYLIST CHECK added missing Penfield QS0dxwS5rZw to Brain Stories. See analytics/checks.md.",
+  "7_replies_1250": "0 viewer comments: YouTube channel list (vidIQ, 5 credits), new IG/FB/TikTok posts empty.",
+  "next_plan": "done plans/2026-11-19.md: Brain Story #8 General Leonard Wood's meningioma (Cushing 1910 + 1927), exploded-view head layers, question 'Ever hit your head really hard? 1 yes 2 never'."
  },
  "all_done": false,
  "question": "What makes a genius? 1 = the brain you're born with, 2 = the hours you practice",
@@ -35,5 +37,6 @@
  },
  "reminders_set": true,
  "reminders": "send_later in this session: 12:08 trig_01P4T9sxwRTyvgZMzxCzsXxB, 18:08 trig_012MsGB48JSkHwrphUmK9JWq",
- "live_notified": true
+ "live_notified": true,
+ "vidiq_credits_used_today": 5
 }
