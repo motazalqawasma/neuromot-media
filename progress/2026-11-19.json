@@ -6,7 +6,10 @@
  "steps": {
   "1_topic": "done: facts re-checked (MDedge Fed Pract 2017; Hektoen/Ljunggren J Neurosurg 1982; Ansari, Gianaris, Cohen-Gadol J Neurosurg 2011;115(6):1067-71 doi:10.3171/2011.7.JNS102067; Wikipedia: died 7 Aug 1927 Boston). Dropped 'awake, asked to keep going' (1 weak source).",
   "2_script": "done progress/2026-11-19-WOOD-script.txt (~140 words)",
-  "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE, 2x900 credits), 59.2 s, progress/2026-11-19-WOOD-voice.mp3"
+  "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE, 2x900 credits), 59.2 s, progress/2026-11-19-WOOD-voice.mp3",
+  "gemini_keyframes": "done 4 keyframes intact head -> opening -> fully exploded (scalp, skull, dura+sinus, arachnoid, pia, brain) -> dura close-up with tumor, Gemini chat 0c89ac09e9b3f9f6; examples/brain-story-WOOD/ai/kf1-4.jpg",
+  "gemini_clips": "done 3 clips (Gemini chats 7653c164fa42ec46, d975057a4fcdcdcb, a8b90dd1928e674c; one extra try in 7653 gave an error, no clip) recorded in-page with MediaRecorder and moved as base64 chunks through the JS tool (240k chars per call); examples/brain-story-WOOD/ai/c1-3.mp4",
+  "photos": "done photos/2026-11-19-WOOD (Wood PD, Cushing 1908 Tarbell PD, Cushing 1938 Wellcome CC BY 4.0, Gray769 PD) via curl upload.wikimedia.org"
  },
  "all_done": false,
  "question": "Ever hit your head really hard? 1 = yes, 2 = never",
