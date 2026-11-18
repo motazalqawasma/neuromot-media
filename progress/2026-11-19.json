@@ -12,7 +12,9 @@
   "photos": "done photos/2026-11-19-WOOD (Wood PD, Cushing 1908 Tarbell PD, Cushing 1938 Wellcome CC BY 4.0, Gray769 PD) via curl upload.wikimedia.org",
   "4_cover": "done banners/2026-11-19-WOOD-cover-9x16.jpg (Remotion Cover.tsx: K3 exploded head + numbered layers + parts list + hook)",
   "5_video": "done videos/2026-11-19-WOOD.mp4 (60.1 s, 1080x1920, -14.3 LUFS, no black/freeze, frame 0 = cover)",
-  "5c_carousel": "done banners/2026-11-19-WOOD-carousel/s1-6.jpg (1-3 = Gemini exploded-view keyframes K3/K4, slide 3 = numbered parts-list save slide) + videos/2026-11-19-WOOD-fb-slides.mp4 (16 s). No separate Nano Banana carousel images: the exploded-view keyframes were used, as the override file asks."
+  "5c_carousel": "done banners/2026-11-19-WOOD-carousel/s1-6.jpg (1-3 = Gemini exploded-view keyframes K3/K4, slide 3 = numbered parts-list save slide) + videos/2026-11-19-WOOD-fb-slides.mp4 (16 s). No separate Nano Banana carousel images: the exploded-view keyframes were used, as the override file asks.",
+  "5_published": "done via vidIQ: post 39744e3e-e88b-48bd-a749-2cdd4775cfb9 for 10:00 Thu (Instagram reel c32455f8, Facebook reel 64516d31, TikTok 6-photo carousel 1aaa0227); YouTube Short post f1dc56c9-47fa-44e4-88ae-34e1c016894e (publication 1e45b8a5) publishAt 16:00, cover thumbnail b750a575. Cannot be changed.",
+  "5c_published": "done via vidIQ: post ee181c30-10f9-4fb5-bec4-11438741d52f for 18:00 Thu (Instagram carousel 891bc9ff, Facebook slideshow reel d61ab51b, TikTok video fb003d7d)."
  },
  "all_done": false,
  "question": "Ever hit your head really hard? 1 = yes, 2 = never",
@@ -27,5 +29,10 @@
   "This tumor was NOT in his brain... it was ON it. (picked: ties to the exploded view at second 1)",
   "A general hit his head in Cuba. Years later a surgeon found THIS.",
   "The surgery that made Cushing famous... and the one he never forgave himself for."
- ]
+ ],
+ "vidiq_media": {
+  "video_upload": "11bb3016-ac47-4955-97b1-c9a6f3a12fa1",
+  "reel_upload": "638726fb-1528-4e5c-9bc8-fa4c24e0d6fa",
+  "cover_image": "b750a575-baac-4c4a-8626-ce70119984c5"
+ }
 }
