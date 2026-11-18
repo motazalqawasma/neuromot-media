@@ -4,7 +4,22 @@
  "format": "BRAIN STORY #8 (v4 standard, EXPLODED VIEW override)",
  "topic": "General Leonard Wood's meningioma (Cushing 1910 + 1927)",
  "steps": {
-  "1_topic": "done: facts re-checked (MDedge Fed Pract 2017; Hektoen/Ljunggren J Neurosurg 1982; Ansari, Gianaris, Cohen-Gadol J Neurosurg 2011;115(6):1067-71 doi:10.3171/2011.7.JNS102067; Wikipedia: died 7 Aug 1927 Boston). Dropped 'awake, asked to keep going' (1 weak source)."
+  "1_topic": "done: facts re-checked (MDedge Fed Pract 2017; Hektoen/Ljunggren J Neurosurg 1982; Ansari, Gianaris, Cohen-Gadol J Neurosurg 2011;115(6):1067-71 doi:10.3171/2011.7.JNS102067; Wikipedia: died 7 Aug 1927 Boston). Dropped 'awake, asked to keep going' (1 weak source).",
+  "2_script": "done progress/2026-11-19-WOOD-script.txt (~140 words)",
+  "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE, 2x900 credits), 59.2 s, progress/2026-11-19-WOOD-voice.mp3"
  },
- "all_done": false
+ "all_done": false,
+ "question": "Ever hit your head really hard? 1 = yes, 2 = never",
+ "first_comment": "Ever hit your head really hard? 1 = yes, 2 = never. I'll post my own answer with the reason tonight.",
+ "evening_answer_to_post_at_18_08": "My answer: 1, yes, like most people. And almost no head bumps lead to a tumor. One true fact: Cushing removed Wood's meningioma in 1910 and Wood worked 17 more years, until 1927.",
+ "question_candidates": [
+  "Ever hit your head really hard? 1 yes 2 never (picked: 1 s answer, near 50/50, tied to the chandelier)",
+  "If your boss said keep going, would you? (weak tie)",
+  "Stay awake for your own surgery? (rejected, rule e)"
+ ],
+ "hooks": [
+  "This tumor was NOT in his brain... it was ON it. (picked: ties to the exploded view at second 1)",
+  "A general hit his head in Cuba. Years later a surgeon found THIS.",
+  "The surgery that made Cushing famous... and the one he never forgave himself for."
+ ]
 }
