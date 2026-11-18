@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-11 (interaction review: Rosemary IG only 8 views in a day, 0 real comments; item 17 = interaction kit for every video); earlier 2026-11-10 (H.M. Brain Story first past 1,000 views, IG 12.3 s watch; fixes for Thu: opinion 1/2 question, TikTok carousel-first); earlier 2026-11-08 (Tremor carousel 273 passed its video 210 on TikTok; next fix: 1/2 question on screen from second 0; TikTok carousel-first test Tue); earlier 2026-11-07 (daily analysis: Tremor best first day, 600 views, Facebook 296; IG 35.2% past 3 s but watch time still ~6 s → Sunday test unchanged); earlier 2026-11-06 ( EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
+Last updated: 2026-11-18 (Einstein 66 s, no big number at 0 s: IG 22 plays at 7 h vs 133 for Time is brain; fix = 45-50 s + big number/line in second 1); earlier 2026-11-11 (interaction review: Rosemary IG only 8 views in a day, 0 real comments; item 17 = interaction kit for every video); earlier 2026-11-10 (H.M. Brain Story first past 1,000 views, IG 12.3 s watch; fixes for Thu: opinion 1/2 question, TikTok carousel-first); earlier 2026-11-08 (Tremor carousel 273 passed its video 210 on TikTok; next fix: 1/2 question on screen from second 0; TikTok carousel-first test Tue); earlier 2026-11-07 (daily analysis: Tremor best first day, 600 views, Facebook 296; IG 35.2% past 3 s but watch time still ~6 s → Sunday test unchanged); earlier 2026-11-06 ( EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
 
 ## Fixed rules (never change these)
 
@@ -59,6 +59,7 @@ PINNED Tue 2026-11-10 = BRAIN STORY #2: Rosemary Kennedy and the 1941 lobotomy (
 
 ## What the data has shown so far
 
+- 2026-11-18: Einstein (66 s, jar title at 0 s) had 22 IG plays at 7 h; Time is brain (49 s, big number at 0 s) had 133. Early sign: over 60 s and no number at 0 s hurt the start.
 - 2026-10-19: Boston (new style, voice, 12:00) beat both older videos within 12 hours. It got 327 views across 4 apps, versus 209 for ASDH (2 days old) and 114 for INTERACT3.
 - Wide, letterboxed INTERACT3: Instagram viewers stayed 2.2 s on average and only 15% stayed past 3 s. Lesson: vertical only.
 - ASDH on Instagram: viewers stayed 6.7 s on average and 30% stayed past 3 s. Most people leave very early, so the hook matters most.
@@ -86,6 +87,7 @@ PINNED Tue 2026-11-10 = BRAIN STORY #2: Rosemary Kennedy and the 1941 lobotomy (
 
 ## Ideas to test next
 
+- Thu 11-19: 45-50 s cut + big line in second 1 (Leonard Wood); compare IG plays at 7 h with Einstein (22) and Time is brain (133).
 - Interaction kit (item 17) from Thu 11-12: count real comments per 1,000 views per app and replies inside our own question thread; compare with H.M. and Rosemary (both 0).
 
 - Opinion question vs quiz question for comments (Thu 11-12 opinion; compare real comments per 1,000 views with H.M. and Rosemary Kennedy).

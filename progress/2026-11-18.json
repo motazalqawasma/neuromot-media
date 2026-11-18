@@ -20,9 +20,12 @@
   "7_replies_1250": "0 viewer comments: YouTube channel list (vidIQ, 5 credits), new IG/FB/TikTok posts empty.",
   "next_plan": "done plans/2026-11-19.md: Brain Story #8 General Leonard Wood's meningioma (Cushing 1910 + 1927), exploded-view head layers, question 'Ever hit your head really hard? 1 yes 2 never'.",
   "6_review_carousel": "done 18:37-18:50 catch-up: all 3 live; IG 6 slides liked + question comment; FB slideshow reel liked + question comment (first frame shows the video cover style, not slide 1); TikTok photo 6 slides, no music, liked + question comment. No CAPTCHA.",
-  "evening_answer": "done on all 4 video posts (YouTube by cloud 18:08 run at 18:12; IG, FB, TikTok 18:40-18:50 by catch-up run)"
+  "evening_answer": "done on all 4 video posts (YouTube by cloud 18:08 run at 18:12; IG, FB, TikTok 18:40-18:50 by catch-up run)",
+  "7_replies": "done 18:50: 0 real viewer comments (YouTube channel list via vidIQ, TikTok Studio, IG/FB post pages)",
+  "8_analysis": "done 18:55: analytics/log.md, lessons.md, PLAN.md (IG 22 plays at 7 h; fix = 45-50 s + big line at second 1)",
+  "9_report": "done 18:57 by 18:36 catch-up run"
  },
- "all_done": false,
+ "all_done": true,
  "question": "What makes a genius? 1 = the brain you're born with, 2 = the hours you practice",
  "first_comment": "What makes a genius? 1 = the brain you're born with, 2 = the hours you practice. I'll post my own answer with the reason tonight.",
  "evening_answer_to_post_at_18_08": "My answer: 2, practice. Einstein's brain weight was normal, and the differences scientists found were small, in one brain only. One true fact: his parietal lobes were about 15% wider than average (Witelson, Lancet 1999).",
@@ -40,6 +43,6 @@
  "reminders_set": true,
  "reminders": "send_later in this session: 12:08 trig_01P4T9sxwRTyvgZMzxCzsXxB, 18:08 trig_012MsGB48JSkHwrphUmK9JWq",
  "live_notified": true,
- "vidiq_credits_used_today": 5,
+ "vidiq_credits_used_today": 20,
  "carousel_live_notified": true
 }

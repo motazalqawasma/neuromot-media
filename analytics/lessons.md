@@ -2,6 +2,20 @@
 
 After every published video, the run compares ALL past videos and carousels, names the 3 biggest weak points (views, hook, retention, likes, comments, followers), the mistake behind each, 1–3 fixes for the next video, and judges whether earlier fixes worked. Newest at the top.
 
+## 2026-11-18 (Einstein's brain, Brain Story #7; 18:50 catch-up run)
+
+**Weak points**
+1. INSTAGRAM START: Einstein reel 22 plays at ~7 h, while Time is brain had 133 at 6.5 h and the last 5 reels ended at 117-143. Likely mistakes: 66 s long (our longest; Time is brain was 49 s), and the 0-2 s screen is a jar + text, with no big number (Time is brain opened on "1.9 MILLION").
+2. COMMENTS: 0 real viewer comments again on all 4 apps (7th video with the 1/2 question kit).
+3. YOUTUBE: 3 views at ~9 h (Time is brain 8 at 1.5 days). YouTube is still near zero for every Short.
+
+**Fixes for Thu 2026-11-19 (Leonard Wood)**
+1. Keep the video at 45-50 s (cut, do not speed up the voice).
+2. A big number or a strong short line in the first second (e.g. "12 YEARS LATER..." / the tumor), not only a title.
+3. Keep the fixes from 11-17 (end card "1 or 2? Comment", caption line 1 = the question). Posting moves to 10:00 IG/FB, 16:00 YouTube from tomorrow (already in the task file).
+
+**Earlier fixes:** v4 big-number opening: TOO EARLY, but today (no big number, 66 s) started much weaker, which supports it. End card + question-first caption: not tested yet (first on 11-19).
+
 ## 2026-11-17 (Time is brain, first v4 NEURO PAPER)
 
 **Weak points**

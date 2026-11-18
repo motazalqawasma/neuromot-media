@@ -1,5 +1,14 @@
 # Post-publish checks
 
+## 2026-11-18 18:37-18:50 - Einstein carousel (18:00) + evening answers, by the 18:36 catch-up run
+
+| App | live | 6 slides | no music | like | question | evening answer on video |
+|---|---|---|---|---|---|---|
+| Instagram carousel Df44pVACa76 | ✅ | ✅ | - | ✅ | ✅ | ✅ reel |
+| Facebook slideshow reel 1447036137602831 | ✅ | first frame = video-style cover | - | ✅ | ✅ (as Motaz) | ✅ reel |
+| TikTok photo 7709541885353757960 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ video |
+| YouTube | - | - | - | - | - | ✅ (cloud 18:08 run) |
+
 ## 2026-11-18 12:30-12:50 - Einstein's brain (BRAIN STORY #7, v4), 12:00 posts (12:08 reminder was off; done late from a chat on Motaz's OK)
 
 | App | 1 live | 2 cover | 3 like | 4 question | 5 pin | 6 caption |

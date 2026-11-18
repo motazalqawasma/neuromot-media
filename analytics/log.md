@@ -2,6 +2,20 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-18 (Wednesday 18:50 Hebron - Einstein's brain day; platform pages + vidIQ, Metricool gave captions only)
+
+| Post (age) | Instagram | TikTok | Facebook | YouTube |
+|---|---|---|---|---|
+| Einstein video (~7 h) | 22 plays | 1 like (ours), views not read | 2 reactions | 3 views |
+| Einstein carousel (50 min) | too new | 1 save | too new | - |
+| Time is brain video (~31 h) | 143 plays | - | - | 8 views, 5 likes |
+| Split brain video (~2 days) | 132 plays | - | - | - |
+
+Findings:
+1. Instagram: the Einstein reel started at 22 plays in ~7 h, the weakest start since Rosemary (8 in a day). The two differences from Time is brain (133 at 6.5 h): 66 s vs 49 s, and no big number at 0 s. Early sign only; re-check at 24 h.
+2. Comments: 0 real viewer comments on all 4 apps again (YouTube channel list + TikTok Studio + IG/FB post pages).
+3. Process: the cloud 18:08 run only posted the YouTube evening answer (vidIQ) and stopped (no browser); the 18:36 catch-up did the carousel review and the IG/FB/TikTok answers.
+
 ## 2026-11-17 (Tuesday 18:40 Hebron - Time is brain day; vidIQ public counts, Metricool returned no rows)
 
 | Post (age) | Instagram | TikTok | Facebook | YouTube |
