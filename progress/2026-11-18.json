@@ -15,7 +15,8 @@
   "5c_carousel": "done banners/2026-11-18-EIN-carousel/s1-6.jpg (1-3 Gemini backgrounds) + videos/2026-11-18-EIN-fb-slides.mp4 (16 s)",
   "5_published": "done scheduled via vidIQ, post ebaac04e-f510-46ca-b778-3d1e2eef1735 for 12:00 Wed: YouTube f546344c (J_IG6D-q0dg, YouTube Studio shows visibility Scheduled, checked 18:2x Tue), Instagram 797cbe08, Facebook eb8c15c2, TikTok video ef6e1a6c. Cannot be changed.",
   "5c_published": "done scheduled via vidIQ, post f0159c33-07d1-4ed4-9dc1-ff567f540571 for 18:00 Wed: Instagram carousel 1fa9a296, TikTok 6-photo 8e087085, Facebook slideshow reel a485f71f.",
-  "9_report_night": "sent ~18:07 Tue (ready, posts at 12:00 Wed)"
+  "9_report_night": "sent ~18:07 Tue (ready, posts at 12:00 Wed)",
+  "6_review_video": "in progress 12:30 (12:08 reminder was disabled; done by catch-up chat on Motaz's OK)"
  },
  "all_done": false,
  "question": "What makes a genius? 1 = the brain you're born with, 2 = the hours you practice",
@@ -27,8 +28,12 @@
   "Study a famous brain without permission? 1 yes 2 no (one-sided, rejected)"
  ],
  "links": {
-  "youtube": "https://www.youtube.com/watch?v=J_IG6D-q0dg"
+  "youtube": "https://www.youtube.com/watch?v=J_IG6D-q0dg",
+  "instagram_reel": "https://www.instagram.com/reel/Df4PahoEbC0/",
+  "facebook_reel": "https://www.facebook.com/reel/1077868701979505",
+  "tiktok_video": "https://www.tiktok.com/@motaz.alqawasma/video/7709449146293374229"
  },
  "reminders_set": true,
- "reminders": "send_later in this session: 12:08 trig_01P4T9sxwRTyvgZMzxCzsXxB, 18:08 trig_012MsGB48JSkHwrphUmK9JWq"
+ "reminders": "send_later in this session: 12:08 trig_01P4T9sxwRTyvgZMzxCzsXxB, 18:08 trig_012MsGB48JSkHwrphUmK9JWq",
+ "live_notified": true
 }
