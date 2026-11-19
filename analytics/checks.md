@@ -1,3 +1,14 @@
+## 2026-11-19 18:05-18:20 - Wood carousel (18:00) + evening answers (built-in browser + vidIQ)
+
+| App | live | slides | like | question comment | evening answer under the video question |
+|---|---|---|---|---|---|
+| Instagram carousel Df7dc3JlpoQ | ✅ | ✅ 6 (1/6 dots) | ✅ | ✅ once | ✅ on reel Df6meaSjl34 |
+| Facebook slideshow reel 1428175816190957 | ✅ | reel | ✅ | ✅ once (as Motaz, Page switch not tried) | ✅ on reel 1442296684721454 |
+| TikTok video 7709913091407940885 | ✅ | - | ✅ | ✅ once (paste) | ✅ under carousel question (photo 7709789210844187910) |
+| YouTube Short 7AS1qDDynH4 | ✅ (16:15 review) | - | ✅ | ✅ pinned | ✅ via vidIQ reply |
+
+No CAPTCHA. 0 real viewer comments on any Wood post.
+
 ## 2026-11-19 10:08 review (Wood video, 10:00 posts) - cloud run, NO built-in browser
 
 | App | 1 live | 2 cover | 3 like | 4 question comment | 5 pin | 6 caption |
