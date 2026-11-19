@@ -16,9 +16,10 @@
   "5_published": "done via vidIQ: post 39744e3e-e88b-48bd-a749-2cdd4775cfb9 for 10:00 Thu (Instagram reel c32455f8, Facebook reel 64516d31, TikTok 6-photo carousel 1aaa0227); YouTube Short post f1dc56c9-47fa-44e4-88ae-34e1c016894e (publication 1e45b8a5) publishAt 16:00, cover thumbnail b750a575. Cannot be changed.",
   "5c_published": "done via vidIQ: post ee181c30-10f9-4fb5-bec4-11438741d52f for 18:00 Thu (Instagram carousel 891bc9ff, Facebook slideshow reel d61ab51b, TikTok video fb003d7d).",
   "9_report_night": "sent ~21:41 Wed (ready, posts at 10:00 Thu, YouTube 16:00, carousel 18:00)",
-  "6_review_video": "PARTLY 10:10: all 3 live (vidIQ), live notification sent; like + question comment + pin NOT done (no built-in browser in the cloud session). Catch-up must do them on IG, FB, TikTok carousel.",
+  "6_review_video": "done 12:45 catch-up (built-in browser): Instagram reel liked + question comment posted once (no pin on web); Facebook reel liked + question comment posted once as Motaz (Page switcher opened Meta Account settings, so not as Page; nothing changed there); TikTok carousel liked + question comment posted once (pin not offered on web). YouTube Short + 18:00 carousel still for the 18:08 review.",
   "7_replies_1010": "0 real viewer comments on Instagram reels (owner insights: only our own 2 per reel); TikTok/FB not readable without browser.",
-  "8_analysis_1010": "done analytics/log.md + lessons.md (Einstein 24 IG plays at 24 h, skip 81.8%; Wood came out 60 s, fix = ~115 words)"
+  "8_analysis_1010": "done analytics/log.md + lessons.md (Einstein 24 IG plays at 24 h, skip 81.8%; Wood came out 60 s, fix = ~115 words)",
+  "7_replies_1245": "0 real viewer comments on IG/FB/TikTok Wood posts; TikTok Studio comments list has only our own comments."
  },
  "all_done": false,
  "question": "Ever hit your head really hard? 1 = yes, 2 = never",
@@ -48,6 +49,5 @@
   "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/photo/7709789210844187910"
  },
  "live_notified": true,
- "next_plan": "done plans/2026-11-22.md: Brain Story #9, first brain tumour operation localized by signs alone (Godlee + Hughes Bennett, 25 Nov 1884); question \"Would you trust a doctor with no scan at all? 1 yes 2 no\".",
- "catchup_1236": "started 12:40 Hebron: doing step 6 like + question comment + pin on IG, FB, TikTok carousel (built-in browser reachable)"
+ "next_plan": "done plans/2026-11-22.md: Brain Story #9, first brain tumour operation localized by signs alone (Godlee + Hughes Bennett, 25 Nov 1884); question \"Would you trust a doctor with no scan at all? 1 yes 2 no\"."
 }
