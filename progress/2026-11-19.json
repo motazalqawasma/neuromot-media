@@ -39,6 +39,10 @@
  "reminders_set": true,
  "reminders": "send_later in session_015n4N1nHep9V56VHmur2KfD: 10:08 trig_0137kWAR4t8KigTyZ2EZMoaQ, 18:08 trig_01Dkgnua6JW4cfiVkcR3iUR4",
  "links": {
-  "youtube": "https://www.youtube.com/watch?v=7AS1qDDynH4 (private until 16:00)"
- }
+  "youtube": "https://www.youtube.com/watch?v=7AS1qDDynH4 (private until 16:00)",
+  "instagram_reel": "https://www.instagram.com/reel/Df6meaSjl34/",
+  "facebook_reel": "https://www.facebook.com/reel/1442296684721454",
+  "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/photo/7709789210844187910"
+ },
+ "live_notified": true
 }
