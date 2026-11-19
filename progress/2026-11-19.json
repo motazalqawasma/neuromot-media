@@ -20,7 +20,8 @@
   "7_replies_1010": "0 real viewer comments on Instagram reels (owner insights: only our own 2 per reel); TikTok/FB not readable without browser.",
   "8_analysis_1010": "done analytics/log.md + lessons.md (Einstein 24 IG plays at 24 h, skip 81.8%; Wood came out 60 s, fix = ~115 words)",
   "7_replies_1245": "0 real viewer comments on IG/FB/TikTok Wood posts; TikTok Studio comments list has only our own comments.",
-  "6_review_youtube": "done 16:15 (Motaz asked: review 5 min after posting): Short public, live notification sent, liked, question comment posted once + pinned, added to Brain Stories playlist (now 8 videos). Cover shows on the Short."
+  "6_review_youtube": "done 16:15 (Motaz asked: review 5 min after posting): Short public, live notification sent, liked, question comment posted once + pinned, added to Brain Stories playlist (now 8 videos). Cover shows on the Short.",
+  "6_review_carousel": "started 18:06 (browser review in progress)"
  },
  "all_done": false,
  "question": "Ever hit your head really hard? 1 = yes, 2 = never",
@@ -47,9 +48,13 @@
   "youtube": "https://www.youtube.com/watch?v=7AS1qDDynH4 (private until 16:00)",
   "instagram_reel": "https://www.instagram.com/reel/Df6meaSjl34/",
   "facebook_reel": "https://www.facebook.com/reel/1442296684721454",
-  "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/photo/7709789210844187910"
+  "tiktok_carousel": "https://www.tiktok.com/@motaz.alqawasma/photo/7709789210844187910",
+  "instagram_carousel": "https://www.instagram.com/p/Df7dc3JlpoQ/",
+  "facebook_slideshow": "https://www.facebook.com/reel/1428175816190957",
+  "tiktok_video": "https://www.tiktok.com/@motaz.alqawasma/video/7709913091407940885"
  },
  "live_notified": true,
  "next_plan": "done plans/2026-11-22.md: Brain Story #9, first brain tumour operation localized by signs alone (Godlee + Hughes Bennett, 25 Nov 1884); question \"Would you trust a doctor with no scan at all? 1 yes 2 no\".",
- "youtube_live_notified": true
+ "youtube_live_notified": true,
+ "carousel_live_notified": true
 }
