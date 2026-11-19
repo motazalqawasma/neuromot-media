@@ -1,3 +1,13 @@
+## 2026-11-19 10:08 review (Wood video, 10:00 posts) - cloud run, NO built-in browser
+
+| App | 1 live | 2 cover | 3 like | 4 question comment | 5 pin | 6 caption |
+|---|---|---|---|---|---|---|
+| Instagram reel Df6meaSjl34 | ✅ (vidIQ completed) | not checked | ❌ no browser | ❌ no browser | ❌ | ✅ (from draft) |
+| Facebook reel 1442296684721454 | ✅ | not checked | ❌ no browser | ❌ no browser | - | ✅ |
+| TikTok carousel 7709789210844187910 | ✅ delivered | - | ❌ no browser | ❌ no browser | ❌ | ✅ |
+
+Reason: the desktop link (built-in browser) was not connected to this session at 10:08; Claude in Chrome is not allowed. Catch-up runs must finish items 3-5.
+
 # Post-publish checks
 
 ## 2026-11-18 18:37-18:50 - Einstein carousel (18:00) + evening answers, by the 18:36 catch-up run

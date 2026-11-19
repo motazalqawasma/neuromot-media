@@ -2,6 +2,20 @@
 
 After every published video, the run compares ALL past videos and carousels, names the 3 biggest weak points (views, hook, retention, likes, comments, followers), the mistake behind each, 1–3 fixes for the next video, and judges whether earlier fixes worked. Newest at the top.
 
+## 2026-11-19 (Leonard Wood, Brain Story #8, exploded-view test; 10:08 review)
+
+**Weak points**
+1. INSTAGRAM START (Einstein, 66 s): 24 plays at ~24 h, the weakest since Rosemary; Time is brain (48 s) had 143, split brain 132, Penfield 117. Avg watch Einstein 11.8 s (18%), skip rate 81.8% (worst of the week).
+2. LENGTH: the Wood video is 60 s, not the 45-50 s fix, because the script was ~140 words and the voice ran 59 s. Mistake: words were not cut enough before the voice.
+3. COMMENTS: still 0 real viewer comments on Instagram (every reel shows 2 = our question + evening answer).
+
+**Fixes for Sun 2026-11-22**
+1. Script about 115 words (count before generating the voice), target 45-50 s.
+2. Big short line on screen at second 1 (kept from 11-18).
+3. Keep end card "1 or 2? Comment" and caption line 1 = question.
+
+**Earlier fixes:** 45-50 s: NOT APPLIED on 11-19 (60 s), re-apply. Big line at second 1: applied on 11-19 ("NOT in his brain"), TOO EARLY. Einstein's weak start supports keeping videos under 50 s.
+
 ## 2026-11-18 (Einstein's brain, Brain Story #7; 18:50 catch-up run)
 
 **Weak points**

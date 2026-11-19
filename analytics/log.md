@@ -2,6 +2,22 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-19 (Thursday 10:20 Hebron - Leonard Wood day; vidIQ Instagram owner insights)
+
+| Reel (age) | IG plays | avg watch | skip rate | likes | comments |
+|---|---|---|---|---|---|
+| Wood (20 min) | too new | - | - | 0 | 0 |
+| Einstein 66 s (~24 h) | 24 | 11.8 s (18%) | 81.8% | 2 | 2 (ours) |
+| Time is brain 48 s (~2 days) | 143 | 8.4 s (17%) | 68.6% | 3 | 2 (ours) |
+| Split brain 52 s (3 days) | 132 | 9.5 s | 72.1% | 3 | 2 (ours) |
+| Penfield 53 s | 117 | 6.6 s | 75.2% | 2 | 2 (ours) |
+| H.M. 55 s (best) | 621 | 12.3 s | 62.6% | 9 | 1 |
+
+Findings:
+1. Einstein stayed at 24 plays after a day (others ~120-145). Longest video + highest skip rate; supports the 45-50 s rule.
+2. 0 real viewer comments again; IG followers 13.
+3. Process: the 10:08 review ran in the cloud with no built-in browser (desktop link off), so likes/question comments/pins were not done; the catch-up runs (10:36, 14:36) must do them.
+
 ## 2026-11-18 (Wednesday 18:50 Hebron - Einstein's brain day; platform pages + vidIQ, Metricool gave captions only)
 
 | Post (age) | Instagram | TikTok | Facebook | YouTube |
