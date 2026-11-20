@@ -1,0 +1,31 @@
+{
+ "date": "2026-11-22",
+ "run": "STEP 1 run Fri 2026-11-20 21:06 Hebron (cloud, no desktop bridge). VIDEO_DATE = 2026-11-22 (Sun).",
+ "format": "BRAIN STORY #9 (v4 standard)",
+ "topic": "First brain tumour operation localised by symptoms alone (Godlee + Hughes Bennett, London, 25 Nov 1884)",
+ "why_this_one": "No scans or X-rays: a neurologist found the tumour from the signs alone (motor cortex controls the opposite side), and the surgery worked but the patient died of infection 28 days later. Anniversary is 25 Nov.",
+ "steps": {
+  "0_skip_check": "done: no progress file or posts for 2026-11-22 yet",
+  "0b_plan": "done: plans/2026-11-22.md, PLAN.md, prompts/daily-video-task.md read",
+  "1_topic": "done: facts checked. PubMed abstract of J Neurosurg 1984;61(5):809-13 doi:10.3171/jns.1984.61.5.0809 (date 25 Nov 1884, Hospital for Epilepsy and Paralysis Regent's Park, Godlee at the suggestion of neurologist A. Hughes Bennett, glioma, died 28th postoperative day of apparent meningitis, no remnant at autopsy); Wellcome Collection story 'The mystery of the malignant brain' (Thomas Morris 2019: same date/place/people, glioma size of a walnut, face twitching, hand tremor, left arm, fissure of Rolando above right ear, died of meningitis a month later); Wikipedia Rickman Godlee (localised from neurological findings alone; nephew of Joseph Lister, also Wellcome). Patient name NOT used (Wellcome says Henderson, IBTA says John Mitchell: conflict). Age/Scottish farmer only in Wellcome, so script says only 'a young man'. Left/right side dropped from script (1 source); script says 'one side only' + motor cortex controls the opposite side (textbook).",
+  "2_script": "done progress/2026-11-22-GOD-script.txt (123 words)",
+  "3_voice": "done take 2 of 2 (eleven_v4, MY VOICE qEQg0lkJlnVX0nBkV1vj, flow 2Xxbz6a5uQeiwBJQDPeW, 2x757 credits), 49.3 s, progress/2026-11-22-GOD-voice.mp3 (take 1 kept as progress/2026-11-22-GOD-voice-take1.mp3, 49.2 s)"
+ },
+ "step1_done": false,
+ "all_done": false,
+ "hooks": [
+  "1884. No scans. No X-rays. One doctor pointed at a skull and said: the tumour is HERE. (picked)",
+  "The surgery worked. The patient still died. Here's why.",
+  "Your hand twitching can tell a doctor exactly where to cut."
+ ],
+ "question_candidates": [
+  "Who do you trust more? 1 = a doctor's eyes, 2 = the machine (picked: 1 s answer, close to 50/50, tied to the no-scan fact)",
+  "Would you trust a doctor with no scan at all? 1 = yes, 2 = no (plan's pick; likely one-sided 'no')",
+  "Would you operate without a scan? (rejected: one-sided, imagines own surgery)"
+ ],
+ "question": "Who do you trust more? 1 = a doctor's eyes, 2 = the machine",
+ "first_comment": "Who do you trust more? 1 = a doctor's eyes, 2 = the machine. I'll post my own answer with the reason tonight.",
+ "retention_notes": "Cut to 123 words (Wood was 140 words = 60 s); voice came out 49 s. Big line at second 1 ('1884. NO SCANS.'), open loop via the 1/2 question answered at the end, last line loops back to the question.",
+ "save_line": "Save that for your exam (motor cortex controls the opposite side).",
+ "share_line": "Send this to the friend who trusts Google over doctors."
+}
