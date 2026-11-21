@@ -15,7 +15,8 @@
   "gemini_clips": "c1 = kf1b->kf2b (chat 27009eea782bbb7a): slow push on the back of the head, only a small change toward the clear skull; usable for paragraph 1. c2 = kf2b->kf3 (chat 035e65910c3c221b): flies through the clear skull to the side of the brain, motor strip lights up orange; ends on kf3. c3 = kf3->kf4 (chat b48dc6348641cdae): push-in on the orange motor strip, ends on the gray-red lump. Each 720x1280 ~10 s, recorded in-page with MediaRecorder (vp9 1.6 Mbps) and moved as base64 parts, converted to H.264 mp4. Never pressed Share video. examples/brain-story-GOD/ai/c1-3.mp4",
   "4_cover": "done banners/2026-11-22-GOD-cover-9x16.jpg (Remotion Cover.tsx, examples/brain-story-GOD/src: Gray's 726 brain with motor strip glowing + red spot, Godlee photo print, '1884. NO SCANS.', 1/2 question box). No Gemini frame (browser not reachable); STEP 2 may swap in the first zoom frame if Gemini works.",
   "gemini_clips_count": "3 of 3 used Fri night (2 refused tries with the face frames made no clip). Saturday's 3 are for clips 4-6.",
-  "gemini_clip4": "done Sat night: kf5->kf6 (chat 9b3b61d7632c2562), theatre glide down to instruments + walnut lump in dish, examples/brain-story-GOD/ai/c4.mp4 (MediaRecorder capture, 30fps H.264)"
+  "gemini_clip4": "done Sat night: kf5->kf6 (chat 9b3b61d7632c2562), theatre glide down to instruments + walnut lump in dish, examples/brain-story-GOD/ai/c4.mp4 (MediaRecorder capture, 30fps H.264)",
+  "gemini_clip5": "done Sat night: kf6->kf7 (chat 3353bf12f106d48e), instruments -> cold lab flask, examples/brain-story-GOD/ai/c5.mp4"
  },
  "step1_done": true,
  "all_done": false,
