@@ -20,7 +20,9 @@
   "gemini_clip6": "done Sat night: kf7->kf1b (chat 7cee7810cf02f15a), flask glow -> glass head from behind (loop), examples/brain-story-GOD/ai/c6.mp4. 6 of 6 clips done.",
   "5_video": "done videos/2026-11-22-GOD.mp4 (50.0 s, 1080x1920, -14.2 LUFS, no black/freeze, 6 Gemini clips + Godlee/Lister photos + paper card; src examples/brain-story-GOD/src/Video.tsx; captions from ElevenLabs Scribe timestamps)",
   "5c_carousel_made": "done banners/2026-11-22-GOD-carousel/s1-6.jpg (slides 1-3 Gemini 4:5 backgrounds chat 0848f1198a852daa, examples/brain-story-GOD/ai/car1-3.jpg) + Facebook reel videos/2026-11-22-GOD-slidereel.mp4 (16 s)",
-  "captions": "ElevenLabs Scribe word timestamps (271 credits), times are in Video.tsx CAPS"
+  "captions": "ElevenLabs Scribe word timestamps (271 credits), times are in Video.tsx CAPS",
+  "5_published": "done (scheduled via vidIQ Sat night): draft 1 postId 98e55bc1-7c68-40c5-ae72-862b8bb23594 at 10:00 = IG reel pub ab324c97-1316-42d2-b867-b97ddf7b4fc2, FB video pub aaa058d7-4e45-4b21-9542-69a5d7b1b277, TikTok carousel (6 slides) pub b99295c6-97cf-46d7-947b-97bdbe673620. Draft 2 postId 05ab8fec-d1e9-434b-be65-b78fc0307e27 YouTube pub 50ef5d21-937a-42c8-8f54-e80b0caa2923, uploaded private, public at 16:00: https://www.youtube.com/watch?v=NimiJ_sJvtA (cover thumbnail set via thumbnailImageId). vidIQ media: video upload 6029910a-71ea-430f-a75f-5acd10506df5, reel 9110d39e-21d1-446d-9d08-e99a9e40479e, cover image d40696bd-612e-4a2d-8d2f-a99250fdf417",
+  "5c_carousel": "done (scheduled 18:00): postId cf2dd836-bf1c-4f90-981d-d8dea6feced0 = IG carousel pub a52e90a9-1861-49af-8303-9c547b62f4e3, FB slideshow reel pub 8798268c-f11b-4765-8924-dbea88265599, TikTok video pub 502f1661-f237-4c5a-8d15-1b09daaca0bc"
  },
  "step1_done": true,
  "all_done": false,
@@ -57,5 +59,8 @@
  "citation": "Kirkpatrick DB. The first primary brain-tumor operation. J Neurosurg. 1984;61(5):809-813. doi:10.3171/jns.1984.61.5.0809 (author checked on PubMed 6387062 Sat night). Also: Wellcome Collection, 'The mystery of the malignant brain' (T. Morris, 2019).",
  "step2_note": "STEP 2 (Sat night): clips 1-3 are DONE, do not make them again. Make only clips 4-6 (4 = kf5 push-in to kf6, 5 = kf6->kf7, 6 = kf7 pull back to kf1b, NOT kf1: faces are refused). Then render, carousel and schedule as usual. The Gemini page's localStorage (built-in browser) still holds the keyframes as godkf1-9 (8 = kf1b, 9 = kf2b), ready for the paste trick.",
  "gemini_clips_done": true,
- "run2": "STEP 2 run Sat 2026-11-21 21:06 Hebron (cloud + desktop built-in browser reachable)"
+ "run2": "STEP 2 run Sat 2026-11-21 21:06 Hebron (cloud + desktop built-in browser reachable)",
+ "youtube_id": "NimiJ_sJvtA",
+ "playlist": "Brain Stories (PLUVvgGTGGKUs)",
+ "step2_done": true
 }
