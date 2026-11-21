@@ -16,7 +16,8 @@
   "4_cover": "done banners/2026-11-22-GOD-cover-9x16.jpg (Remotion Cover.tsx, examples/brain-story-GOD/src: Gray's 726 brain with motor strip glowing + red spot, Godlee photo print, '1884. NO SCANS.', 1/2 question box). No Gemini frame (browser not reachable); STEP 2 may swap in the first zoom frame if Gemini works.",
   "gemini_clips_count": "3 of 3 used Fri night (2 refused tries with the face frames made no clip). Saturday's 3 are for clips 4-6.",
   "gemini_clip4": "done Sat night: kf5->kf6 (chat 9b3b61d7632c2562), theatre glide down to instruments + walnut lump in dish, examples/brain-story-GOD/ai/c4.mp4 (MediaRecorder capture, 30fps H.264)",
-  "gemini_clip5": "done Sat night: kf6->kf7 (chat 3353bf12f106d48e), instruments -> cold lab flask, examples/brain-story-GOD/ai/c5.mp4"
+  "gemini_clip5": "done Sat night: kf6->kf7 (chat 3353bf12f106d48e), instruments -> cold lab flask, examples/brain-story-GOD/ai/c5.mp4",
+  "gemini_clip6": "done Sat night: kf7->kf1b (chat 7cee7810cf02f15a), flask glow -> glass head from behind (loop), examples/brain-story-GOD/ai/c6.mp4. 6 of 6 clips done."
  },
  "step1_done": true,
  "all_done": false,
