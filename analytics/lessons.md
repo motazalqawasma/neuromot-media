@@ -2,6 +2,20 @@
 
 After every published video, the run compares ALL past videos and carousels, names the 3 biggest weak points (views, hook, retention, likes, comments, followers), the mistake behind each, 1–3 fixes for the next video, and judges whether earlier fixes worked. Newest at the top.
 
+## 2026-11-22 (Godlee 1884, Brain Story #9; 18:05 review)
+
+**Weak points**
+1. RETENTION: avg watch 9.8 s of 50 s (19.5%) on Instagram; every reel loses people at ~10 s. Likely mistake: the 1/2 question card fills 8.5-13 s, so the story stops right when the viewer decides to stay.
+2. COMMENTS: 0 real viewer comments again (9th video with the question kit), even with the question in caption line 1, on screen and pinned.
+3. FOLLOWERS: Instagram 15 followers (+2 since 11-19) despite 210 plays on one reel.
+
+**Fixes for Tue 2026-11-24 (Dandy)**
+1. Move the 1/2 question OUT of seconds 8-13: say it once in the first line (on screen only as a small bar), and ask it fully at the end. Keep the zoom moving through 0-20 s with no card covering it.
+2. Open a loop by second 3 ("...and it hurt. Wait for why.") so the 10-s drop has a reason to stay.
+3. Keep 45-50 s and the big line at second 1 (worked today).
+
+**Earlier fixes:** 45-50 s: WORKED (50 s, best IG start since H.M.; Wood 60 s was weaker). Big line at second 1: WORKED (early sign, 1 video). End card "1 or 2? Comment" + question-first caption: DID NOT WORK yet for comments (still 0).
+
 ## 2026-11-19 (Leonard Wood, Brain Story #8, exploded-view test; 10:08 review)
 
 **Weak points**

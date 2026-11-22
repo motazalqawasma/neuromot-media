@@ -2,7 +2,7 @@
 
 This file is the living plan for the daily #NeuroMot video. The daily task reads it **before** writing the script and building the video, and **updates it after** each day's analysis of past videos.
 
-Last updated: 2026-11-18 (Einstein 66 s, no big number at 0 s: IG 22 plays at 7 h vs 133 for Time is brain; fix = 45-50 s + big number/line in second 1); earlier 2026-11-11 (interaction review: Rosemary IG only 8 views in a day, 0 real comments; item 17 = interaction kit for every video); earlier 2026-11-10 (H.M. Brain Story first past 1,000 views, IG 12.3 s watch; fixes for Thu: opinion 1/2 question, TikTok carousel-first); earlier 2026-11-08 (Tremor carousel 273 passed its video 210 on TikTok; next fix: 1/2 question on screen from second 0; TikTok carousel-first test Tue); earlier 2026-11-07 (daily analysis: Tremor best first day, 600 views, Facebook 296; IG 35.2% past 3 s but watch time still ~6 s → Sunday test unchanged); earlier 2026-11-06 ( EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
+Last updated: 2026-11-22 (Godlee 50 s + big line at second 1: best IG start since H.M., 210 plays in 8 h; retention still ~10 s, question card at 8-13 s moves out; fix from 2026-11-22); earlier 2026-11-18 (Einstein 66 s, no big number at 0 s: IG 22 plays at 7 h vs 133 for Time is brain; fix = 45-50 s + big number/line in second 1); earlier 2026-11-11 (interaction review: Rosemary IG only 8 views in a day, 0 real comments; item 17 = interaction kit for every video); earlier 2026-11-10 (H.M. Brain Story first past 1,000 views, IG 12.3 s watch; fixes for Thu: opinion 1/2 question, TikTok carousel-first); earlier 2026-11-08 (Tremor carousel 273 passed its video 210 on TikTok; next fix: 1/2 question on screen from second 0; TikTok carousel-first test Tue); earlier 2026-11-07 (daily analysis: Tremor best first day, 600 views, Facebook 296; IG 35.2% past 3 s but watch time still ~6 s → Sunday test unchanged); earlier 2026-11-06 ( EMMA-Can's fixes — true shock number in the first second + cover-first — gave the best Instagram 3-s rate ever, 39.1%, but watch time stayed ~5.7 s; first time a TikTok video beat its carousel; YouTube channel lost advanced features, so pinning is blocked); earlier 2026-11-04 (ENRICH 3rd two-option hook at 28%+; 48 s did not raise watch time)
 
 ## Fixed rules (never change these)
 
@@ -13,6 +13,7 @@ Last updated: 2026-11-18 (Einstein 66 s, no big number at 0 s: IG 22 plays at 7 
 - Never use "<" or ">" in YouTube titles or descriptions.
 
 ## Current plan (change these when the data says so)
+- Fix from 2026-11-22: no full-screen 1/2 question card in seconds 8-13 (where every reel loses viewers); the zoom keeps moving 0-20 s, the question is a small top bar early and the full card at the end. Open a loop by second 3.
 
 1. **Hook in the first 2 seconds.** Open on a two-option decision question (see rule 8), big on screen and spoken first. Example: "Operate now… or wait 2 weeks?" No logo intro and no slow build-up.
 2. **Length: set by Motaz's natural voice, about 45-50 seconds (v4 standard, Motaz 2026-11-16).** Old rule (2026-11-01: about 35 s, 85-100 words) is replaced; keep the script tight, never speed up the voice.
@@ -58,6 +59,7 @@ PINNED Tue 2026-11-10 = BRAIN STORY #2: Rosemary Kennedy and the 1941 lobotomy (
 11. **Improve without asking (Motaz, 2026-11-03):** any suggestion from the analysis goes straight into the next video; report it, don't ask for permission. Fixed rules still hold.
 
 ## What the data has shown so far
+- 2026-11-22: Godlee (Brain Story #9, 50 s, v4 zoom, big line at 0 s) 210 IG plays in 8 h, best start since H.M.; avg watch still 9.8 s (19.5%); 0 real comments.
 
 - 2026-11-18: Einstein (66 s, jar title at 0 s) had 22 IG plays at 7 h; Time is brain (49 s, big number at 0 s) had 133. Early sign: over 60 s and no number at 0 s hurt the start.
 - 2026-10-19: Boston (new style, voice, 12:00) beat both older videos within 12 hours. It got 327 views across 4 apps, versus 209 for ASDH (2 days old) and 114 for INTERACT3.
@@ -86,6 +88,7 @@ PINNED Tue 2026-11-10 = BRAIN STORY #2: Rosemary Kennedy and the 1941 lobotomy (
 - Next NEURO PAPER number: 12 (#10 = EMMA-Can Thu 11-05, #11 = tremor Fri 11-06; increase by 1 after every published paper video). #11 is already used by the Friday 2026-11-06 video (made early) — so after Thursday's #10, the next free number is 12.
 
 ## Ideas to test next
+- Tue 11-24: question card moved out of 8-13 s (top bar early + full card at end); compare IG avg watch with Godlee's 9.8 s.
 
 - Thu 11-19: 45-50 s cut + big line in second 1 (Leonard Wood); compare IG plays at 7 h with Einstein (22) and Time is brain (133).
 - Interaction kit (item 17) from Thu 11-12: count real comments per 1,000 views per app and replies inside our own question thread; compare with H.M. and Rosemary (both 0).

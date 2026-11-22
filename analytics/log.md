@@ -2,6 +2,23 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-22 (Sunday 18:10 Hebron - Godlee 1884 day, Brain Story #9; vidIQ Instagram owner insights + Metricool)
+
+| Reel (age) | IG plays | avg watch | skip rate | likes | saves | comments |
+|---|---|---|---|---|---|---|
+| Godlee 50 s (~8 h) | 210 | 9.8 s (19.5%) | 62.7% | 4 | 1 | 1 (ours) |
+| Wood 60 s (3 days) | 131 | 9.9 s (16.6%) | 62.7% | 2 | 1 | 2 (ours) |
+| Einstein 65 s (4 days) | 29 | 10.9 s | 73.1% | 3 | 0 | 2 (ours) |
+| Time is brain 48 s | 143 | 8.4 s | 68.6% | 3 | 0 | 2 (ours) |
+| H.M. 55 s (best) | 621 | 12.3 s | 62.6% | 9 | 6 | 1 |
+
+TikTok (Metricool views): Godlee carousel 131 at ~8 h (Wood carousel 147, Split brain 168). YouTube Short NimiJ_sJvtA public at 16:00, too new. Carousel posts of 18:00 too new.
+
+Findings:
+1. Godlee is the best Instagram start since H.M.: 210 plays in 8 h (Wood had 131 after 3 days). It is 50 s long (fix "45-50 s" applied) and opens on a big "1884. NO SCANS." line plus the 3D zoom.
+2. Retention is still the weak spot: viewers stay ~10 s of 50 s (19.5%), the same ~10 s as every reel. The 1/2 question card sits at 8.5-13 s, exactly where people leave.
+3. Comments: still 0 real viewer comments (only ours) on all apps. IG followers 15 (13 on 11-19).
+
 ## 2026-11-19 (Thursday 10:20 Hebron - Leonard Wood day; vidIQ Instagram owner insights)
 
 | Reel (age) | IG plays | avg watch | skip rate | likes | comments |
