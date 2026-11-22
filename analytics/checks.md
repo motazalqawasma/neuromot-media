@@ -1,3 +1,11 @@
+## 2026-11-22 16:06 review (GOD YouTube Short NimiJ_sJvtA)
+
+| App | 1 live public | 2 cover | 3 like | 4 question comment | 5 pinned | playlist |
+|---|---|---|---|---|---|---|
+| YouTube Short NimiJ_sJvtA | ✅ | ✅ (Studio list shows the cover, set by vidIQ) | ✅ | ✅ once | ✅ "Pinned by @Motaz.M.Al-Qawasma" | ✅ Brain Stories (now 9 videos, all 9 Brain Stories) |
+
+Watch page has no "Save" button for this Short; added through Studio > Content > Shorts > Add to playlist.
+
 ## 2026-11-22 ~13:00 catch-up of the 10:05 items (browser back online)
 
 | App | 1 live | 3 like | 4 question comment | 5 pin |
