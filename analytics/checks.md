@@ -1,3 +1,13 @@
+## 2026-11-22 10:06 review (GOD video, 10:00 posts) - built-in browser NOT reachable this morning
+
+| App | 1 live | 2 cover | 3 like | 4 question comment | 5 pin | 6 caption |
+|---|---|---|---|---|---|---|
+| Instagram reel DgCU3a2DIa1 | ✅ (vidIQ completed) | not checked | ❌ no browser | ❌ no browser | ❌ | ✅ (from draft) |
+| Facebook reel 2658980301240357 | ✅ | not checked | ❌ no browser | ❌ no browser | - | ✅ |
+| TikTok carousel 7710902551658499348 | ✅ delivered | - | ❌ no browser | ❌ no browser | ❌ | ✅ |
+
+Reason: the desktop link (built-in browser tools) dropped from this session overnight. The 16:05 / 18:05 reviews (or a catch-up run) must finish items 3-5 if the browser is back. Live notification sent.
+
 ## 2026-11-19 18:05-18:20 - Wood carousel (18:00) + evening answers (built-in browser + vidIQ)
 
 | App | live | slides | like | question comment | evening answer under the video question |

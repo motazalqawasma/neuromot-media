@@ -23,7 +23,8 @@
   "captions": "ElevenLabs Scribe word timestamps (271 credits), times are in Video.tsx CAPS",
   "5_published": "done (scheduled via vidIQ Sat night): draft 1 postId 98e55bc1-7c68-40c5-ae72-862b8bb23594 at 10:00 = IG reel pub ab324c97-1316-42d2-b867-b97ddf7b4fc2, FB video pub aaa058d7-4e45-4b21-9542-69a5d7b1b277, TikTok carousel (6 slides) pub b99295c6-97cf-46d7-947b-97bdbe673620. Draft 2 postId 05ab8fec-d1e9-434b-be65-b78fc0307e27 YouTube pub 50ef5d21-937a-42c8-8f54-e80b0caa2923, uploaded private, public at 16:00: https://www.youtube.com/watch?v=NimiJ_sJvtA (cover thumbnail set via thumbnailImageId). vidIQ media: video upload 6029910a-71ea-430f-a75f-5acd10506df5, reel 9110d39e-21d1-446d-9d08-e99a9e40479e, cover image d40696bd-612e-4a2d-8d2f-a99250fdf417",
   "5c_carousel": "done (scheduled 18:00): postId cf2dd836-bf1c-4f90-981d-d8dea6feced0 = IG carousel pub a52e90a9-1861-49af-8303-9c547b62f4e3, FB slideshow reel pub 8798268c-f11b-4765-8924-dbea88265599, TikTok video pub 502f1661-f237-4c5a-8d15-1b09daaca0bc",
-  "9_report_night": "done Sat 21:30 ready report"
+  "9_report_night": "done Sat 21:30 ready report",
+  "6_review_video": "partial 10:06: all 3 live (IG https://www.instagram.com/reel/DgCU3a2DIa1/, FB https://www.facebook.com/reel/2658980301240357, TikTok carousel https://www.tiktok.com/@motaz.alqawasma/photo/7710902551658499348); like/question comment/pin NOT done (no built-in browser), redo at 16:05/18:05"
  },
  "step1_done": true,
  "all_done": false,
@@ -65,5 +66,6 @@
  "playlist": "Brain Stories (PLUVvgGTGGKUs)",
  "step2_done": true,
  "reminders_set": true,
- "reminders": "send_later in session cse_015n4N1odqHfsmjBLmXjk653: 10:05 trig_012S6vg5UKg1PQShqmmDHRGg, 16:05 trig_0117qgTH2ZMEQue4S35J4UJf, 18:05 trig_01N26uz4Hq9Eb2dcjq5CmqWs"
+ "reminders": "send_later in session cse_015n4N1odqHfsmjBLmXjk653: 10:05 trig_012S6vg5UKg1PQShqmmDHRGg, 16:05 trig_0117qgTH2ZMEQue4S35J4UJf, 18:05 trig_01N26uz4Hq9Eb2dcjq5CmqWs",
+ "live_notified": true
 }
