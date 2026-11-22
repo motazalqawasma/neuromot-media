@@ -13,9 +13,10 @@
   "photos": "done photos/2026-11-24-DANDY (dandy_1915.jpg PD small; dandy_portrait2(_crop).jpg CC BY-SA 4.0 Ericneuro, via built-in browser canvas because upload.wikimedia.org gave 429; dandy1919_pneumoencephalogram.jpg PD = Dandy's own 1919 figure, Ann Surg 70(4):397-403 per Commons; gray734_ventricles.png PD; CREDITS.txt). No women in any photo (checked by eye), no blur needed.",
   "gemini_clip1": "done kf1->kf2 (chat 8a0d599742651c23): slow push on the glass head from behind, ventricles light up blue. 720x1280 ~10.5 s, MediaRecorder capture -> H.264. examples/brain-story-DANDY/ai/c1.mp4",
   "gemini_clip2": "done kf2->kf3 (chat 98f98d3cfcaf1177): blue fluid drains down the spinal canal, picture turns into an X-ray with black air-filled ventricles; ends on kf3. examples/brain-story-DANDY/ai/c2.mp4",
-  "4_cover": "done banners/2026-11-24-DANDY-cover-9x16.jpg (Remotion Cover.tsx, examples/brain-story-DANDY/src: Gemini kf3 X-ray with black ventricles as background, 'AIR. IN THE BRAIN.', BRAIN STORY #10, TRUE CASE 1918, Dandy photo print, 'X-ray 1 or MRI 2?' box; text out of bottom 20%; no AI label). No Canva use."
+  "4_cover": "done banners/2026-11-24-DANDY-cover-9x16.jpg (Remotion Cover.tsx, examples/brain-story-DANDY/src: Gemini kf3 X-ray with black ventricles as background, 'AIR. IN THE BRAIN.', BRAIN STORY #10, TRUE CASE 1918, Dandy photo print, 'X-ray 1 or MRI 2?' box; text out of bottom 20%; no AI label). No Canva use.",
+  "gemini_clip3": "done kf3->kf4 (chat 5d47f38f7997ed36): X-ray push-in, a gray lump grows and bends the black ventricles, faint red edge; ends on kf4. examples/brain-story-DANDY/ai/c3.mp4"
  },
- "step1_done": false,
+ "step1_done": true,
  "all_done": false,
  "files": {
   "script": "progress/2026-11-24-DANDY-script.txt",
@@ -23,7 +24,7 @@
   "voice_take1": "progress/2026-11-24-DANDY-voice-take1.mp3",
   "gemini_keyframes": "examples/brain-story-DANDY/ai/kf1-7.jpg",
   "photos": "photos/2026-11-24-DANDY/",
-  "gemini_clips": "examples/brain-story-DANDY/ai/c1.mp4, c2.mp4",
+  "gemini_clips": "examples/brain-story-DANDY/ai/c1.mp4, c2.mp4, c3.mp4",
   "cover": "banners/2026-11-24-DANDY-cover-9x16.jpg",
   "cover_src": "examples/brain-story-DANDY/src/Cover.tsx (+CoverRoot.tsx)",
   "cover_assets": "examples/brain-story-DANDY/public/ (cover_bg.jpg = kf3, dandy.jpg)"
@@ -45,5 +46,7 @@
  "share_line": "Send this to the friend who hates MRI noise.",
  "retention_notes": "Big strange line at second 1 ('AIR. IN THE BRAIN.'), question in the first 6 s, loop: last line repeats the question. 129 words = 49.5 s (Godlee 123 = 49 s worked).",
  "citation": "Dandy WE. Ventriculography following the injection of air into the cerebral ventricles. Ann Surg. 1918;68(1):5-11. Also: American Scientist 2023 'The Early Years of Brain Imaging'.",
- "citation_1919": "Dandy WE. Roentgenography of the brain after the injection of air into the spinal canal. Ann Surg. 1919;70(4):397-403 (given on the Commons file page of his own figure)."
+ "citation_1919": "Dandy WE. Roentgenography of the brain after the injection of air into the spinal canal. Ann Surg. 1919;70(4):397-403 (given on the Commons file page of his own figure).",
+ "gemini_clips_count": "3 of 3 used Sun night (no refusals, no wasted clip). Monday's 3 are for clips 4-6.",
+ "step2_note": "STEP 2 (Mon night): clips 1-3 are DONE, do not make them again. Make only clips 4-6: 4 = kf5 (1918 X-ray room) -> kf6 (glass plate on light box), 5 = kf6 -> kf7 (modern CT room), 6 = kf7 -> kf1 (glass head from behind, loop). Keyframes are in the Gemini page localStorage as dandykf1-7. Gemini tip from this run: the pane was hidden, so the aspect-ratio bottom sheet never closed (remove '.cdk-overlay-container > *' in JS after picking Portrait) and pressing Return did not send: click the 'Send message' button by ref and wait ~15 s. Then render, carousel and schedule as usual. Voice = progress/2026-11-24-DANDY-voice.mp3 (do NOT make it again)."
 }
