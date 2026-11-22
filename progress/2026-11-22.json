@@ -27,14 +27,14 @@
   "6_review_video": "done ~13:00 (after browser came back): like + question comment on IG, FB, TikTok carousel; live links in analytics/checks.md",
   "planner_next": "done plans/2026-11-24.md (Brain Story #10 Walter Dandy, air ventriculography 1918)",
   "6_review_youtube": "done 16:06: public, liked, question comment pinned, added to Brain Stories (9 videos); live notification sent",
-  "6_review_carousel": "partial 18:06: all 3 carousel posts live (IG https://www.instagram.com/p/DgDL8RkCSq1/, FB reel https://www.facebook.com/reel/1447078767033513, TikTok video https://www.tiktok.com/@motaz.alqawasma/video/7711026572332895494), live notification sent; like + question comment + slide check NOT done (built-in browser offline at 18:05)",
-  "evening_answer": "YouTube done (vidIQ reply under pinned comment). IG reel, FB reel, TikTok carousel evening answers NOT done (no browser). Text: Mine is 1: Hughes Bennett found the tumour from a twitch alone, 11 years before X-rays were even discovered (1895). The machine helps a lot, but the eyes came first. What's yours?",
+  "6_review_carousel": "done ~18:20: like + question comment on IG carousel, FB slideshow reel, TikTok video",
+  "evening_answer": "done on all 4 apps",
   "7_replies": "done: 0 real viewer comments on IG reel (owner insights: 1 = ours) and YouTube (only ours); TikTok/FB not readable without browser",
   "8_analysis": "done analytics/log.md, analytics/lessons.md, PLAN.md (fix from 2026-11-22)",
   "9_report": "done 18:15"
  },
  "step1_done": true,
- "all_done": false,
+ "all_done": true,
  "hooks": [
   "1884. No scans. No X-rays. One doctor pointed at a skull and said: the tumour is HERE. (picked)",
   "The surgery worked. The patient still died. Here's why.",
@@ -75,6 +75,5 @@
  "reminders_set": true,
  "reminders": "send_later in session cse_015n4N1odqHfsmjBLmXjk653: 10:05 trig_012S6vg5UKg1PQShqmmDHRGg, 16:05 trig_0117qgTH2ZMEQue4S35J4UJf, 18:05 trig_01N26uz4Hq9Eb2dcjq5CmqWs",
  "live_notified": true,
- "live_notified_youtube": true,
- "remaining_for_catchup": "browser only: like + question comment on IG carousel DgDL8RkCSq1, FB reel 1447078767033513, TikTok video 7711026572332895494; evening answer replies under the 10:00 question comments on IG reel DgCU3a2DIa1, FB reel 2658980301240357, TikTok carousel 7710902551658499348"
+ "live_notified_youtube": true
 }

@@ -1,3 +1,14 @@
+## 2026-11-22 ~18:20 carousel posts + evening answers (browser back, Motaz asked in chat)
+
+| App | live | like | question comment (with my answer) | evening answer under 10:00 question |
+|---|---|---|---|---|
+| Instagram carousel DgDL8RkCSq1 | ✅ | ✅ | ✅ once | ✅ reply on reel DgCU3a2DIa1 |
+| Facebook slideshow reel 1447078767033513 | ✅ | ✅ | ✅ once | ✅ reply on reel 2658980301240357 |
+| TikTok video 7711026572332895494 | ✅ (no music shown) | ✅ | ✅ once (paste) | ✅ under carousel question 7710902551658499348 |
+| YouTube Short NimiJ_sJvtA | ✅ | ✅ | ✅ pinned | ✅ vidIQ reply |
+
+No CAPTCHA. Slide order not opened one by one (IG shows the carousel post).
+
 ## 2026-11-22 16:06 review (GOD YouTube Short NimiJ_sJvtA)
 
 | App | 1 live public | 2 cover | 3 like | 4 question comment | 5 pinned | playlist |
