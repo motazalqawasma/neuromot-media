@@ -8,14 +8,16 @@
   "0b_plan": "done: plans/2026-11-24.md, PLAN.md, prompts/daily-video-task.md read",
   "1_topic": "done: facts checked with American Scientist 2023 'The Early Years of Brain Imaging', Wikipedia (Walter Dandy; Pneumoencephalography), Radiopaedia, Hektoen Intl 2022, historyofmedicine.com 8927. Ventriculography 1918 Ann Surg 68:5-11 (Hektoen + Am Sci + GM). 1919 lumbar air (Wiki + Am Sci + Hektoen). Free air on X-ray as idea (Am Sci + Wiki; Hektoen says dye toxicity: script only says 'he'd seen free air show up clearly'). Air = dark/negative contrast, lesions distort ventricles (Wiki + Am Sci). Main way until CT 1970s (Wiki x2, Am Sci, Radiopaedia). Headache/nausea/vomiting (Am Sci, Wiki, Radiopaedia). Chair rotation/upside down (Wiki + Am Sci). Mortality NOT used (30% vs 1-3% conflict). 1919 Annals 70:397-403 citation NOT confirmed: do not cite it.",
   "2_script": "done progress/2026-11-24-DANDY-script.txt (129 words)",
-  "3_voice": "done take 2 of 2 (eleven_v4, MY VOICE qEQg0lkJlnVX0nBkV1vj, flow hd87np0VO6otLrpeZMTg, 2x750 credits), 49.5 s, progress/2026-11-24-DANDY-voice.mp3 (take 1 kept, 50.1 s)"
+  "3_voice": "done take 2 of 2 (eleven_v4, MY VOICE qEQg0lkJlnVX0nBkV1vj, flow hd87np0VO6otLrpeZMTg, 2x750 credits), 49.5 s, progress/2026-11-24-DANDY-voice.mp3 (take 1 kept, 50.1 s)",
+  "gemini_keyframes": "done Sun 2026-11-22 ~21:40 Hebron: kf1-kf7 in one Gemini chat 34132ff9a92f121d (built-in browser), same style line, 572x1024, checked by eye: kf1 glass head from behind (no face), kf2 ventricles glow blue, kf3 X-ray look with black air-filled ventricles, kf4 ventricles bent by a lump with faint red edge, kf5 empty 1918 X-ray room, kf6 glass plate on light box with black ventricles, kf7 modern CT room. No people, no women. Also in Gemini page localStorage as dandykf1-7."
  },
  "step1_done": false,
  "all_done": false,
  "files": {
   "script": "progress/2026-11-24-DANDY-script.txt",
   "voice": "progress/2026-11-24-DANDY-voice.mp3",
-  "voice_take1": "progress/2026-11-24-DANDY-voice-take1.mp3"
+  "voice_take1": "progress/2026-11-24-DANDY-voice-take1.mp3",
+  "gemini_keyframes": "examples/brain-story-DANDY/ai/kf1-7.jpg"
  },
  "why_this_one": "Follow-up to Sunday's '1884, no scans': how surgeons first SAW the brain, 1918, with a strange true twist (air into the brain). Clear 3D zoom (ventricles turning dark).",
  "hooks": [
