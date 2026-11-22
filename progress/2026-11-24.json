@@ -12,7 +12,8 @@
   "gemini_keyframes": "done Sun 2026-11-22 ~21:40 Hebron: kf1-kf7 in one Gemini chat 34132ff9a92f121d (built-in browser), same style line, 572x1024, checked by eye: kf1 glass head from behind (no face), kf2 ventricles glow blue, kf3 X-ray look with black air-filled ventricles, kf4 ventricles bent by a lump with faint red edge, kf5 empty 1918 X-ray room, kf6 glass plate on light box with black ventricles, kf7 modern CT room. No people, no women. Also in Gemini page localStorage as dandykf1-7.",
   "photos": "done photos/2026-11-24-DANDY (dandy_1915.jpg PD small; dandy_portrait2(_crop).jpg CC BY-SA 4.0 Ericneuro, via built-in browser canvas because upload.wikimedia.org gave 429; dandy1919_pneumoencephalogram.jpg PD = Dandy's own 1919 figure, Ann Surg 70(4):397-403 per Commons; gray734_ventricles.png PD; CREDITS.txt). No women in any photo (checked by eye), no blur needed.",
   "gemini_clip1": "done kf1->kf2 (chat 8a0d599742651c23): slow push on the glass head from behind, ventricles light up blue. 720x1280 ~10.5 s, MediaRecorder capture -> H.264. examples/brain-story-DANDY/ai/c1.mp4",
-  "gemini_clip2": "done kf2->kf3 (chat 98f98d3cfcaf1177): blue fluid drains down the spinal canal, picture turns into an X-ray with black air-filled ventricles; ends on kf3. examples/brain-story-DANDY/ai/c2.mp4"
+  "gemini_clip2": "done kf2->kf3 (chat 98f98d3cfcaf1177): blue fluid drains down the spinal canal, picture turns into an X-ray with black air-filled ventricles; ends on kf3. examples/brain-story-DANDY/ai/c2.mp4",
+  "4_cover": "done banners/2026-11-24-DANDY-cover-9x16.jpg (Remotion Cover.tsx, examples/brain-story-DANDY/src: Gemini kf3 X-ray with black ventricles as background, 'AIR. IN THE BRAIN.', BRAIN STORY #10, TRUE CASE 1918, Dandy photo print, 'X-ray 1 or MRI 2?' box; text out of bottom 20%; no AI label). No Canva use."
  },
  "step1_done": false,
  "all_done": false,
@@ -22,7 +23,10 @@
   "voice_take1": "progress/2026-11-24-DANDY-voice-take1.mp3",
   "gemini_keyframes": "examples/brain-story-DANDY/ai/kf1-7.jpg",
   "photos": "photos/2026-11-24-DANDY/",
-  "gemini_clips": "examples/brain-story-DANDY/ai/c1.mp4, c2.mp4"
+  "gemini_clips": "examples/brain-story-DANDY/ai/c1.mp4, c2.mp4",
+  "cover": "banners/2026-11-24-DANDY-cover-9x16.jpg",
+  "cover_src": "examples/brain-story-DANDY/src/Cover.tsx (+CoverRoot.tsx)",
+  "cover_assets": "examples/brain-story-DANDY/public/ (cover_bg.jpg = kf3, dandy.jpg)"
  },
  "why_this_one": "Follow-up to Sunday's '1884, no scans': how surgeons first SAW the brain, 1918, with a strange true twist (air into the brain). Clear 3D zoom (ventricles turning dark).",
  "hooks": [
