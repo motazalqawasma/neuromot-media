@@ -14,7 +14,11 @@
   "gemini_clip1": "done kf1->kf2 (chat 8a0d599742651c23): slow push on the glass head from behind, ventricles light up blue. 720x1280 ~10.5 s, MediaRecorder capture -> H.264. examples/brain-story-DANDY/ai/c1.mp4",
   "gemini_clip2": "done kf2->kf3 (chat 98f98d3cfcaf1177): blue fluid drains down the spinal canal, picture turns into an X-ray with black air-filled ventricles; ends on kf3. examples/brain-story-DANDY/ai/c2.mp4",
   "4_cover": "done banners/2026-11-24-DANDY-cover-9x16.jpg (Remotion Cover.tsx, examples/brain-story-DANDY/src: Gemini kf3 X-ray with black ventricles as background, 'AIR. IN THE BRAIN.', BRAIN STORY #10, TRUE CASE 1918, Dandy photo print, 'X-ray 1 or MRI 2?' box; text out of bottom 20%; no AI label). No Canva use.",
-  "gemini_clip3": "done kf3->kf4 (chat 5d47f38f7997ed36): X-ray push-in, a gray lump grows and bends the black ventricles, faint red edge; ends on kf4. examples/brain-story-DANDY/ai/c3.mp4"
+  "gemini_clip3": "done kf3->kf4 (chat 5d47f38f7997ed36): X-ray push-in, a gray lump grows and bends the black ventricles, faint red edge; ends on kf4. examples/brain-story-DANDY/ai/c3.mp4",
+  "gemini_clips_4_6": "FAILED Mon night: 3 tries in new Create-video chats (kf5->kf6 x2: chats 06c83d20fe92a608, aa8c7b74d9248b2d; kf7->kf1: chat 71dcea59954b98a2) all answered 'I encountered an error'. Stopped (no more tries). Video uses c1-c3 + kf5/kf6/kf7 as slow-zoom stills instead.",
+  "captions": "ElevenLabs Scribe word timestamps (flow E9ot3ACYmi5j8j9D2SZv, 272 credits), times in Video.tsx CAPS",
+  "5_video": "done videos/2026-11-24-DANDY.mp4 (50.1 s, 1080x1920, -14.8 LUFS, no black/freeze, Gemini c1-c3 + kf5-7 stills + Dandy photo + 1919 X-ray + paper card; src examples/brain-story-DANDY/src/Video.tsx)",
+  "5c_carousel_made": "done banners/2026-11-24-DANDY-carousel/s1-6.jpg (slides 1-3 Gemini image chat c6a771ff0d50262f, examples/brain-story-DANDY/ai/car1-3.jpg, 825x1024 previews) + Facebook reel videos/2026-11-24-DANDY-slidereel.mp4 (16 s)"
  },
  "step1_done": true,
  "all_done": false,
@@ -27,7 +31,10 @@
   "gemini_clips": "examples/brain-story-DANDY/ai/c1.mp4, c2.mp4, c3.mp4",
   "cover": "banners/2026-11-24-DANDY-cover-9x16.jpg",
   "cover_src": "examples/brain-story-DANDY/src/Cover.tsx (+CoverRoot.tsx)",
-  "cover_assets": "examples/brain-story-DANDY/public/ (cover_bg.jpg = kf3, dandy.jpg)"
+  "cover_assets": "examples/brain-story-DANDY/public/ (cover_bg.jpg = kf3, dandy.jpg)",
+  "video": "videos/2026-11-24-DANDY.mp4",
+  "slides": "banners/2026-11-24-DANDY-carousel/s1-6.jpg",
+  "slidereel": "videos/2026-11-24-DANDY-slidereel.mp4"
  },
  "why_this_one": "Follow-up to Sunday's '1884, no scans': how surgeons first SAW the brain, 1918, with a strange true twist (air into the brain). Clear 3D zoom (ventricles turning dark).",
  "hooks": [
@@ -48,5 +55,6 @@
  "citation": "Dandy WE. Ventriculography following the injection of air into the cerebral ventricles. Ann Surg. 1918 Jul;68(1):5-11. doi:10.1097/00000658-191807000-00002 (PubMed 17863946, PMC1426769; checked on PubMed in the built-in browser 2026-11-22).",
  "citation_1919": "Dandy WE. Rontgenography of the brain after the injection of air into the spinal canal. Ann Surg. 1919 Oct;70(4):397-403. doi:10.1097/00000658-191910000-00004 (PubMed 17864170, PMC1410386).",
  "gemini_clips_count": "3 of 3 used Sun night (no refusals, no wasted clip). Monday's 3 are for clips 4-6.",
- "step2_note": "STEP 2 (Mon night): clips 1-3 are DONE, do not make them again. Make only clips 4-6: 4 = kf5 (1918 X-ray room) -> kf6 (glass plate on light box), 5 = kf6 -> kf7 (modern CT room), 6 = kf7 -> kf1 (glass head from behind, loop). Keyframes are in the Gemini page localStorage as dandykf1-7. Gemini tip from this run: the pane was hidden, so the aspect-ratio bottom sheet never closed (remove '.cdk-overlay-container > *' in JS after picking Portrait) and pressing Return did not send: click the 'Send message' button by ref and wait ~15 s. Then render, carousel and schedule as usual. Voice = progress/2026-11-24-DANDY-voice.mp3 (do NOT make it again)."
+ "step2_note": "STEP 2 (Mon night): clips 1-3 are DONE, do not make them again. Make only clips 4-6: 4 = kf5 (1918 X-ray room) -> kf6 (glass plate on light box), 5 = kf6 -> kf7 (modern CT room), 6 = kf7 -> kf1 (glass head from behind, loop). Keyframes are in the Gemini page localStorage as dandykf1-7. Gemini tip from this run: the pane was hidden, so the aspect-ratio bottom sheet never closed (remove '.cdk-overlay-container > *' in JS after picking Portrait) and pressing Return did not send: click the 'Send message' button by ref and wait ~15 s. Then render, carousel and schedule as usual. Voice = progress/2026-11-24-DANDY-voice.mp3 (do NOT make it again).",
+ "run2": "STEP 2 run Mon 2026-11-23 21:06 Hebron (cloud + desktop built-in browser reachable, pane visible)"
 }
