@@ -78,7 +78,8 @@ const QCard: React.FC<{at:number; q:string; o1?:string; o2?:string; sub?:string}
 
 
 // ---------- Gemini 3D zoom clips (dark style)
-const LEN:Record<string,number>={'c1.mp4':10.56,'c2.mp4':10.43,'c3.mp4':10.53};
+const LEN:Record<string,number>={'c1.mp4':10.56,'c2.mp4':10.43,'c3.mp4':10.53,'c4.mp4':10.33,'c5.mp4':10.1,'c6.mp4':10.0};
+const HAS6 = false;
 const Clip: React.FC<{src:string; dur:number; start?:number; dark?:number}> = ({src,dur,start=0,dark=0}) =>
   <AbsoluteFill><OffthreadVideo muted src={staticFile(src)} startFrom={Math.round(start*S)} playbackRate={(LEN[src]-start-0.15)/dur} style={{width:1080,height:1920,objectFit:'cover'}}/>
   {dark>0 && <AbsoluteFill style={{background:`rgba(16,17,21,${dark})`}}/>}</AbsoluteFill>;
@@ -151,7 +152,7 @@ const Dark = () => {
 const Proof = () => {
   const T='proof'; const f=useCurrentFrame(); const cut=at(T,33.4);
   return (<AbsoluteFill>
-    {f>=cut && <Sequence from={cut}><Still src="kf7.jpg" dur={70} z0={1.08} z1={1} dark={0.3}/></Sequence>}
+    {f>=cut && <Sequence from={cut}><Clip src="c5.mp4" dur={35.3-33.4} start={7.6} dark={0.3}/></Sequence>}
     {f<cut && <Particles/>}
     <Fade a={0} b={cut+3} style={{paddingTop:200,gap:22}}>
       <div style={{opacity:ease(f,0,12),transform:`perspective(1400px) rotateX(${(1-ease(f,0,14))*50}deg) rotate(-1.5deg)`,width:900,background:'#f4f1ea',borderRadius:8,padding:'22px 36px 18px',boxShadow:'0 30px 70px rgba(0,0,0,.6)'}}>
@@ -172,7 +173,7 @@ const Proof = () => {
 const Catch = () => {
   const T='catch'; const f=useCurrentFrame();
   return (<AbsoluteFill>
-    <Still src="kf5.jpg" dur={180} z0={1} z1={1.1} dark={0.35}/><Shade/>
+    <Clip src="c4.mp4" dur={41.0-35.3} start={2} dark={0.35}/><Shade/>
     <AbsoluteFill style={{alignItems:'center',paddingTop:230,gap:28}}>
       <Title size={140} color={C.orange} delay={at(T,35.5)}>THE CATCH?</Title>
       {f>=at(T,36.32) && <Pill at={at(T,36.32)} bg={C.red} color="#fff" size={64} rot={-2}>AWFUL HEADACHES</Pill>}
@@ -196,7 +197,7 @@ const Ask = () => {
 const End = () => {
   const f=useCurrentFrame(); const E='end';
   return (<AbsoluteFill>
-    <Still src="kf6.jpg" dur={150} z0={1} z1={1.08} dark={0.6}/>
+    {HAS6 ? <Clip src="c6.mp4" dur={49.6-44.95} start={4} dark={0.6}/> : <Still src="kf6.jpg" dur={150} z0={1} z1={1.08} dark={0.6}/>}
     <AbsoluteFill style={{alignItems:'center',paddingTop:230,gap:20}}>
       <Flip at={2}><div style={{fontFamily:HEAD,fontWeight:900,fontSize:190,color:C.text,textShadow:depth('#0B0B0E'),lineHeight:1}}>DR. MOT</div></Flip>
       <Label size={74} color={C.orange} delay={8}>one brain story at a time</Label>
