@@ -8,14 +8,16 @@
   "0b_plan": "done: plans/2026-11-26.md, PLAN.md, analytics/lessons.md (fixes from 2026-11-24) read",
   "1_topic": "done: facts checked with Frontiers Neuroanat 2017 doi:10.3389/fnana.2017.00081 (Artico et al., read in full in the built-in browser), PubMed 9733316 (Ligon, Neurosurgery 1998;43(3):602-11), Wikipedia (Antonio Egas Moniz), nobelprize.org biography. 1927 + Paris presentation 7 Jul 1927 (Frontiers + Wiki). Carotid artery (Frontiers: internal carotid exposed surgically; Wiki). First tries failed and one patient died (Frontiers: first patient died 8 h later of a stroke; Wiki: one patient died). 25% sodium iodide worked (Frontiers + Wiki). Tumour displaces arteries (Frontiers). Nominated for the Nobel for angiography and not given it (PubMed: 2 nominations, Jacobaeus advised against; Frontiers: 3 nominations 1928/1932/1937; script says no number). 1949 Nobel with W.R. Hess for leucotomy (Wiki quote of nobelprize.org + Frontiers + PubMed). NOT used: 'shot by a patient' (one source), number of nominations (2 vs 3 conflict), Thorotrast.",
   "2_script": "done progress/2026-11-26-MONIZ-script.txt (132 words incl. numbers; question only at the end per fix 2026-11-24; twist promised by second 8 'Wait for it')",
-  "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE qEQg0lkJlnVX0nBkV1vj, flow piHGmORKfvWlKB9zGNBp, 2x758 credits), 49.3 s, progress/2026-11-26-MONIZ-voice.mp3 (take 2 kept, 48.8 s). Scribe check: word-perfect. Word times progress/2026-11-26-MONIZ-words.json (Scribe 271 credits) for captions."
+  "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE qEQg0lkJlnVX0nBkV1vj, flow piHGmORKfvWlKB9zGNBp, 2x758 credits), 49.3 s, progress/2026-11-26-MONIZ-voice.mp3 (take 2 kept, 48.8 s). Scribe check: word-perfect. Word times progress/2026-11-26-MONIZ-words.json (Scribe 271 credits) for captions.",
+  "gemini_keyframes": "done Tue 2026-11-24 ~21:35 Hebron: kf1-kf7 in one Gemini chat 7db3dbcd5df76c52 (built-in browser), same style line, 572x1024, checked by eye: kf1 glass head+neck from behind (no face), kf2 carotid fills with white dye, kf3 X-ray angiogram look with the whole artery tree white, kf4 close-up: one white artery bent by a small gray lump with faint red edge, kf5 empty 1920s X-ray room, kf6 glass plate on light box with white brain arteries, kf7 plain gold medal disc on velvet (no text/logo). No people, no women. Also in the Gemini page localStorage as monizkf1-7."
  },
  "files": {
   "script": "progress/2026-11-26-MONIZ-script.txt",
   "voice": "progress/2026-11-26-MONIZ-voice.mp3",
   "voice_take1": "progress/2026-11-26-MONIZ-voice-take1.mp3",
   "voice_take2": "progress/2026-11-26-MONIZ-voice-take2.mp3",
-  "words": "progress/2026-11-26-MONIZ-words.json"
+  "words": "progress/2026-11-26-MONIZ-words.json",
+  "gemini_keyframes": "examples/brain-story-MONIZ/ai/kf1-7.jpg"
  },
  "why_this_one": "Imaging series (1884 no scans -> 1918 air -> 1927 dye) with a strong twist: Nobel for lobotomy, not for angiography. Clear 3D zoom (arteries light up white).",
  "hooks": [
@@ -33,7 +35,7 @@
  "save_line": "Save that word: angiography.",
  "share_line": "Send this to the friend who loves a plot twist.",
  "retention_notes": "Fixes from 2026-11-24 applied in the script: no question until the end (42 s), twist promised in the first 9 s ('Later he won a Nobel... for something ELSE. Wait for it.'), known words DYE + NOBEL at second 1. STEP 2: picture change every ~2 s in the first 6 s, no full question card before the end.",
- "citation": "Moniz E. L'encephalographie arterielle, son importance dans la localisation des tumeurs cerebrales. Rev Neurol (Paris). 1927;2:72-90. Review: Artico M et al. Egas Moniz: 90 Years (1927-2017) from Cerebral Angiography. Front Neuroanat. 2017;11:81. doi:10.3389/fnana.2017.00081 (CC BY). Ligon BL. Neurosurgery. 1998;43(3):602-11 (PubMed 9733316).",
+ "citation": "Moniz E. L'encephalographie arterielle, son importance dans la localisation des tumeurs cerebrales. Rev Neurol (Paris). 1927;T. II, n° 1 (July 1927) (as cited by Artico 2017; pages not checked, do not print pages). Review: Artico M et al. Egas Moniz: 90 Years (1927-2017) from Cerebral Angiography. Front Neuroanat. 2017;11:81. doi:10.3389/fnana.2017.00081 (CC BY). Ligon BL. Neurosurgery. 1998;43(3):602-11 (PubMed 9733316).",
  "playlist": "Brain Stories (PLUVvgGTGGKUs)",
  "step1_done": false
 }
