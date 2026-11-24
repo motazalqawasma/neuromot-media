@@ -2,6 +2,17 @@
 
 One section per daily analysis. Newest at the top. Views are as seen at the time of the check.
 
+## 2026-11-24 (Tuesday 18:20 Hebron - Dandy 1918 day, Brain Story #10; vidIQ Instagram owner insights)
+
+| Reel (age) | IG plays | avg watch | skip rate | likes | saves | comments |
+|---|---|---|---|---|---|---|
+| Dandy 50 s (~8 h) | 62 | 6.1 s (12.2%) | 58.6% | 2 | 0 | 2 (ours) |
+| Godlee 50 s (2 days) | 249 | 10.2 s (20.3%) | 60.1% | 4 | 1 | 2 (ours) |
+| Wood 60 s (5 days) | 132 | 9.9 s | 63% | 2 | 1 | 2 (ours) |
+| H.M. 55 s (best) | 622 | 12.3 s | 62.7% | 9 | 6 | 1 |
+
+Dandy started at about 1/3 of Godlee (62 vs 210 plays at ~8 h) and has the shortest watch time of the month (6.1 s). YouTube Short 9apIWnFlNYg public 16:00 (v1). TikTok/FB numbers: Metricool returned captions only, no values tonight. 0 real viewer comments on IG, FB and YouTube. vidIQ credits: 3 left (renews 7 Dec).
+
 ## 2026-11-22 (Sunday 18:10 Hebron - Godlee 1884 day, Brain Story #9; vidIQ Instagram owner insights + Metricool)
 
 | Reel (age) | IG plays | avg watch | skip rate | likes | saves | comments |

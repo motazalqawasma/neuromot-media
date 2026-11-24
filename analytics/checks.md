@@ -1,3 +1,14 @@
+## 2026-11-24 18:07 review (DANDY carousel posts + evening answers)
+
+| App | live | like | question comment (with my answer) | evening answer under 10:00 question |
+|---|---|---|---|---|
+| Instagram carousel DgIViF8lisG | ✅ | ✅ | ✅ once | ✅ reply on reel DgHeg6oElRP |
+| Facebook slideshow reel 2219897558907948 | ✅ | ✅ | ✅ once | ✅ reply on reel 1466322155625551 |
+| TikTok video 7711768688659008789 | ✅ (no music shown) | ✅ | ✅ once (paste) | ❌ carousel comment panel did not open; answer is in the video comment |
+| YouTube Short 9apIWnFlNYg | ✅ | ✅ | ✅ pinned | ✅ vidIQ reply |
+
+No CAPTCHA.
+
 ## 2026-11-24 16:07 review (DANDY YouTube Short 9apIWnFlNYg)
 
 | App | 1 live public | 2 cover | 3 like | 4 question comment | 5 pinned | playlist |

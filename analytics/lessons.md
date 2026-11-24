@@ -2,6 +2,20 @@
 
 After every published video, the run compares ALL past videos and carousels, names the 3 biggest weak points (views, hook, retention, likes, comments, followers), the mistake behind each, 1–3 fixes for the next video, and judges whether earlier fixes worked. Newest at the top.
 
+## 2026-11-24 (Dandy 1918, Brain Story #10; 18:05 review)
+
+**Weak points**
+1. VIEWS: Instagram 62 plays at ~8 h vs Godlee 210 (-70%). Likely mistakes: the topic word "air" is less clear than "tumour/no scan"; the first 3 s are a slow glass-head push with small text, not a strong picture.
+2. RETENTION: 6.1 s avg (12%), the worst since Penfield. Mistake: the 11-22 fix was NOT applied, the full 1/2 question card still covered 6-10.5 s (right where people decide to stay).
+3. COMMENTS: 0 real viewer comments again (10th video).
+
+**Fixes for Thu 2026-11-26 (Moniz)**
+1. Question card only at the end; first 15 s = story pictures only (a small question bar at most).
+2. A strong, readable picture change every ~2 s in the first 6 s (cut, not slow push), and the twist promised by second 3 ("...and he won a Nobel for something else. Wait for it.").
+3. Hook word people know: "DYE in the brain's arteries" + "Nobel" on screen at second 1.
+
+**Earlier fixes:** Move the question out of 8-13 s: NOT APPLIED (my mistake on 11-23). Big line at second 1: kept, but no lift this time (TOO EARLY to judge alone). 45-50 s: kept.
+
 ## 2026-11-22 (Godlee 1884, Brain Story #9; 18:05 review)
 
 **Weak points**

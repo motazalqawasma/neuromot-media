@@ -26,10 +26,15 @@
   "6_live_10": "10:06 all 3 completed: IG https://www.instagram.com/reel/DgHeg6oElRP/ FB https://www.facebook.com/reel/1466322155625551 TikTok carousel https://www.tiktok.com/@motaz.alqawasma/photo/7711644715828989205; live notification sent",
   "6_review_video": "done 10:06-10:15: IG reel DgHeg6oElRP liked + question comment once; FB reel 1466322155625551 liked + question comment once (as Motaz); TikTok carousel 7711644715828989205 liked + question comment once (paste). No CAPTCHA.",
   "planner_next": "done plans/2026-11-26.md (Brain Story #11 Egas Moniz, cerebral angiography 1927 + Nobel for leucotomy twist)",
-  "6_review_youtube": "done 16:07: https://www.youtube.com/watch?v=9apIWnFlNYg public (video v1, no clips 4-5), cover thumbnail in Studio list, liked, question comment posted once + pinned, added to Brain Stories (now 10 videos, all 10 Brain Stories); live notification sent"
+  "6_review_youtube": "done 16:07: https://www.youtube.com/watch?v=9apIWnFlNYg public (video v1, no clips 4-5), cover thumbnail in Studio list, liked, question comment posted once + pinned, added to Brain Stories (now 10 videos, all 10 Brain Stories); live notification sent",
+  "6_review_carousel": "done 18:07-18:20: IG carousel DgIViF8lisG liked + question/answer comment once; FB slideshow reel 2219897558907948 liked + question/answer comment once; TikTok video 7711768688659008789 liked + question/answer comment once (paste). Live notification sent.",
+  "evening_answer": "done IG reel reply, FB reel reply, YouTube reply (vidIQ); TikTok: answer posted on the TikTok video (carousel comment panel did not open in the pane)",
+  "7_replies": "done: 0 real viewer comments on IG, FB, YouTube; TikTok carousel not read (vidIQ out of credits, Studio did not load)",
+  "8_analysis": "done analytics/log.md, lessons.md, PLAN.md (fix from 2026-11-24)",
+  "9_report": "done 18:25"
  },
  "step1_done": true,
- "all_done": false,
+ "all_done": true,
  "files": {
   "script": "progress/2026-11-24-DANDY-script.txt",
   "voice": "progress/2026-11-24-DANDY-voice.mp3",
