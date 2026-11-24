@@ -22,7 +22,8 @@
   "5_published": "done (scheduled via vidIQ Mon night): draft 1 postId 69946470-d4f7-4a07-9f57-ba9590887cbd at 10:00 = IG reel pub 0f895eb5-9c5a-43ea-be24-be2a026d24d9, FB video pub 61879ad4-a8ea-4737-963a-5c7bdc03a121, TikTok carousel (6 slides) pub 2f534341-5102-4345-b5f5-44e75bb1a8e0. Draft 2 postId 380990f7-e1c4-43df-9870-69dc6caeefa4 YouTube pub 398b8549-7fd2-4f5b-8ced-416cd3ed22d9 (public at 16:00, thumbnail = cover). vidIQ media: video cb68e188-90f7-435b-8e4d-752543e659a3, reel 82886d39-a1bd-4f92-a11d-51f01814158c, cover 8f40d974-d6b4-493c-8155-93dc034caf6e",
   "5c_carousel": "done (scheduled 18:00): postId 99cd1c53-a372-4b0b-bd1b-98529288acc5 = IG carousel pub 8be9fd55-4b48-4173-90c6-648e021398bf, FB slideshow reel pub 7d625c75-9592-4a91-a108-1161e80b4d85, TikTok video pub dc1f39d0-5c84-4a40-9861-a95d7f949d17",
   "9_report_night": "done Mon ~21:25 ready report",
-  "5_published_v2": "Mon ~22:20: video v2 (vidIQ upload eb33aa12-8a92-4ecc-ad40-13e06587d306) swapped in with replaceScheduled: draft 1 IG pub 67824a1d-d1c0-4ad6-8129-4d0371dd190a + FB pub 917ddd09-8cb3-459f-9c65-b63101aee6a1 (10:00); draft 3 TikTok video pub fde8eb9d-ec1f-4b28-9cde-8bae69c0100a (18:00). Old pubs 0f895eb5/61879ad4/dc1f39d0 cancelled. TikTok carousel 2f534341 and FB reel/IG carousel unchanged. YouTube (pub 398b8549) was already uploaded as a private scheduled video with v1 (no clips 4-5), so it stays v1 unless Motaz says otherwise."
+  "5_published_v2": "Mon ~22:20: video v2 (vidIQ upload eb33aa12-8a92-4ecc-ad40-13e06587d306) swapped in with replaceScheduled: draft 1 IG pub 67824a1d-d1c0-4ad6-8129-4d0371dd190a + FB pub 917ddd09-8cb3-459f-9c65-b63101aee6a1 (10:00); draft 3 TikTok video pub fde8eb9d-ec1f-4b28-9cde-8bae69c0100a (18:00). Old pubs 0f895eb5/61879ad4/dc1f39d0 cancelled. TikTok carousel 2f534341 and FB reel/IG carousel unchanged. YouTube (pub 398b8549) was already uploaded as a private scheduled video with v1 (no clips 4-5), so it stays v1 unless Motaz says otherwise.",
+  "6_live_10": "10:06 all 3 completed: IG https://www.instagram.com/reel/DgHeg6oElRP/ FB https://www.facebook.com/reel/1466322155625551 TikTok carousel https://www.tiktok.com/@motaz.alqawasma/photo/7711644715828989205; live notification sent"
  },
  "step1_done": true,
  "all_done": false,
@@ -64,5 +65,6 @@
  "step2_done": true,
  "reminders_set": true,
  "reminders": "send_later in session cse_015n4N1pBwajVS3K7qE23PzM: 10:05 trig_01MzkBimbmcDKP58PmkwMutU, 16:05 trig_01Kistv5toHs2suCCAMkXf5r, 18:05 trig_013JqCSvC45HAdcPLYRNjCV1",
- "playlist": "Brain Stories (PLUVvgGTGGKUs)"
+ "playlist": "Brain Stories (PLUVvgGTGGKUs)",
+ "live_notified": true
 }
