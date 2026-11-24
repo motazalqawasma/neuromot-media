@@ -10,7 +10,8 @@
   "2_script": "done progress/2026-11-26-MONIZ-script.txt (132 words incl. numbers; question only at the end per fix 2026-11-24; twist promised by second 8 'Wait for it')",
   "3_voice": "done take 1 of 2 (eleven_v4, MY VOICE qEQg0lkJlnVX0nBkV1vj, flow piHGmORKfvWlKB9zGNBp, 2x758 credits), 49.3 s, progress/2026-11-26-MONIZ-voice.mp3 (take 2 kept, 48.8 s). Scribe check: word-perfect. Word times progress/2026-11-26-MONIZ-words.json (Scribe 271 credits) for captions.",
   "gemini_keyframes": "done Tue 2026-11-24 ~21:35 Hebron: kf1-kf7 in one Gemini chat 7db3dbcd5df76c52 (built-in browser), same style line, 572x1024, checked by eye: kf1 glass head+neck from behind (no face), kf2 carotid fills with white dye, kf3 X-ray angiogram look with the whole artery tree white, kf4 close-up: one white artery bent by a small gray lump with faint red edge, kf5 empty 1920s X-ray room, kf6 glass plate on light box with white brain arteries, kf7 plain gold medal disc on velvet (no text/logo). No people, no women. Also in the Gemini page localStorage as monizkf1-7.",
-  "photos": "done photos/2026-11-26-MONIZ (moniz_portrait.jpg PD; moniz_office_1918.png PD; moniz_malhoa_1932.jpg PD painting; angiogram_right_ica.jpg CC BY-SA 3.0 U2em; gray519_arteries_base.png PD; CREDITS.txt). Wikimedia gave 429 to curl, so 3 came through the built-in browser canvas. No women in any photo (checked by eye), no blur needed."
+  "photos": "done photos/2026-11-26-MONIZ (moniz_portrait.jpg PD; moniz_office_1918.png PD; moniz_malhoa_1932.jpg PD painting; angiogram_right_ica.jpg CC BY-SA 3.0 U2em; gray519_arteries_base.png PD; CREDITS.txt). Wikimedia gave 429 to curl, so 3 came through the built-in browser canvas. No women in any photo (checked by eye), no blur needed.",
+  "4_cover": "done banners/2026-11-26-MONIZ-cover-9x16.jpg (Remotion Cover.tsx in examples/brain-story-MONIZ/src: Gemini kf3 angiogram-look glass head as background, 'DYE. IN THE BRAIN.', 'Then a Nobel... for something else.', BRAIN STORY #11, TRUE CASE 1927, Moniz photo print (PD), 'NOBEL 1949: FOR WHAT?' box at y 1400; text out of bottom 20%; no AI label; no 1/2 question on the cover per fix 2026-11-24). No Canva use. Render tip: browser = /opt/pw-browsers/chromium_headless_shell (the -1194 path in the task file no longer exists)."
  },
  "files": {
   "script": "progress/2026-11-26-MONIZ-script.txt",
@@ -19,7 +20,10 @@
   "voice_take2": "progress/2026-11-26-MONIZ-voice-take2.mp3",
   "words": "progress/2026-11-26-MONIZ-words.json",
   "gemini_keyframes": "examples/brain-story-MONIZ/ai/kf1-7.jpg",
-  "photos": "photos/2026-11-26-MONIZ/"
+  "photos": "photos/2026-11-26-MONIZ/",
+  "cover": "banners/2026-11-26-MONIZ-cover-9x16.jpg",
+  "cover_src": "examples/brain-story-MONIZ/src/Cover.tsx (+CoverRoot.tsx)",
+  "cover_assets": "examples/brain-story-MONIZ/public/ (cover_bg.jpg = kf3, moniz.jpg)"
  },
  "why_this_one": "Imaging series (1884 no scans -> 1918 air -> 1927 dye) with a strong twist: Nobel for lobotomy, not for angiography. Clear 3D zoom (arteries light up white).",
  "hooks": [
