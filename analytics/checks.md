@@ -1,3 +1,11 @@
+## 2026-11-24 16:07 review (DANDY YouTube Short 9apIWnFlNYg)
+
+| App | 1 live public | 2 cover | 3 like | 4 question comment | 5 pinned | playlist |
+|---|---|---|---|---|---|---|
+| YouTube Short 9apIWnFlNYg | ✅ | ✅ (Studio list thumbnail, set by vidIQ) | ✅ | ✅ once | ✅ "Pinned by" | ✅ Brain Stories (10 videos, all 10 Brain Stories) |
+
+Note: YouTube has video v1 (vidIQ had already uploaded it before v2 with clips 4-5 was made).
+
 ## 2026-11-24 10:06 review (DANDY video, 10:00 posts)
 
 | App | 1 live | 3 like | 4 question comment | 5 pin |
