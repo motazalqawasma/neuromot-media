@@ -23,7 +23,9 @@
   "5c_carousel": "done (scheduled 18:00): postId 99cd1c53-a372-4b0b-bd1b-98529288acc5 = IG carousel pub 8be9fd55-4b48-4173-90c6-648e021398bf, FB slideshow reel pub 7d625c75-9592-4a91-a108-1161e80b4d85, TikTok video pub dc1f39d0-5c84-4a40-9861-a95d7f949d17",
   "9_report_night": "done Mon ~21:25 ready report",
   "5_published_v2": "Mon ~22:20: video v2 (vidIQ upload eb33aa12-8a92-4ecc-ad40-13e06587d306) swapped in with replaceScheduled: draft 1 IG pub 67824a1d-d1c0-4ad6-8129-4d0371dd190a + FB pub 917ddd09-8cb3-459f-9c65-b63101aee6a1 (10:00); draft 3 TikTok video pub fde8eb9d-ec1f-4b28-9cde-8bae69c0100a (18:00). Old pubs 0f895eb5/61879ad4/dc1f39d0 cancelled. TikTok carousel 2f534341 and FB reel/IG carousel unchanged. YouTube (pub 398b8549) was already uploaded as a private scheduled video with v1 (no clips 4-5), so it stays v1 unless Motaz says otherwise.",
-  "6_live_10": "10:06 all 3 completed: IG https://www.instagram.com/reel/DgHeg6oElRP/ FB https://www.facebook.com/reel/1466322155625551 TikTok carousel https://www.tiktok.com/@motaz.alqawasma/photo/7711644715828989205; live notification sent"
+  "6_live_10": "10:06 all 3 completed: IG https://www.instagram.com/reel/DgHeg6oElRP/ FB https://www.facebook.com/reel/1466322155625551 TikTok carousel https://www.tiktok.com/@motaz.alqawasma/photo/7711644715828989205; live notification sent",
+  "6_review_video": "done 10:06-10:15: IG reel DgHeg6oElRP liked + question comment once; FB reel 1466322155625551 liked + question comment once (as Motaz); TikTok carousel 7711644715828989205 liked + question comment once (paste). No CAPTCHA.",
+  "planner_next": "done plans/2026-11-26.md (Brain Story #11 Egas Moniz, cerebral angiography 1927 + Nobel for leucotomy twist)"
  },
  "step1_done": true,
  "all_done": false,

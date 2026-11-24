@@ -1,3 +1,13 @@
+## 2026-11-24 10:06 review (DANDY video, 10:00 posts)
+
+| App | 1 live | 3 like | 4 question comment | 5 pin |
+|---|---|---|---|---|
+| Instagram reel DgHeg6oElRP (video v2) | ✅ | ✅ | ✅ once | no pin on web |
+| Facebook reel 1466322155625551 (video v2) | ✅ | ✅ | ✅ once (as Motaz) | - |
+| TikTok carousel 7711644715828989205 | ✅ 6 slides | ✅ | ✅ once (paste) | no pin on web |
+
+No CAPTCHA. Live notification sent 10:06.
+
 ## 2026-11-22 ~18:20 carousel posts + evening answers (browser back, Motaz asked in chat)
 
 | App | live | like | question comment (with my answer) | evening answer under 10:00 question |
