@@ -18,7 +18,9 @@
   "step2_start": "STEP 2 run Wed 2026-11-25 21:00 Hebron (cloud + built-in browser tools present).",
   "gemini_clips_4_6": "NOT made: Gemini shows 'Your Google AI Pro subscription ended' and 'Create video' has a lock icon (Wed ~21:02). Video uses clips 1-3 + keyframe stills kf5, kf6, kf7 with slow zoom.",
   "5_video": "done videos/2026-11-26-MONIZ.mp4 (49.9 s, 1080x1920, -14.8 LUFS, no black/freeze; frames checked by eye). Source examples/brain-story-MONIZ/src/Video.tsx. Fixes applied: DYE on screen at 0 s, picture change every ~2 s in first 6 s, 1/2 question card only at 42 s.",
-  "5c_carousel_made": "done banners/2026-11-26-MONIZ-carousel/s1-6.jpg: slide 1 = Gemini (free) image chat b079f989cd9bcb08 cracked medal (examples/brain-story-MONIZ/ai/car1.jpg); 2nd image errored ('I encountered an error'), so slides 2-3 use keyframes kf3 and kf7 (car2/car3). Facebook reel videos/2026-11-26-MONIZ-slidereel.mp4 (16 s)."
+  "5c_carousel_made": "done banners/2026-11-26-MONIZ-carousel/s1-6.jpg: slide 1 = Gemini (free) image chat b079f989cd9bcb08 cracked medal (examples/brain-story-MONIZ/ai/car1.jpg); 2nd image errored ('I encountered an error'), so slides 2-3 use keyframes kf3 and kf7 (car2/car3). Facebook reel videos/2026-11-26-MONIZ-slidereel.mp4 (16 s).",
+  "5_published": "done (scheduled via vidIQ Wed ~21:15): draft 1 postId 6e92b6d7-9d3a-4770-95cc-e4a43fd361c2 at 10:00 = IG reel pub e1210a30-d121-4546-bd17-7f96521e8901, FB video pub 149a1664-8df5-4252-9d77-33e73d32521d, TikTok carousel (6 slides) pub 1324d6e5-bd68-4305-98c1-60fdbd77cc1e. Draft 2 postId 30556c32-5e45-4afd-8cfc-6803e79c4186 YouTube pub afe259e6-5e24-4775-aeee-5f5414ed4b01 (public at 16:00, thumbnail = cover). vidIQ media: video 88a3933e-70fa-44fa-a66f-f86d826ce8ec, reel 46b436ca-ee58-4211-bbb4-c08462142efb, cover a584e662-84ce-4d36-a8ae-797391d4939b",
+  "5c_carousel": "done (scheduled 18:00): postId f51daa0e-9454-4ea2-8df8-f92df5e88600 = IG carousel pub 62cf0e04-079e-45af-8c63-6846cad4900f, FB slideshow reel pub 3bf243f7-d2bb-480b-810c-84a99673296c, TikTok video pub 40898a88-da3e-4f57-ad7d-28799bac69da"
  },
  "files": {
   "script": "progress/2026-11-26-MONIZ-script.txt",
