@@ -14,7 +14,11 @@
   "4_cover": "done banners/2026-11-26-MONIZ-cover-9x16.jpg (Remotion Cover.tsx in examples/brain-story-MONIZ/src: Gemini kf3 angiogram-look glass head as background, 'DYE. IN THE BRAIN.', 'Then a Nobel... for something else.', BRAIN STORY #11, TRUE CASE 1927, Moniz photo print (PD), 'NOBEL 1949: FOR WHAT?' box at y 1400; text out of bottom 20%; no AI label; no 1/2 question on the cover per fix 2026-11-24). No Canva use. Render tip: browser = /opt/pw-browsers/chromium_headless_shell (the -1194 path in the task file no longer exists).",
   "gemini_clip1": "done kf1->kf2 (chat 452113b1d71c3fde): slow push on the glass head from behind, white dye rises up the neck artery; ends on kf2 (last ~1 s held). 720x1280, 10.3 s, MediaRecorder capture -> H.264 24 fps. examples/brain-story-MONIZ/ai/c1.mp4. First try (chat 48e227034cbccc06) said 'I encountered an error' (no video).",
   "gemini_clip2": "done kf2->kf3 (chat 31761c48dc1fb32d): white dye spreads from the neck through all the brain's arteries, glass head lights up like an angiogram; ends on kf3. 720x1280, 11.2 s capture -> H.264 24 fps. examples/brain-story-MONIZ/ai/c2.mp4. First try (no new chat id) said 'I encountered an error'.",
-  "gemini_clip3": "done Tue ~22:00 in Motaz's own Chrome (Claude in Chrome, he asked for it in chat) after 3 failed tries in the built-in browser: chat 70bcb469a2d13217, kf3->kf4 uploaded with file_upload, push-in through the white arteries to one artery curving around a small gray lump with faint red edge; ends on kf4. Moved via built-in pane MediaRecorder capture. 720x1280, 10.2 s, H.264 24 fps. examples/brain-story-MONIZ/ai/c3.mp4"
+  "gemini_clip3": "done Tue ~22:00 in Motaz's own Chrome (Claude in Chrome, he asked for it in chat) after 3 failed tries in the built-in browser: chat 70bcb469a2d13217, kf3->kf4 uploaded with file_upload, push-in through the white arteries to one artery curving around a small gray lump with faint red edge; ends on kf4. Moved via built-in pane MediaRecorder capture. 720x1280, 10.2 s, H.264 24 fps. examples/brain-story-MONIZ/ai/c3.mp4",
+  "step2_start": "STEP 2 run Wed 2026-11-25 21:00 Hebron (cloud + built-in browser tools present).",
+  "gemini_clips_4_6": "NOT made: Gemini shows 'Your Google AI Pro subscription ended' and 'Create video' has a lock icon (Wed ~21:02). Video uses clips 1-3 + keyframe stills kf5, kf6, kf7 with slow zoom.",
+  "5_video": "done videos/2026-11-26-MONIZ.mp4 (49.9 s, 1080x1920, -14.8 LUFS, no black/freeze; frames checked by eye). Source examples/brain-story-MONIZ/src/Video.tsx. Fixes applied: DYE on screen at 0 s, picture change every ~2 s in first 6 s, 1/2 question card only at 42 s.",
+  "5c_carousel_made": "done banners/2026-11-26-MONIZ-carousel/s1-6.jpg: slide 1 = Gemini (free) image chat b079f989cd9bcb08 cracked medal (examples/brain-story-MONIZ/ai/car1.jpg); 2nd image errored ('I encountered an error'), so slides 2-3 use keyframes kf3 and kf7 (car2/car3). Facebook reel videos/2026-11-26-MONIZ-slidereel.mp4 (16 s)."
  },
  "files": {
   "script": "progress/2026-11-26-MONIZ-script.txt",
@@ -27,7 +31,10 @@
   "cover": "banners/2026-11-26-MONIZ-cover-9x16.jpg",
   "cover_src": "examples/brain-story-MONIZ/src/Cover.tsx (+CoverRoot.tsx)",
   "cover_assets": "examples/brain-story-MONIZ/public/ (cover_bg.jpg = kf3, moniz.jpg)",
-  "gemini_clips": "examples/brain-story-MONIZ/ai/c1.mp4, c2.mp4, c3.mp4"
+  "gemini_clips": "examples/brain-story-MONIZ/ai/c1.mp4, c2.mp4, c3.mp4",
+  "video": "videos/2026-11-26-MONIZ.mp4",
+  "slidereel": "videos/2026-11-26-MONIZ-slidereel.mp4",
+  "carousel": "banners/2026-11-26-MONIZ-carousel/s1-6.jpg"
  },
  "why_this_one": "Imaging series (1884 no scans -> 1918 air -> 1927 dye) with a strong twist: Nobel for lobotomy, not for angiography. Clear 3D zoom (arteries light up white).",
  "hooks": [
