@@ -4,7 +4,13 @@
  "format": "BRAIN STORY #12 (v4 standard)",
  "topic": "Harvey Cushing + William Bovie: the electric knife that stopped brain-surgery bleeding (1 Oct 1926) ... and Bovie sold the rights for 1 dollar",
  "why_this_one": "Imaging/technique series (1884 Godlee, 1918 Dandy air, 1927 Moniz dye) goes on with 1926 = the tool still in every OR; neurosurgery topic (best topic); clear twist (sold for 1 dollar); real public-domain photos of both men.",
- "files": {"script": "progress/2026-11-29-BOVIE-script.txt"},
+ "files": {
+  "script": "progress/2026-11-29-BOVIE-script.txt",
+  "voice": "progress/2026-11-29-BOVIE-voice.mp3",
+  "voice_take1": "progress/2026-11-29-BOVIE-voice-take1.mp3",
+  "voice_take2": "progress/2026-11-29-BOVIE-voice-take2.mp3",
+  "words": "progress/2026-11-29-BOVIE-words.json"
+ },
  "facts": [
   "1 Oct 1926, Peter Bent Brigham Hospital, Boston: Cushing first used Bovie's electrosurgical device (a cranial myeloma / head mass) - Meals et al. Clin Orthop Relat Res 2010 doi:10.1007/s11999-009-1221-z (open access, read in full) + Wikipedia Electrosurgery (cites Cushing & Bovie, Surg Gynecol Obstet 1928;47:751-84)",
   "Bleeding was the big obstacle; Cushing + Bovie conquered it in 1926 - Voorhees et al. J Neurosurg 2005;102(4):745-52 doi:10.3171/jns.2005.102.4.0745 (PubMed abstract) + Wikipedia William T. Bovie",
@@ -37,7 +43,8 @@
   "0_skip_check": "done: no progress file, no plan, no posts for 2026-11-29",
   "0b_plan": "done: PLAN.md, analytics/lessons.md (fixes 2026-11-24), Moniz progress read",
   "1_topic": "done (facts above, 2+ sources each)",
-  "2_script": "done progress/2026-11-29-BOVIE-script.txt (137 words)"
+  "2_script": "done progress/2026-11-29-BOVIE-script.txt (137 words)",
+  "3_voice": "done take 2 of 2 (eleven_v4, MY VOICE qEQg0lkJlnVX0nBkV1vj, flow LucGgVBXZVw4p2w0yCGX, 2x884 credits), 54.9 s (take 1 = 58.3 s kept). Scribe word times progress/2026-11-29-BOVIE-words.json for captions. Note: 54.9 s is above the 45-50 s target; STEP 2 may trim pauses lightly (never speed up)."
  },
  "step1_done": false,
  "all_done": false
