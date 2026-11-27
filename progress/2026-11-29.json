@@ -51,8 +51,10 @@
   "2_script": "done progress/2026-11-29-BOVIE-script.txt (137 words)",
   "3_voice": "done take 2 of 2 (eleven_v4, MY VOICE qEQg0lkJlnVX0nBkV1vj, flow LucGgVBXZVw4p2w0yCGX, 2x884 credits), 54.9 s (take 1 = 58.3 s kept). Scribe word times progress/2026-11-29-BOVIE-words.json for captions. Note: 54.9 s is above the 45-50 s target; STEP 2 may trim pauses lightly (never speed up).",
   "4_cover": "done banners/2026-11-29-BOVIE-cover-9x16.jpg (Remotion Cover.tsx; Cushing PD portrait as background since no Gemini keyframe; 'THE ENEMY: BLOOD.', 'The fix? An electric knife... sold for 1 dollar.', drawn $1 coin, BRAIN STORY #12, TRUE CASE 1926, 'CUT + SEAL: WHO BUILT IT?' box at y 1400; nothing in bottom 20%; no AI label; no Canva). Render browser: /opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell",
-  "gemini": "NOT made in STEP 1: the built-in browser tools vanished at ~21:40 Hebron when the computer disconnected from the bridge (and on 11-25 Gemini said AI Pro ended, Create video locked). Push sent to Motaz at once. Keyframe prompts are in plans/2026-11-29.md for STEP 2 or a desktop task."
+  "gemini": "NOT made in STEP 1: the built-in browser tools vanished at ~21:40 Hebron when the computer disconnected from the bridge (and on 11-25 Gemini said AI Pro ended, Create video locked). Push sent to Motaz at once. Keyframe prompts are in plans/2026-11-29.md for STEP 2 or a desktop task.",
+  "photos": "done photos/2026-11-29-BOVIE (cushing_portrait.jpg PD; cushing_theatre_gown.jpg Wellcome CC BY 4.0; bovie_unit_01/02.jpg CC BY-SA 4.0 Jmh2o; CREDITS.txt). Wikimedia 429 most of the night, got them with waits. No women, no blur needed (checked by eye)."
  },
- "step1_done": false,
- "all_done": false
+ "step1_done": true,
+ "all_done": false,
+ "step1_note": "STEP 1 done except the Gemini keyframes + clips (built-in browser lost at ~21:40; AI Pro also ended 11-25). STEP 2: try Gemini keyframes (prompts in plans/2026-11-29.md); if not possible, Half 1 = real photos + Remotion zoom (v3) and say so."
 }

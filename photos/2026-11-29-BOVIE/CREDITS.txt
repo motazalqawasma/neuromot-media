@@ -1,0 +1,5 @@
+cushing_portrait.jpg      = Harvey Cushing, photo. Commons File:HarveyCushing.JPG, public domain (unknown author).
+cushing_theatre_gown.jpg  = Harvey Cushing in theatre gown and gloves. Commons File:Portrait of H. Cushing, in theatre gown and gloves Wellcome M0009951.jpg, Wellcome Collection, CC BY 4.0.
+bovie_unit_01.jpg / bovie_unit_02.jpg = first-generation Bovie electrosurgical unit, Musee Andre Vesale, Montigny-le-Tilleul. Commons, photo Jmh2o, CC BY-SA 4.0.
+Checked by eye: no women in any photo, no blur needed.
+Not downloaded (Wikimedia 429): Commons File:Dr Harvey Cushing Edmund Tarbell 1908.jpeg (public domain painting) - optional.
