@@ -9,7 +9,12 @@
   "voice": "progress/2026-11-29-BOVIE-voice.mp3",
   "voice_take1": "progress/2026-11-29-BOVIE-voice-take1.mp3",
   "voice_take2": "progress/2026-11-29-BOVIE-voice-take2.mp3",
-  "words": "progress/2026-11-29-BOVIE-words.json"
+  "words": "progress/2026-11-29-BOVIE-words.json",
+  "cover": "banners/2026-11-29-BOVIE-cover-9x16.jpg",
+  "cover_src": "examples/brain-story-BOVIE/src/Cover.tsx (+CoverRoot.tsx)",
+  "cover_assets": "examples/brain-story-BOVIE/public/cushing.jpg",
+  "photos": "photos/2026-11-29-BOVIE/",
+  "plan": "plans/2026-11-29.md"
  },
  "facts": [
   "1 Oct 1926, Peter Bent Brigham Hospital, Boston: Cushing first used Bovie's electrosurgical device (a cranial myeloma / head mass) - Meals et al. Clin Orthop Relat Res 2010 doi:10.1007/s11999-009-1221-z (open access, read in full) + Wikipedia Electrosurgery (cites Cushing & Bovie, Surg Gynecol Obstet 1928;47:751-84)",
@@ -44,7 +49,9 @@
   "0b_plan": "done: PLAN.md, analytics/lessons.md (fixes 2026-11-24), Moniz progress read",
   "1_topic": "done (facts above, 2+ sources each)",
   "2_script": "done progress/2026-11-29-BOVIE-script.txt (137 words)",
-  "3_voice": "done take 2 of 2 (eleven_v4, MY VOICE qEQg0lkJlnVX0nBkV1vj, flow LucGgVBXZVw4p2w0yCGX, 2x884 credits), 54.9 s (take 1 = 58.3 s kept). Scribe word times progress/2026-11-29-BOVIE-words.json for captions. Note: 54.9 s is above the 45-50 s target; STEP 2 may trim pauses lightly (never speed up)."
+  "3_voice": "done take 2 of 2 (eleven_v4, MY VOICE qEQg0lkJlnVX0nBkV1vj, flow LucGgVBXZVw4p2w0yCGX, 2x884 credits), 54.9 s (take 1 = 58.3 s kept). Scribe word times progress/2026-11-29-BOVIE-words.json for captions. Note: 54.9 s is above the 45-50 s target; STEP 2 may trim pauses lightly (never speed up).",
+  "4_cover": "done banners/2026-11-29-BOVIE-cover-9x16.jpg (Remotion Cover.tsx; Cushing PD portrait as background since no Gemini keyframe; 'THE ENEMY: BLOOD.', 'The fix? An electric knife... sold for 1 dollar.', drawn $1 coin, BRAIN STORY #12, TRUE CASE 1926, 'CUT + SEAL: WHO BUILT IT?' box at y 1400; nothing in bottom 20%; no AI label; no Canva). Render browser: /opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell",
+  "gemini": "NOT made in STEP 1: the built-in browser tools vanished at ~21:40 Hebron when the computer disconnected from the bridge (and on 11-25 Gemini said AI Pro ended, Create video locked). Push sent to Motaz at once. Keyframe prompts are in plans/2026-11-29.md for STEP 2 or a desktop task."
  },
  "step1_done": false,
  "all_done": false
