@@ -1,0 +1,44 @@
+{
+ "date": "2026-11-29",
+ "run": "STEP 1 run Fri 2026-11-27 21:30 Hebron (cloud; built-in browser tools present). VIDEO_DATE = 2026-11-29 (Sun). No plans/2026-11-29.md existed, story picked in this run. Taplio: free calls used up (no idea search).",
+ "format": "BRAIN STORY #12 (v4 standard)",
+ "topic": "Harvey Cushing + William Bovie: the electric knife that stopped brain-surgery bleeding (1 Oct 1926) ... and Bovie sold the rights for 1 dollar",
+ "why_this_one": "Imaging/technique series (1884 Godlee, 1918 Dandy air, 1927 Moniz dye) goes on with 1926 = the tool still in every OR; neurosurgery topic (best topic); clear twist (sold for 1 dollar); real public-domain photos of both men.",
+ "files": {"script": "progress/2026-11-29-BOVIE-script.txt"},
+ "facts": [
+  "1 Oct 1926, Peter Bent Brigham Hospital, Boston: Cushing first used Bovie's electrosurgical device (a cranial myeloma / head mass) - Meals et al. Clin Orthop Relat Res 2010 doi:10.1007/s11999-009-1221-z (open access, read in full) + Wikipedia Electrosurgery (cites Cushing & Bovie, Surg Gynecol Obstet 1928;47:751-84)",
+  "Bleeding was the big obstacle; Cushing + Bovie conquered it in 1926 - Voorhees et al. J Neurosurg 2005;102(4):745-52 doi:10.3171/jns.2005.102.4.0745 (PubMed abstract) + Wikipedia William T. Bovie",
+  "Tumours previously deemed inoperable could now be operated - Voorhees 2005 + Wikipedia Bovie",
+  "Cushing popped his head into Bovie's Harvard lab and asked about stopping blood loss - Bovie's own words quoted in Meals 2010; Bovie physicist/biophysics at Harvard (Meals + Wikipedia)",
+  "One machine with both cutting and coagulating currents - Bovie's letter quoted in Meals 2010; 'sever and seal' (Meals)",
+  "Cushing never learned the physics - Voorhees abstract + Meals (driver who need not understand internal combustion)",
+  "Bovie sold the rights for 1 dollar - Meals 2010 + paper title 'William T. Bovie - a Man Who Sold His Invention Electrocautery for 1 Dollar' (ResearchGate)",
+  "Surgeons still call it 'the Bovie' - Meals 2010 (eponymous equipment) + Wikipedia",
+  "Cushing = father of neurosurgery - Voorhees + Wikipedia",
+  "NOT used (one source only): current through retractor to Cushing's headlight, ether ignited (Carter 2013 via Wikipedia)"
+ ],
+ "hooks": [
+  "1926. Brain surgery's big enemy was BLOOD. Then a physicist built an electric knife... and sold it for 1 DOLLAR. (picked)",
+  "The tool in almost every operating room today... was sold for 1 dollar.",
+  "Cut the brain, and it bleeds. In 1926 two men fixed that with electricity."
+ ],
+ "question_candidates": [
+  "Your idea saves lives: 1 = give it away, 2 = sell it and build the next one (picked: real two costs, splits, 1-second answer, tied to the 1 dollar twist, no own illness)",
+  "Who matters more: 1 = the surgeon, 2 = the engineer behind him? (backup)",
+  "Would you sell your best idea for 1 dollar? 1 = yes, 2 = no (rejected: almost everyone says no)"
+ ],
+ "question": "Your idea saves lives: 1 = give it away, 2 = sell it and build the next one?",
+ "first_comment": "Your idea saves lives: 1 = give it away, 2 = sell it and build the next one? I'll post my own answer with the reason tonight.",
+ "save_line": "Save that word: electrosurgery.",
+ "share_line": "Send this to your friend with the million-dollar idea.",
+ "retention_notes": "Twist (1 dollar) promised in the first sentence + 'Wait for it' by ~5 s; BLOOD + 1 DOLLAR on screen at second 1; question only at the end (fix 2026-11-24). 137 words (Moniz 132 = 49 s).",
+ "citation": "Cushing H, Bovie WT. Electro-surgery as an aid to the removal of intracranial tumors. Surg Gynecol Obstet. 1928;47:751-84. Review: Voorhees JR et al. J Neurosurg. 2005;102(4):745-52. doi:10.3171/jns.2005.102.4.0745",
+ "steps": {
+  "0_skip_check": "done: no progress file, no plan, no posts for 2026-11-29",
+  "0b_plan": "done: PLAN.md, analytics/lessons.md (fixes 2026-11-24), Moniz progress read",
+  "1_topic": "done (facts above, 2+ sources each)",
+  "2_script": "done progress/2026-11-29-BOVIE-script.txt (137 words)"
+ },
+ "step1_done": false,
+ "all_done": false
+}
